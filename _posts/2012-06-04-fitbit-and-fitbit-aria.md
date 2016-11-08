@@ -1,0 +1,18 @@
+---
+layout: post
+title: Fitbit and Fitbit Aria
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta: {}
+---
+
+I got my Fitbit a few months ago. Ordered on the day that they announced the Fitbit Aria scale, which I pre-ordered at the same time. I decided to just use the Fitbit to track, without trying to make any big changes, until the Aria arrived.
+
+ It is sort of funny. I mean, I knew I didn't get enough exercise, but the level of activity that I do get, compared to what I *should* be getting is sort of eye-opening. As far as my Fitbit is concerned, a Saturday trip out shopping at Chinook Mall is the *best activity ever*. WTF? 
+ So, 2 weeks ago (last Friday) my Aria scale finally arrived. I had a couple problems getting it set up with the Mac app, but the alternate "setup using browser" worked just fine. My husband also wanted to try, so I set up an additional user and invited him. First (small) challenge was that the Aria is reading my weight about 5 lbs up from where our old, manual scale was. Not a big problem (it's all just relative, right?), but since I'd already used the manual scale reading on the Fitbit site, it was like I'd instantly gained 5 lbs. :-p This also caused problems for the scale when attempting to identify the "new user" (my husband). It kept calling him "Guest". After he tweaked his initial weight up, it figured things out and we were both set. At this point, we also set up our weight targets and plan intensity. I'm using the "Kinda Hard", with an intermediate weight goal that I'd like to achieve by the end of summer. Assuming I get there, I'll set a new intermediate goal, and keep going. 
+ Now, I started tracking everything I ate in the Fitbit app, as well as "additional activities". While gardening doesn't seem to add up to a lot of steps, it can be a lot of work, so I made sure to track gardening as an activity. In the Fitbit app, your base metabolic rate + your activity (steps + other stuff) all adds up to the number of calories you are burning. It balances that against your weight loss target, and figures out your caloric allowance for the day. The more activities I do, the more calories I'm allowed to eat. If I am less active, then I get less calories... sorta simple, but very effective. 
+ As I go through the day, logging my calories, my activity levels are updated whenever the Fitbit is in sync range of it's little docking station. The caloric allowance adjusts up or down as I go. If I go over, I get an "oops, you'd better do some more activities". If I stay below the range, I can treat myself to an extra snack. 
+ That's about it. It's been 2 weeks, and I've lost 5 lbs. Some days are harder than others. If you are going to go out for restaurant meals, be prepared to skimp on other days or really boost your activity level to counteract all those calories. Restaurant portions are huge. On one occasion, after checking the calories on the Boston Pizza menu, I ordered a pasta dish with way more calories than I was allowed, but then only ate half, and took the rest home for another meal. For me, the real benefit here has been the give and take of activities and caloric balance. There is immediate feedback. On a couple days where I went over my caloric allowance, the scale the next morning reflected the weight gain. And on the days where I've been good, and stayed within the bounds, the next morning I see the weight loss. That consistent feedback loop is the make-or-break feature, as far as I am concerned. So far, I'd have to say I am pleased with my Fitbit and Fitbit Aria. I'll try and post regular updates as I go, or if anything changes.
