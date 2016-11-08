@@ -12,9 +12,13 @@ collections:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 210A 12A Street North
+  - line: Suite 209
+  - line: Lethbridge AB, CANADA, T1H 2J1
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
+# Output
+permalink: /blog/:title/
