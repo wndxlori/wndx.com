@@ -1,33 +1,13 @@
 # Team names, titles and social links
-- name: Kay Garland
+- name: Lori Olson
   pic: 1
-  position: Lead Designer
+  position: Lead Consultant
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/wndxlori
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/loriolson
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://ca.linkedin.com/in/loriolson
     - title: google-plus
-      url: #
+      url: https://plus.google.com/u/0/+LoriOlson
