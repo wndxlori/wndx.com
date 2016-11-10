@@ -18,16 +18,19 @@
                             <p>{{ project.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ project.client }}</a>
+                                    <strong>
+                                        <a href="{{ project.client_url }}">{{ project.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ project.project-date }}</a>
-                                    </strong>
+                                    <span class="text-primary">
+                                        {{ project.project-date }}
+                                    </span>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ project.category }}</a>
-                                    </strong>
+                                    <span class="text-primary">
+                                        {{ project.category }}
+                                    </span>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
