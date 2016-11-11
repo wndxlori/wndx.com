@@ -1,11 +1,13 @@
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 - title: twitter
-  url: http://twitter.com/jekyllrb
+  url: https://twitter.com/wndxlori
 - title: facebook
-  url:
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
+  url: https://www.facebook.com/loriolson
+- title: linkedin
+  url: https://ca.linkedin.com/in/loriolson
+- title: google-plus
+  url: https://plus.google.com/u/0/+LoriOlson
 - title: bitbucket
-  url: http://bitbucket.org/jekyll
+  url: https://bitbucket.org/wndx/
 - title: github
-  url: http://github.com/jekyll
+  url: http://github.com/wndxlori
