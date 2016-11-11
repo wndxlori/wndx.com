@@ -6,7 +6,7 @@ modal-id: 4
 img: rushhour.png
 thumbnail: rushhour-thumbnail.png
 alt: image-alt
-project-date: 2012
+project-date: 2011-2012
 client: Intellog
 client_url: http://app.e.intellog.com/RushHour/php/outputRushHour.php
 category: Web Application

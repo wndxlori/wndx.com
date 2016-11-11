@@ -6,7 +6,7 @@ modal-id: 5
 img: etriever.png
 thumbnail: etriever-thumbnail.png
 alt: eTriever Web Map
-project-date: 2006-2012
+project-date: 2005-2012
 client: Labrador Technologies
 client_url: https://etriever.com
 category: Web Application
