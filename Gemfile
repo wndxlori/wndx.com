@@ -8,10 +8,5 @@ group "jekyll_plugins" do
   gem "jekyll-compose"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
+  gem "octopress-paginate"
 end
-#gem "jekyll-gist"
-
-#group :jekyll_plugins do
-#  gem 'jekyll-picture-tag', '~> 0.3.0'
-#  gem 'jekyll-haml', '~> 0.1.4'
-#end
