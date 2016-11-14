@@ -3,7 +3,7 @@ GEM
   specs:
     colorator (0.1)
     ffi (1.9.14)
-    jekyll (3.0.5)
+    jekyll (3.1.6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -12,6 +12,7 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-feed (0.5.1)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -33,7 +34,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.0.3)
+  jekyll (~> 3.1.0)
+  jekyll-feed
 
 BUNDLED WITH
    1.13.6
