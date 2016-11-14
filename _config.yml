@@ -22,3 +22,18 @@ highlighter: rouge
 
 # Output
 permalink: /blog/:title/
+
+# Archives
+jekyll-archives:
+  enabled:
+    - year
+    - categories
+    - tags
+  layouts:
+    year: year-archive
+    category: category-archive
+    tag: tag-archive
+  permalinks:
+    year: '/archives/:year/'
+    tag: '/archives/tag/:name/'
+    category: '/archives/category/:name/'

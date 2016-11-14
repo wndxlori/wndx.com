@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", '~> 3.1.0'
 
 group "jekyll_plugins" do
+  gem "jekyll-archives"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
 end
