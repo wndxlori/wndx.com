@@ -5,8 +5,8 @@ gem "jekyll", '~> 3.1.0'
 
 group "jekyll_plugins" do
   gem "jekyll-feed"
+  gem "jekyll-sitemap"
 end
-#gem "jekyll-sitemap"
 #gem "jekyll-gist"
 
 #group :jekyll_plugins do
