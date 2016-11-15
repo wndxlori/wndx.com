@@ -1,0 +1,28 @@
+{% if paginator.previous_page %}
+  {% assign previous_class = "previous" %}
+{% else %}
+  {% assign previous_class = "previous disabled" %}
+{% endif %}
+
+{% if paginator.next_page %}
+  {% assign next_class = "next" %}
+{% else %}
+  {% assign next_class = "next disabled" %}
+{% endif %}
+
+<!-- Pager links -->
+<nav aria-label="Page Navigation">
+  <ul class="pager">
+    <li class="{{ previous_class }}">
+      <a href="{{ paginator.previous_page_path }}">
+        <span aria-hidden="true">&larr;</span>Previous
+      </a>
+    </li>
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <li class="{{ next_class }}">
+      <a href="{{ paginator.next_page_path }}">
+        Next <span aria-hidden="true">&rarr;</span>
+      </a>
+    </li>
+  </ul>
+</nav>
