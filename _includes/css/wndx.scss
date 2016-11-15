@@ -1,0 +1,62 @@
+//.navbar-inverse {
+//    background-color: #{{ site.data.template.color.secondary }};
+//}
+
+.navbar-inverse .navbar-brand {
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:active,
+.navbar-inverse .navbar-brand.active {
+    color: #{{ site.data.template.color.secondary }};
+}
+
+.navbar-inverse .navbar-collapse {
+    border-color: rgba(0,0,0,.02);
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary }};
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #{{ site.data.template.color.secondary }};
+}
+
+.navbar-inverse .nav li a {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.secondary }};
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fff;
+    -webkit-transition: all ease .35s;
+    -moz-transition: all ease .35s;
+    transition: all ease .35s;
+}
+
+.navbar-inverse .nav li a:hover,
+.navbar-inverse .nav li a:focus {
+    outline: 0;
+    color: #{{ site.data.template.color.secondary }};
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #fff;
+    background-color: #{{ site.data.template.color.secondary }};
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #{{ site.data.template.color.secondary }};
+}
+
