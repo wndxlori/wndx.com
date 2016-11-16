@@ -172,4 +172,4 @@ And before anyone accuses me of not practicing what I preach... I was responsibl
 , with a certain amount of useful detail, like this:
   
        [caption id="" align="alignnone" width="2446.0"]
-![WNDX Reference Manual](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29313e4b04687d9db349f_52a251b4e4b0e77c563c2387_1386369469237_Screen+Shot+2013-12-06+at+3.25.00+PM.png.00+PM.png_) WNDX Reference Manual[/caption]
+![WNDX Reference Manual](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29313e4b04687d9db349f_52a251b4e4b0e77c563c2387_1386369469237_Screen+Shot+2013-12-06+at+3.25.00+PM.png.00+PM.png) WNDX Reference Manual[/caption]

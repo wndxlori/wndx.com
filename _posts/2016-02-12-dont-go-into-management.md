@@ -10,8 +10,8 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '173'
+image:
+
 ---
 
 It was quite a while back, but I saved this tweet, because I thought I could write up a fairly epic blog post, related to the topic, so here goes.

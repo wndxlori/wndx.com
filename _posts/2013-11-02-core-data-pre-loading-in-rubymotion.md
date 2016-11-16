@@ -15,7 +15,7 @@ meta:
   _thumbnail_id: '147'
 ---
 
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_558d970de4b0dba0791c4cfd_1435342609853_preload.jpg_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_558d970de4b0dba0791c4cfd_1435342609853_preload.jpg)
   
 
 

@@ -10,7 +10,7 @@ meta:
   _thumbnail_id: '171'
 ---
 
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5618260ee4b0ae8c3b9379b8_1444423182939__img.png_)](http://ladieslearningcode.com/girlscodeday/)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5618260ee4b0ae8c3b9379b8_1444423182939__img.png)](http://ladieslearningcode.com/girlscodeday/)
   
 
 
@@ -61,7 +61,7 @@ The learners will need to bring a laptop to work on to the workshop.  If you don
 This workshop is BYOL, so each parent or guardian/youth pair will need to supply their own lunch as well.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_561826b3e4b0d66626b611a1_1444423347967__img.png_)](https://www.eventbrite.ca/e/lethbridge-national-girls-learning-code-day-for-girls-ages-8-13-their-parentguardian-tickets-18337897144)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_561826b3e4b0d66626b611a1_1444423347967__img.png)](https://www.eventbrite.ca/e/lethbridge-national-girls-learning-code-day-for-girls-ages-8-13-their-parentguardian-tickets-18337897144)
   
 
 

@@ -23,7 +23,7 @@ Back in January, I published my goals for 2015
 [here](http://www.wndx.com/blog/2014-year-in-review-2015-goals), and the fifth goal was the establishment of a Lethbridge chapter for Ladies Learning Code, and to host at least one workshop here in Lethbridge in 2015.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55ce68dbe4b083e448c3079b_1439590623705__img.png_)](http://ladieslearningcodeday.com/)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55ce68dbe4b083e448c3079b_1439590623705__img.png)](http://ladieslearningcodeday.com/)
   
 
 

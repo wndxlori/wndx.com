@@ -1,7 +1,7 @@
 ---
 layout: archive
+ads: false
 ---
-
 <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
@@ -16,15 +16,10 @@ layout: archive
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>
-		<div class="inner-wrap">
+		<div class="inner-wrap text-justify">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
-				<footer class="page-footer">
-					{% if page.categories %}{% include page-author.html %}{% endif %}
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}
 				</aside>

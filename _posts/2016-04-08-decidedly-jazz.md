@@ -2,7 +2,7 @@
 layout: post
 title: Decidedly Jazz
 categories:
-- training
+- workshops
 tags:
 - development
 - mentor
@@ -10,8 +10,8 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _thumbnail_id: '176'
+image:
+  featured: lori_drums.jpg
 ---
 Recently came across a discussion on Twitter about how programming 
 was part math and part jazz.  The jazz part, of course, is about 

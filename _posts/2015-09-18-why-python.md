@@ -18,7 +18,7 @@ I've been hearing a number of questions, in relation to the National Learn to Co
 [registration page](https://www.eventbrite.ca/e/lethbridge-data-insights-with-python-for-beginners-on-september-26th-tickets-17610786336).
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55fc85d4e4b0347ac88d07d7_1442612693898__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55fc85d4e4b0347ac88d07d7_1442612693898__img.png)
   
 
 
@@ -56,7 +56,7 @@ general purpose programming language.  What does that mean?  It means that you c
 [Sphero](https://github.com/faulkner/sphero) robot, or you can crunch numbers like a data scientist!
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55fc861ee4b04c74c508a765_1442612767726__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55fc861ee4b04c74c508a765_1442612767726__img.png)
   
 
 

@@ -13,7 +13,7 @@ I had the opportunity last week to teach one of the Calgary based
 [Girls Learning Code workshops](http://ladieslearningcode.com/chapters/calgary/) for the first time.  It was quite a learning experience, for everyone, so I thought I'd write up some of the fun things we learned.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54f11ecbe4b0376cee6be391_1425088215970__img.png_)](http://calgary.ladieslearningcode.com)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54f11ecbe4b0376cee6be391_1425088215970__img.png)](http://calgary.ladieslearningcode.com)
   
 
 
@@ -64,7 +64,7 @@ All in all, I was happy that we prepared so well.  The workshop was well attende
 [Tim](https://twitter.com/timuruski), was able to quickly re-format enough copies for all the Windows-based students to use.  We did run out of time at the end, leaving the final exercise as "homework", but got our Sphero demo to run, just about the time that all the parents showed up to take the kids home.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54f11e85e4b0d588cecaff91_1425088166782__img.jpg_)](http://calgary.ladieslearningcode.com)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54f11e85e4b0d588cecaff91_1425088166782__img.jpg)](http://calgary.ladieslearningcode.com)
   
 
 

@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>The WNDX Group</title>
+    <link>http://www.wndx.com</link>
+    <pubDate>Thu, 20 Dec 2012 04:12:31 +0000</pubDate>
+    <description>Practical Software Development</description>
+    <language>en-CA</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>55222298</wp:author_id>
+      <wp:author_login>lori@wndx.com</wp:author_login>
+      <wp:author_email>lori@wndx.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Lori Olson]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Lori]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Olson]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>1306168273</wp:author_id>
+      <wp:author_login>lori.olson@me.com</wp:author_login>
+      <wp:author_email>lori.olson@me.com</wp:author_email>
+      <wp:author_display_name><![CDATA[lori.olson@me.com]]></wp:author_display_name>
+      <wp:author_first_name />
+      <wp:author_last_name />
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Business - Consulting Services]]></wp:cat_name>
+      <wp:category_nicename>Business-ConsultingServices</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/projects/</link>
+      <title>Portfolio</title>
+      <pubDate>Thu, 22 Aug 2013 19:39:59 +0000</pubDate>
+      <content:encoded><![CDATA[[caption id="" align="alignnone" width="2500.0"]<a href="https://www.welltriever.com/wells/100051304720W400"  target="_blank" ><img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/5213a2d1e4b0da5fb6476378/1432106103873/Screen+Shot+2013-08-20+at+11.08.42+AM.png?format=original" alt="wellTriever - well page"/></a> wellTriever - well page[/caption] 
+  
+
+<h2>wellTriever</h2><h3><em><a href="https://lori-olson-cwsl.squarespace.com/config/#">Labrador Technologies</a></em></h3><p>wellTriever provides industry leading oil &amp; gas reports and graphs, using premium Canadian well data, on a pay-as-you-go basis. &nbsp;It also provides FREE map access to the over 750,000 wells drilled in Canada.&nbsp;</p><p>The WNDX Group wore many hats on this project, serving as senior architect, development team leader, and project manager, &nbsp;as well as primary contractor for several subcontractors. &nbsp;Working with an entirely remote team, building out the product on Amazon EC2, we were able to continue working and continuously deliver iterations, even through the Calgary Flood of June 2013.</p><h2>Client Portal/Media Cast</h2><h3><em><a href="#">RealGravity</a></em></h3><p>RealGravity provides an integrated video platform for publishing, syndication, and monetization of video assets. &nbsp;The Client Portal enables clients to easily manage their video assets, and Media Cast is the highly available &amp; massively scalable video delivery system.&nbsp;</p>
+  
+       [caption id="" align="alignnone" width="1210.0"]<a href="http://realgravity.com"  target="_blank" ><img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50e20363e4b015296ce4c32c/1356989284830/Screen+Shot+2012-12-31+at+2.27.37+PM.png?format=original" alt="Client Portal Dashboard"/></a> Client Portal Dashboard[/caption] 
+  
+
+
+ 
+   <iframe width="640" height="360" src="http://www.youtube.com/embed/CGKbgtkDDWY?feature=oembed&amp;wmode=opaque&amp;enablejsapi=1" frameborder="0" allowfullscreen=""></iframe>
+ 
+<h2>eTriever</h2><h3><em><a href="#">Labrador Technologies</a></em></h3><p>eTriever is a fast, web-based oil and gas data retriever and visualizer available on for Desktop and Tablet. Its intuitive user interface allows oil &amp; gas professionals to swiftly sift through IHS’ vast supplies of oil and gas data to make informed decisions quickly.</p><p>&nbsp;</p><h2>RushHour</h2><h3><em><a href="#">Intellog</a></em></h3><p>RushHour&nbsp;is a simple, powerful web application used to organize, coordinate and visualize your business. &nbsp;Visualizing your business is accomplished by&nbsp;RushHour&nbsp;automatically extracting key data from the jobs and creating compelling charts and reports. Visualization takes abstract information and turns it into actionable knowledge. Better knowledge of your business means better, faster decisions enabling you to accomplish more and waste less.</p>
+  
+       [caption id="" align="alignnone" width="1169.0"]<a href="http://app.e.intellog.com/RushHour/php/outputRushHour.php"  target="_blank" ><img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50e20151e4b0395512a1ab7e/1356988755294/Screen+Shot+2012-12-31+at+2.18.24+PM.png?format=original" alt="RushHour - Calendar View"/></a> RushHour - Calendar View[/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="633.0"]<a href="http://www.athentech.com/photoshop-plug-in.html"  target="_blank" ><img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50dd2498e4b015296cd8e1b4/1356670106891/ps_content_img.jpg?format=original" alt="Perfectly Clear Photoshop Plugin"/></a> Perfectly Clear Photoshop Plugin[/caption] 
+  
+
+<h2>Perfectly Clear Photoshop Plugin</h2><p></p><p>(for Mac)</p><h3><em><a href="#">Athentech</a></em></h3><p></p><p>Perfectly Clear Photoshop Plug-in instantly gives you one click correction to perfection. Simply load the Plug-in and your selected photo will be automatically corrected.&nbsp; By applying over 10 patented corrections and 10 years of scientific research, Perfectly Clear saves you time while producing accurately beautiful photos.</p>]]></content:encoded>
+      <wp:post_name>projects</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Thu, 22 Aug 2013 19:31:17 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">About Lori</h1><p><font color="#111111"><b>Founder of The WNDX Group</b></font></p><p><font color="#111111"><b></b></font>A software consultancy that specializes in Ruby on Rails, iOS/Mac Development, and Software Training.<br></p><p>Got my start in software straight out of school, a B.Sc. in Computer Science from <a href="http://www.ucalgary.com" data-link-type="external" target="_blank">University of Calgary</a>, working in the Calgary oil patch. &nbsp;Since then, I've developed software for the health, finance, and entertainment industries, as well as products used by other software developers.</p><p>When I'm not developing applications, I enjoying speaking at meetups and conferences, both local and abroad. &nbsp;I also enjoy teaching, and currently offer 2 Ruby on Rails based training workshops.</p><p></p><p><font color="#111111"><b>And the Interwebs say...</b></font></p><p>@wndxlori&nbsp;is more than packets in the ethernet. She is an awesome programmer who is funny on twitter. -- <em>@cjewel on <a href="https://twitter.com/cjewel/status/282244741507194881" data-link-type="external" target="_blank">Twitter</a></em></p><p>Lori is a top flight developer and architect. On the technical side she is one of the most seasoned people I has ever worked with. She has an enormously broad and deep technical background but is still tackles new technologies with enthusiasm. Lori is also a great person to work with because of her direct communication style and honesty. Perhaps most significantly, in an business where acting on the best possible ideas can be pivotal to the success of the product Lori is a great collaborator. Most of the ideas I had while working with Lori were improved after I discussed them with her and she was always open to criticism and improvements of her ideas. - <em><a href="#">Hal Henningsmoen on LinkedIn</a></em></p><p></p><p><font color="#111111"><b><a href="#"></a>Passions</b></font></p><p><font color="#111111"><b></b></font>I am passionate about software craftsmanship, and the application of continuous improvement to software, software developers, and software development teams.<br></p><p>I'm also a card-carrying member of <a href="http://www.devchix.com" data-link-type="external" target="_blank">DevChix</a>, and a teacher at <a href="#">RailsBridge</a>, and a mentor and instructor for <a href="http://ladieslearningcode.com">Ladies Learning Code</a>. &nbsp;Helping to make a career in software development into a more welcoming opportunity for all women is very, very important to me.</p><p>When I'm not working, you'll find me spending time with my husband and my dogs.<br></p>
+
+
+  <ul class="tweet-list" >
+    
+      <li class="tweet clear  " id="582b75ae3f4058a7d18ea00e">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/wndxlori/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/792140211723513856/H96eoXy8_normal.jpg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/wndxlori/">Lori M Olson</a></div>
+          
+          <div class="tweet-text">RT @<a class="tweet-url username" href="https://twitter.com/kwugirl" rel="nofollow">kwugirl</a>: This is really awesome that @<a class="tweet-url username" href="https://twitter.com/mperham" rel="nofollow">mperham</a> credits his wife providing childcare as the main investor in growing @<a class="tweet-url username" href="https://twitter.com/sidekiq" rel="nofollow">sidekiq</a> <a href="https://t.co/Vi0mHepnb6" rel="nofollow">https://t.co/Vi0mHepnb6</a></div>
+          <time class="tweet-timestamp" datetime="2016-11-15"><a target="new" href="https://twitter.com/wndxlori/status/798629724738043905"><span class="timesince" data-date="1479243138000">about an hour ago</span></a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear  " id="582b75ae3f4058a7d18ea00f">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/wndxlori/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/792140211723513856/H96eoXy8_normal.jpg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/wndxlori/">Lori M Olson</a></div>
+          
+          <div class="tweet-text">RT @<a class="tweet-url username" href="https://twitter.com/hypatiadotca" rel="nofollow">hypatiadotca</a>: I grew up in the Glebe. This is heartbreaking. <a href="https://t.co/4EvTRjzOxz" rel="nofollow">https://t.co/4EvTRjzOxz</a></div>
+          <time class="tweet-timestamp" datetime="2016-11-15"><a target="new" href="https://twitter.com/wndxlori/status/798629154144993280"><span class="timesince" data-date="1479243002000">about an hour ago</span></a></time>
+        </div>
+      </li>
+    
+  </ul>
+
+
+
+  <script>Y.use('squarespace-follow-buttons', function(Y) { Y.on('domready', function() { Y.Squarespace.FollowButtonUtils.renderAll(); }); });</script><div class="squarespace-follow-button" data-username="wndxlori"></div>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2295298687749525";
+/* WNDX blog */
+google_ad_slot = "2598367299";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact/</link>
+      <title>Contact</title>
+      <pubDate>Fri, 29 Aug 2014 17:48:14 +0000</pubDate>
+      <content:encoded><![CDATA[<h3>Contact</h3><p>There are a few ways to contact me</p><ol><li><span>I'm @wndxlori on Twitter</span></li><li>Phone: +1 (403) 217-5544</li><li>Email: <a href="mailto:lori@wndx.com">lori@wndx.com</a></li><li>Use the contact form on this page</li></ol><p>If you are looking for one of my workshops, just select the <a href="/workshops">workshops</a> link on this site. &nbsp;If you don't see one scheduled, contact me directly and we can discuss getting something appropriate scheduled.</p><p>Or If you'd like to have me speak at your conference, you can review my past &amp; upcoming talks <a href="/speaking">here</a>.</p><p>Or if you have a development team in need of a mentor, just send me a note, and I will get back to you within 2 business days.</p>&nbsp;
+
+
+
+<div class="form-wrapper" > 
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://lori-olson-cwsl.squarespace.com" method="POST" onsubmit="return (function(form) { Y.use
+    ('squarespace-form-submit', 'node',
+    function (Y) { (new Y.Squarespace.FormSubmit({ formNode: Y.Node(form) })).submit('50d2902fe4b0959a0871a17e', '', 'page-50d2902fe4b0959a0871a132') }); return false;})(this)">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name1" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email2" class="form-item field email required">
+                <label class="title" for="email2-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email2-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text3" class="form-item field text required">
+                <label class="title" for="text3-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text3-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea4" class="form-item field textarea required">
+                <label class="title" for="textarea4-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea4-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="form-button-wrapper">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/blocks/</link>
+      <title>Sample Blocks</title>
+      <pubDate>Tue, 10 Jul 2012 15:25:07 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>Text Blocks</h2><p class="p1">This is a sample of paragraph text created with the text editor. The editor provides a way to <i>emphasize</i> or make a word or phrase <b>strong</b>. Also, you can create a <a href="http://particle-demo.sqsp.com/blocks"><span class="s1">link</span></a> very easily. Headings, lists and quotes are there too.</p><h1>Heading (H1)</h1><h2>Heading (H2)</h2><h3>Heading (H3)</h3><p></p><blockquote>Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras justo odio, dapibus ac facilisis</blockquote>&nbsp;<h2>Embed Blocks</h2>&nbsp;
+ 
+   <blockquote class="twitter-tweet"><p>I always loved this view. Sunlight on the water. It's my favorite spot in the universe. Too bad I nuked it.</p>— Six (@sqsp6_demo) <a href="https://twitter.com/sqsp6_demo/status/184341530687975425" data-datetime="2012-03-26T18:10:20+00:00">March 26, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+
+ 
+   <iframe src="http://player.vimeo.com/video/14835999?wmode=opaque" width="1280" height="720" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+ 
+&nbsp;<h2>Image Blocks</h2>
+  
+      <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50d2902fe4b0959a0871a140/1336754231475/white-stetson-hat.jpg?format=original" alt=""/>
+  
+
+
+  
+      <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50d2902fe4b0959a0871a13f/1336754289562/main.png?format=original" alt=""/>
+  
+
+
+  
+      <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/t/50d2902fe4b0959a0871a13e/1336754378085/wrecking-square.jpg?format=original" alt=""/>
+  
+
+&nbsp;<h2>Tag Cloud</h2>
+
+<ul class="sqs-tagcloud" >
+	
+		<li title="30x500 - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=30x500">
+				<span class="name">30x500</span>
+			</a>
+		</li>
+	
+		<li title="agile - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=agile">
+				<span class="name">agile</span>
+			</a>
+		</li>
+	
+		<li title="book - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=book">
+				<span class="name">book</span>
+			</a>
+		</li>
+	
+		<li title="continuous improvement - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=continuous+improvement">
+				<span class="name">continuous improvement</span>
+			</a>
+		</li>
+	
+		<li title="Core Data - 9" style="font-size: 2.57em;">
+			<a href="/blog?tag=Core+Data">
+				<span class="name">Core Data</span>
+			</a>
+		</li>
+	
+		<li title="coredata - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=coredata">
+				<span class="name">coredata</span>
+			</a>
+		</li>
+	
+		<li title="data - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=data">
+				<span class="name">data</span>
+			</a>
+		</li>
+	
+		<li title="development - 4" style="font-size: 2.11em;">
+			<a href="/blog?tag=development">
+				<span class="name">development</span>
+			</a>
+		</li>
+	
+		<li title="factory_girl - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=factory_girl">
+				<span class="name">factory_girl</span>
+			</a>
+		</li>
+	
+		<li title="gems - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=gems">
+				<span class="name">gems</span>
+			</a>
+		</li>
+	
+		<li title="girls learning code - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=girls+learning+code">
+				<span class="name">girls learning code</span>
+			</a>
+		</li>
+	
+		<li title="goals - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=goals">
+				<span class="name">goals</span>
+			</a>
+		</li>
+	
+		<li title="has_many - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=has_many">
+				<span class="name">has_many</span>
+			</a>
+		</li>
+	
+		<li title="ios - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=ios">
+				<span class="name">ios</span>
+			</a>
+		</li>
+	
+		<li title="iOS - 4" style="font-size: 2.11em;">
+			<a href="/blog?tag=iOS">
+				<span class="name">iOS</span>
+			</a>
+		</li>
+	
+		<li title="ladieslearningcode - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=ladieslearningcode">
+				<span class="name">ladieslearningcode</span>
+			</a>
+		</li>
+	
+		<li title="lethbridge - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=lethbridge">
+				<span class="name">lethbridge</span>
+			</a>
+		</li>
+	
+		<li title="mentor - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=mentor">
+				<span class="name">mentor</span>
+			</a>
+		</li>
+	
+		<li title="nsscotland - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=nsscotland">
+				<span class="name">nsscotland</span>
+			</a>
+		</li>
+	
+		<li title="overage - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=overage">
+				<span class="name">overage</span>
+			</a>
+		</li>
+	
+		<li title="personal - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=personal">
+				<span class="name">personal</span>
+			</a>
+		</li>
+	
+		<li title="productivity - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=productivity">
+				<span class="name">productivity</span>
+			</a>
+		</li>
+	
+		<li title="python - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=python">
+				<span class="name">python</span>
+			</a>
+		</li>
+	
+		<li title="rails - 9" style="font-size: 2.57em;">
+			<a href="/blog?tag=rails">
+				<span class="name">rails</span>
+			</a>
+		</li>
+	
+		<li title="random - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=random">
+				<span class="name">random</span>
+			</a>
+		</li>
+	
+		<li title="relationships - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=relationships">
+				<span class="name">relationships</span>
+			</a>
+		</li>
+	
+		<li title="ripoff - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=ripoff">
+				<span class="name">ripoff</span>
+			</a>
+		</li>
+	
+		<li title="rogers - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=rogers">
+				<span class="name">rogers</span>
+			</a>
+		</li>
+	
+		<li title="ruby - 18" style="font-size: 3em;">
+			<a href="/blog?tag=ruby">
+				<span class="name">ruby</span>
+			</a>
+		</li>
+	
+		<li title="rubymotion - 8" style="font-size: 2.5em;">
+			<a href="/blog?tag=rubymotion">
+				<span class="name">rubymotion</span>
+			</a>
+		</li>
+	
+		<li title="RubyMotion - 5" style="font-size: 2.23em;">
+			<a href="/blog?tag=RubyMotion">
+				<span class="name">RubyMotion</span>
+			</a>
+		</li>
+	
+		<li title="schedule - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=schedule">
+				<span class="name">schedule</span>
+			</a>
+		</li>
+	
+		<li title="survey - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=survey">
+				<span class="name">survey</span>
+			</a>
+		</li>
+	
+		<li title="teams - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=teams">
+				<span class="name">teams</span>
+			</a>
+		</li>
+	
+		<li title="tech - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=tech">
+				<span class="name">tech</span>
+			</a>
+		</li>
+	
+		<li title="uitableviewcontroller - 1" style="font-size: 1.5em;">
+			<a href="/blog?tag=uitableviewcontroller">
+				<span class="name">uitableviewcontroller</span>
+			</a>
+		</li>
+	
+		<li title="wndx - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=wndx">
+				<span class="name">wndx</span>
+			</a>
+		</li>
+	
+		<li title="women in computing - 2" style="font-size: 1.77em;">
+			<a href="/blog?tag=women+in+computing">
+				<span class="name">women in computing</span>
+			</a>
+		</li>
+	
+		<li title="workshop - 5" style="font-size: 2.23em;">
+			<a href="/blog?tag=workshop">
+				<span class="name">workshop</span>
+			</a>
+		</li>
+	
+</ul><h2>Summary Blocks</h2><div class="summary-item-list">
+  <div class="summary-collection-title">Blog</div>
+
+    
+    <div class="summary-item">
+      
+        <a href="/blog/decidedly-jazz"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/57081cbaf850823c2e6caea1/1460150187436/IMG_0632.JPG" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/57081cbaf850823c2e6caea1/1460150187436/IMG_0632.JPG" data-image-dimensions="856x1278" data-image-focal-point="0.5,0.5" alt="Decidedly Jazz"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/decidedly-jazz">Decidedly Jazz</a></div>
+        
+        
+          <time class="timestamp" datetime="2016-04-08"><span class="timesince" data-date="1460149826955">about 7 months ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p><span style="font-size:13px">We use basic building blocks, like musicians do, in order to build programs. These building blocks are called "design patterns". Just like music, we know that programs can be built without using design patterns, but they are generally more pleasing to read and understand if we do use them. These patterns are recognisable to other programmers with the same training and understanding.</span></p><a href="/blog/decidedly-jazz" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+        <a href="/blog/dont-go-into-management"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/56be41310442622c7f42b9ed/1455311366707/" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/56be41310442622c7f42b9ed/1455311366707/" data-image-dimensions="400x400" data-image-focal-point="0.5,0.5" alt="Don't Go Into Management"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/dont-go-into-management">Don't Go Into Management</a></div>
+        
+        
+          <time class="timestamp" datetime="2016-02-12"><span class="timesince" data-date="1455311364941">about 9 months ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p style="margin-left:0px; margin-right:0px">If you end up working as a developer, for any sort of large corporation, it is practically inevitable that you will be pressured to go into management. This is doubly true for women. What? you say... Yup, there is just as serious a gender gap in upper management, to go along with the gender gap in developer roles. The powers that be want to get as big a pool of middle managers as possible to choose from, so they can start filling that gap.</p><p style="margin-left:0px; margin-right:0px">Don't do it. Really, if you like to code, you will probably hate management.</p><a href="/blog/dont-go-into-management" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+</div>]]></content:encoded>
+      <wp:post_name>blocks</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/sample-galleries/</link>
+      <title>Sample Galleries</title>
+      <pubDate>Tue, 10 Jul 2012 15:23:24 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Sample Galleries</h1><div class="image-gallery-wrapper">
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a15c/1341934015950/2178246585_14139d6905_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a160/1341934013518/2178246751_a5124fdbc7_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a15e/1341934015801/2178251071_e5c5575163_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a162/1341933887074/2178253319_8783247885_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a15f/1341934015794/2178256175_7e381dcbd2_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a15d/1341934015825/2179041484_444008a7f8_o.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d2902fe4b0959a0871a138/50d2902fe4b0959a0871a161/1341934012134/2179930812_e09c5298da_o.jpg?format=original" />
+  
+
+</div>]]></content:encoded>
+      <wp:post_name>sample-galleries</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home/</link>
+      <title>The WNDX Group Inc</title>
+      <pubDate>Sat, 22 Dec 2012 00:05:46 +0000</pubDate>
+      <content:encoded><![CDATA[<h3>Ramblings of a software consultant</h3><h3>Ruby on Rails for Real</h3><p></p><div class="summary-item-list">
+  <div class="summary-collection-title">Blog</div>
+
+    
+    <div class="summary-item">
+      
+        <a href="/blog/decidedly-jazz"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/57081cbaf850823c2e6caea1/1460150187436/IMG_0632.JPG" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/57081cbaf850823c2e6caea1/1460150187436/IMG_0632.JPG" data-image-dimensions="856x1278" data-image-focal-point="0.5,0.5" alt="Decidedly Jazz"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/decidedly-jazz">Decidedly Jazz</a></div>
+        
+        
+          <time class="timestamp" datetime="2016-04-08"><span class="timesince" data-date="1460149826955">about 7 months ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p><span style="font-size:13px">We use basic building blocks, like musicians do, in order to build programs. These building blocks are called "design patterns". Just like music, we know that programs can be built without using design patterns, but they are generally more pleasing to read and understand if we do use them. These patterns are recognisable to other programmers with the same training and understanding.</span></p><a href="/blog/decidedly-jazz" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+        <a href="/blog/dont-go-into-management"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/56be41310442622c7f42b9ed/1455311366707/" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/56be41310442622c7f42b9ed/1455311366707/" data-image-dimensions="400x400" data-image-focal-point="0.5,0.5" alt="Don't Go Into Management"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/dont-go-into-management">Don't Go Into Management</a></div>
+        
+        
+          <time class="timestamp" datetime="2016-02-12"><span class="timesince" data-date="1455311364941">about 9 months ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p style="margin-left:0px; margin-right:0px">If you end up working as a developer, for any sort of large corporation, it is practically inevitable that you will be pressured to go into management. This is doubly true for women. What? you say... Yup, there is just as serious a gender gap in upper management, to go along with the gender gap in developer roles. The powers that be want to get as big a pool of middle managers as possible to choose from, so they can start filling that gap.</p><p style="margin-left:0px; margin-right:0px">Don't do it. Really, if you like to code, you will probably hate management.</p><a href="/blog/dont-go-into-management" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+        <a href="/blog/national-girls-learning-code-day-lethbridge-edition"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/561825e0e4b0de0a9243fa38/1444423600899/" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/561825e0e4b0de0a9243fa38/1444423600899/" data-image-dimensions="259x259" data-image-focal-point="0.5,0.5" alt="National Girls Learning Code Day, Lethbridge edition"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/national-girls-learning-code-day-lethbridge-edition">National Girls Learning Code Day, Lethbridge edition</a></div>
+        
+        
+          <time class="timestamp" datetime="2015-10-09"><span class="timesince" data-date="1444423600165">about a year ago</span></time>
+        
+        
+          <div class="summary-excerpt"><h2>What is National Girls Learning Code Day all about?</h2><p>It's about discovering a passion for learning about technology.</p><p>It's about experiencing the satisfaction that comes from being a builder/maker of the web and technology.</p><p>It's about building a simple one page website from scratch to share with friends and family.</p><p>And becoming more confident and self-assured and developing a willingness to try new things.</p><p>This is a beginner level workshop for girls 8-13 years old and their parent/guardian/aunt/older sibling. &nbsp;</p><p><a target="_blank" href="https://www.eventbrite.ca/e/lethbridge-national-girls-learning-code-day-for-girls-ages-8-13-their-parentguardian-tickets-18337897144">National Girls Learning Code Day</a></p><a href="/blog/national-girls-learning-code-day-lethbridge-edition" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+        <a href="/blog/why-python"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/55fc85a6e4b04067a6baf3e4/1442614019694/" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/55fc85a6e4b04067a6baf3e4/1442614019694/" data-image-dimensions="467x361" data-image-focal-point="0.5,0.5" alt="Why Python?"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/why-python">Why Python?</a></div>
+        
+        
+          <time class="timestamp" datetime="2015-09-18"><span class="timesince" data-date="1442612863855">about a year ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p>I've been hearing a number of questions, in relation to the National Learn to Code Day workshop, so I thought I should address those questions in a little more detail</p><a href="/blog/why-python" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+        <a href="/blog/ladies-learning-code-comes-to-lethbridge"><div class="summary-thumbnail content-fill"><img data-src="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/55ce5e19e4b0a1e3b9c32bd5/1439590902831/" data-image="https://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29312e4b04687d9db341b/55ce5e19e4b0a1e3b9c32bd5/1439590902831/" data-image-dimensions="467x361" data-image-focal-point="0.5,0.5" alt="Ladies Learning Code comes to Lethbridge"  /></div></a>
+      
+      <div class="summary-content summary-content-below-thumbnail">
+        
+          <div class="summary-title"><a href="/blog/ladies-learning-code-comes-to-lethbridge">Ladies Learning Code comes to Lethbridge</a></div>
+        
+        
+          <time class="timestamp" datetime="2015-08-14"><span class="timesince" data-date="1439590782764">about a year ago</span></time>
+        
+        
+          <div class="summary-excerpt"><p>That's right, we now have an official Lethbridge Chapter of the Ladies Learning Code, with an <a href="mailto:lethbridge@ladieslearningcode.com">email</a>, and everything.&nbsp;</p><p>To launch this chapter with a BANG, we are holding our first workshop in conjunction with the <a target="_blank" href="http://ladieslearningcodeday.com/">3rd Annual National Learn To Code Day</a>&nbsp;on September 26, 2015. &nbsp;With the help of <a target="_blank" href="https://facebook.com">Facebook</a>, <a target="_blank" href="https://telus.com">Telus</a>, and the <strong>Government of Canada</strong>&nbsp;we'll be teaching <a target="_blank" href="http://ladieslearningcode.com/events/lethbridge/">Python</a>&nbsp;to absolute beginners!</p><a href="/blog/ladies-learning-code-comes-to-lethbridge" class="summary-more-link"></a></div>
+        
+      </div>
+    </div>
+    
+</div>
+
+<div class="summary-item-list">
+  <div class="summary-collection-title">RoR4Real</div>
+
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/ror4real/ux-all-the-things">UX All The Things</a></div>
+        
+        
+          <time class="timestamp" datetime="2013-12-06"><span class="timesince" data-date="1386369424990">about 2 years ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/ror4real/2012/12/30/rails-for-ios-developers">Rails for iOS Developers - New sessions!</a></div>
+        
+        
+          <time class="timestamp" datetime="2012-12-30"><span class="timesince" data-date="1356931450728">about 3 years ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/ror4real/ruby-on-rails-problems-solutions-may-5-2011">Ruby on Rails problems & solutions - May 5, 2011</a></div>
+        
+        
+          <time class="timestamp" datetime="2011-05-05"><span class="timesince" data-date="1304636509000">about 5 years ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/ror4real/ruby-on-rails-problems-solutions-apr-15-2011">Ruby on Rails problems & solutions - Apr 15, 2011</a></div>
+        
+        
+          <time class="timestamp" datetime="2011-04-15"><span class="timesince" data-date="1302915158000">about 5 years ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/ror4real/ruby-on-rails-problems-solutions-apr-12-2011">Ruby on Rails problems & solutions - Apr 12, 2011</a></div>
+        
+        
+          <time class="timestamp" datetime="2011-04-12"><span class="timesince" data-date="1302651559000">about 5 years ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+</div>
+
+<h2>Presentations</h2><h2></h2><iframe src="http://www.slideshare.net/wndxlori/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/services/</link>
+      <title>Services</title>
+      <pubDate>Thu, 31 Oct 2013 19:36:15 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>Web Application Development</h2><p></p><p>Mobile application development with Ruby is my specialty. Using Ruby on Rails for web applications, and RubyMotion for native iOS development, I can rapidly deliver robust solutions for your business. &nbsp;See my <a href="/projects" data-link-type="content">projects</a> page for the companies and&nbsp;applications I have helped to success.</p><hr /><h2>Workshops and Tutorials</h2><p></p><p>Need training on Ruby on Rails? &nbsp;Let our popular instructors get you up to speed. &nbsp;Two different workshops are available: &nbsp;<a href="http://ror4real.com" data-link-type="external" target="_blank">Ruby on Rails for Real Developers</a> and <a href="http://rails4ios.com" data-link-type="external">Ruby on Rails for iOS Developers</a>. &nbsp;Need a custom training solution? &nbsp;<a href="#" data-link-type="external">Contact me</a>, and we can put together a training course that works for you. &nbsp;Lori also mentors for <a href="http://ladieslearningcode.com">Ladies Learning Code</a>, and instructs their Ruby Workshop in Calgary.</p><hr /><h2>iOS Application Development</h2><p></p><p>Need an iPhone/iPad app developed? &nbsp;There's a product for that. &nbsp;Using the Ruby language, and the revolutionary product <a href="http://www.rubymotion.com" data-link-type="external">RubyMotion</a>, I can produce well performing, well tested applications to help your company reach it's goals. &nbsp;Contact me to discuss your iOS application development needs.</p><hr /><h2>Conference Speaker</h2><p></p><p>Looking for a speaker for your conference or meet up?&nbsp;&nbsp;On my <a href="/speaking" data-link-type="content">speaking</a> page you can review a selection of my conference talks over the last couple of years. &nbsp;I am available for speaking engagements, so contact me!</p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2295298687749525";
+/* WNDX blog */
+google_ad_slot = "2598367299";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>]]></content:encoded>
+      <wp:post_name>services</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Ruby on Rails problems &amp; solutions - May 5, 2011</title>
+      <link>/ror4real/ruby-on-rails-problems-solutions-may-5-2011</link>
+      <content:encoded><![CDATA[<b><span style="font-size: 14px;">Protip for&nbsp;RVM/Capistrano<br /></span></b><br />If you are using RVM/Capistrano, make certain that you sync up your RVM updates on development and your servers, or you might run&nbsp;into this error when you try to deploy:<p />bash: /usr/local/rvm/bin/rvm-shell: No such file or directory<p /><div>Solution? &nbsp;Update RVM on your server, at the same time you update on your dev machines.</div><div><p /><div><b><span style="font-size: 14px;">Empty xhr on Rails 3 ajax:error<br /></span></b><br />More fun with ajax calls, Rails 3 + jQuery. &nbsp;If you are baffled by seeing errors like:<p />error&nbsp;in:&nbsp;undefined<div><br />Then you should check out this StackOverflow Q&amp;A for a solution.<p /><a href="http://stackoverflow.com/questions/3739606/rails3-ajax-callback-has-empty-xhr">http://stackoverflow.com/questions/3739606/rails3-ajax-callback-has-empty-xhr</a><p /><br /><b><span style="font-size: 14px;">No expansion found for :defaults<br /></span></b><br />I encountered this on an upgrade to Rails 3.0.4... (I know, I know, these are getting behind. &nbsp;But I am starting to catch up) &nbsp;Anyway, if you upgrade your Rails 3.0.x and then see the dreaded:<p />No expansion found for :defaults</div><p /><div>Then you should read this blog for the solution:<p /><a href="http://ashenfelter.com/2011/02/09/fix-for-no-expansion-found-for-defaults-error-in-rails-3-0-4/">http://ashenfelter.com/2011/02/09/fix-for-no-expansion-found-for-defaults-error-in-rails-3-0-4/</a><p /></div><div><br /><b><span style="font-size: 14px;">Adding a calendar feed to your Rails app</span></b></div></div></div><p /><div>Looks like it's iCalendar, if you are still running on Ruby 1.8.x:</div><div><p />
+<div><a href="http://stackoverflow.com/questions/1285492/whats-the-best-icalendar-ics-ical-library-in-ruby">http://stackoverflow.com/questions/1285492/whats-the-best-icalendar-ics-ical-library-in-ruby</a></div><p /><div>And ri_cal, if you are on Ruby 1.9.x:</div><p /><div><a href="http://loganleger.com/icalendar-webcal-subscription-feed-rails">http://loganleger.com/icalendar-webcal-subscription-feed-rails</a></div><p /></div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>ruby-on-rails-problems-solutions-may-5-2011</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 05 May 2011 23:01:49 +0000</pubDate>
+      <wp:post_date>2011-05-05 23:01:49</wp:post_date>
+      <wp:post_date_gmt>2011-05-05 23:01:49</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Ruby on Rails problems &amp; solutions - Apr 15, 2011</title>
+      <link>/ror4real/ruby-on-rails-problems-solutions-apr-15-2011</link>
+      <content:encoded><![CDATA[<b><span style="font-size: 14px;">HR's in IE<br /></span></b><br />All I can say is ... grrrrrrr. &nbsp;Waste a bunch of time, if you like, trying to get them to look right, cross-browser, or just use this work-around code for IE:<p /><a href="http://blog.neatlysliced.com/2008/03/hr-image-replacement/">http://blog.neatlysliced.com/2008/03/hr-image-replacement/</a><p />But I lurved the hr image from here:<p /><a href="http://www.pewpewlaser.com/articles/fancy-hrs">http://www.pewpewlaser.com/articles/fancy-hrs</a><p /><div>Also, how you you *not* love a site called 'pewpewlaser'? :-)<br /><div><p /><b><span style="font-size: 14px;">Mysterious extra white space around img in Firefox<br /></span></b><br />If you will recall from the last post, I was working on an image map. &nbsp;Then, I couldn't get it to look right, because of all the extra white space. &nbsp;This post'll get you headed in the right direction:</div><p /><div><a href="http://www.codingforums.com/archive/index.php/t-84484.html">http://www.codingforums.com/archive/index.php/t-84484.html</a><p /></div><div><br /><b><span style="font-size: 14px;">Proper use of jQuery dialog<br /></span></b><br /></div><div>Otherwise known as "Why does this dialog only open once?" &nbsp;</div><div><br /><a href="http://blog.nemikor.com/2009/04/08/basic-usage-of-the-jquery-ui-dialog/">http://blog.nemikor.com/2009/04/08/basic-usage-of-the-jquery-ui-dialog/</a><p /></div></div><div>Hmmm. &nbsp;Not much Ruby or Rails in this post, eh? &nbsp;Well, Ruby on Rails apps are web apps, and some days you'll be struggling with HTML, CSS, &amp; Javascript. &nbsp;That's just the way it is, so make sure you don't neglect those tools in your toolbox.</div><p /><div><div>----</div><p /><div>Like what you've been reading? &nbsp;Live in Western Canada (or there abouts)? &nbsp;Sign up at&nbsp;<a href="http://ror4real.com/">http://ror4real.com</a>, to stay informed about the next upcoming Ruby on Rails for Rail training class, held in Calgary, AB.</div></div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>ruby-on-rails-problems-solutions-apr-15-2011</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 16 Apr 2011 00:52:38 +0000</pubDate>
+      <wp:post_date>2011-04-16 00:52:38</wp:post_date>
+      <wp:post_date_gmt>2011-04-16 00:52:38</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Ruby on Rails problems &amp; solutions - Apr 12, 2011</title>
+      <link>/ror4real/ruby-on-rails-problems-solutions-apr-12-2011</link>
+      <content:encoded><![CDATA[<div><b><span style="font-size: 14px;">Why does my remote form only work the first time?</span></b></div><p />Protip - don't do this:<div><br /><div>$('#some_div input').val("");</div><div><br />in your Javascsript response to a remote form in Rails. &nbsp;You'll spend entirely too much time wondering why the form only works once, then you get routing errors. (Hint: it clears the hidden :method field. &nbsp;D'Oh!)<p /></div><div><b><span style="font-size: 14px;">Protip for Github/Capistrano users</span></b></div><p /><div>Ok, you deploy n00bs - really, really, read the stuff on Github about using Capistrano. &nbsp;</div><p /><div><a href="http://help.github.com/capistrano/">http://help.github.com/capistrano/</a></div><p /><div>And, even if you don't understand what it does, use this option in your deploy.rb:</div><div><br /><div>default_run_options[:pty] = true &nbsp;#Must be set for the password prompt from git to work!!!!!</div><p /><div>Emphasis ! added. I went round-and-round with our sysadmin/deploy guy for far too long, before discovering he didn't add this line, because he didn't understand what it did. &nbsp;</div><br class="Apple-interchange-newline" /><b><span style="font-size: 14px;">Image Maps<br /></span></b><br />I've used other people's image maps before, but I never built one from scratch myself. &nbsp;Look out for these Firefox gotchas:<p /><a href="http://forums.techguy.org/web-design-development/580707-image-map-doesnt-work-firefox.html">http://forums.techguy.org/web-design-development/580707-image-map-doesnt-work-firefox.html</a><br /><a href="http://www.boutell.com/newfaq/creating/border.html">http://www.boutell.com/newfaq/creating/border.html</a><p /><br /></div></div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>ruby-on-rails-problems-solutions-apr-12-2011</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 12 Apr 2011 23:39:19 +0000</pubDate>
+      <wp:post_date>2011-04-12 23:39:19</wp:post_date>
+      <wp:post_date_gmt>2011-04-12 23:39:19</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Ruby on Rails problems &amp; solutions - Apr 8, 2011</title>
+      <link>/ror4real/ruby-on-rails-problems-solutions-apr-8-2011</link>
+      <content:encoded><![CDATA[<b><span style="font-size: 14px;">RSpec view debugging hack</span></b><div><br />I needed to see what the rendered view looked like, so I could figure out why it was finding "1151" instead of "1" in a tr&gt;td selector. &nbsp;I knew how to do this in RSpec 1, but not in RSpec 2.<br />Not a web reference solution to this one, I found it in the RSpec book. &nbsp;If you are using RSpec, I can't imagine why you wouldn't want to buy this book.<br /><a href="http://pragprog.com/titles/achbd/the-rspec-book">http://pragprog.com/titles/achbd/the-rspec-book</a></div><p /><div>The answer is "rendered". &nbsp;As in:</div><p /><div>render</div><div>puts rendered.inspect</div><p /><div>Not pretty, but it works. &nbsp;Yes, I know... debugging by println (I'm aging myself with that, aren't I?). &nbsp;Sometimes the "not pretty" way is the quickest, though.<p /><b><span style="font-size: 14px;">RSpec'ing with acl9<br /></span></b><br /></div><div>I was using acl9 (<a href="https://github.com/be9/acl9">https://github.com/be9/acl9</a>) in my Rails 3 project. &nbsp;Now, I have specs for the acl9 functionality, but I started bumping into it on all my controller specs, and I wanted to skip it. &nbsp;Again, I have this working in my old Rails 2.x app, and RSpec 1.x, this is the new and improved way, with some specific gotchas for acl9:</div><p /><div><a href="http://stackoverflow.com/questions/1772142/rspec-in-rails-how-to-skip-a-before-filter">http://stackoverflow.com/questions/1772142/rspec-in-rails-how-to-skip-a-before-filter</a><p /><b><span style="font-size: 14px;">Password change dialog</span></b></div><p /><div>Finally got around to implementing that password change story (That's right, suckers, you CAN launch without something that seems really basic). &nbsp;Sometimes, you find really old stuff:</div><div><br /><a href="http://www.rorexperts.com/viewtopic.php?p=65&amp;sid=56dd051cbb088821acc466aef9e986ec">http://www.rorexperts.com/viewtopic.php?p=65&amp;sid=56dd051cbb088821acc466aef9e986ec</a></div><p /><div>Take the old stuff with a grain of salt, because it may be total junk. &nbsp;OTOH, it may still be the definitive answer. &nbsp;But I kept looking, and found this:</div><div><br /><a href="http://www.justinbritten.com/work/2008/03/how-to-change-or-reset-your-password-with-restful_authentication/">http://www.justinbritten.com/work/2008/03/how-to-change-or-reset-your-password-with-restful_authentication/</a></div><p /><div>which I liked a lot better, from a purist, RESTful point of view. &nbsp;However, since I am using authlogic, it couldn't be that simple, could it? &nbsp;So...<p /><b><span style="font-size: 14px;">Rechecking password with Authlogic<br /></span></b><br /><a href="http://groups.google.com/group/rubyonrails-talk/browse_thread/thread/3ceee45a38fa59fc">http://groups.google.com/group/rubyonrails-talk/browse_thread/thread/3ceee45a38fa59fc</a><p /></div><div>Relevant code bit:</div><p /><div>@current_user.valid_password? params[:old_password]<p />----</div><p /><div>Like what you've been reading? &nbsp;Live in Western Canada (or there abouts)? &nbsp;Sign up at <a href="http://ror4real.com">http://ror4real.com</a>, to stay informed about the next upcoming Ruby on Rails for Rail training class, held in Calgary, AB.</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>ruby-on-rails-problems-solutions-apr-8-2011</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 08 Apr 2011 22:15:21 +0000</pubDate>
+      <wp:post_date>2011-04-08 22:15:21</wp:post_date>
+      <wp:post_date_gmt>2011-04-08 22:15:21</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Rails for iOS Developers - New sessions!</title>
+      <link>/ror4real/2012/12/30/rails-for-ios-developers</link>
+      <content:encoded><![CDATA[<p>Exciting news. &nbsp;We've got 2 new sessions of the <a href="http://rails4ios.com" data-link-type="external" target="_blank">Rails4iOS</a> workshop scheduled. &nbsp;</p><blockquote>You've got your iPhone app almost ready to go, but now you need a website. You're an iOS developer, not a web developer, and every day that goes by is another day that your app ISN'T in the App Store. You can outsource your server-side development, but that costs both time &amp; money. What if you could build your own website? Our Rails for iOS Developers Workshop will help you get your responsive website up and running, using the powerful Ruby on Rails framework, from creation to deployment, in straight-forward, easy to follow steps.<br></blockquote><p>We&nbsp;are very pleased to be able to offer the workshop for the first time in San Francisco. &nbsp;Since my co-instructor, Tim Breitkreutz, has relocated to SF, it seemed like a logical choice.</p><p>The first workshop will once again be offered in <a href="https://wndx.stagehq.com/events/1954" data-link-type="external" target="_blank">Calgary, AB, on March 16-17, 2013</a>. &nbsp;The second is in <a href="https://wndx.stagehq.com/events/1953" data-link-type="external" target="_blank">San Francisco, on April 6-7, 2013</a>.</p><p>If you can't make it to either of those, then perhaps we might see you at <a href="http://www.rubyconf.org.au/workshops" data-link-type="external" target="_blank">RubyConf AU</a>, where we will be offering a condensed version of this workshop as a <a href="#">one day workshop</a>, for the insanely great deal of only A$95.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2012/12/30/rails-for-ios-developers</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 31 Dec 2012 05:24:10 +0000</pubDate>
+      <wp:post_date>2012-12-31 05:24:10</wp:post_date>
+      <wp:post_date_gmt>2012-12-31 05:24:10</wp:post_date_gmt>
+      <category domain="post_tag" nicename="rails4ios"><![CDATA[rails4ios]]></category>
+      <category domain="post_tag" nicename="rails"><![CDATA[rails]]></category>
+      <category domain="post_tag" nicename="ruby"><![CDATA[ruby]]></category>
+      <category domain="post_tag" nicename="ios"><![CDATA[ios]]></category>
+      <category domain="post_tag" nicename="ipad"><![CDATA[ipad]]></category>
+      <category domain="post_tag" nicename="rubyconfau"><![CDATA[rubyconfau]]></category>
+      <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
+      <category domain="post_tag" nicename="iphone"><![CDATA[iphone]]></category>
+      <category domain="category" nicename="rails4ios"><![CDATA[rails4ios]]></category>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>UX All The Things</title>
+      <link>/ror4real/ux-all-the-things</link>
+      <content:encoded><![CDATA[<h3>But especially your API's</h3>
+
+<p>Seriously.  If you write API's, your documentation IS an essential part of the UX of your API.  If you follow @seriouspony at all, you should be familiar with the concept of UX.  Your product and UX should be helping your users (developers) BE MORE AWESOME.</p>
+
+<p>So I ask myself, when I look at documentation like this (yes, I'm looking at you Apple), how does this make the developers using it more awesome?</p>
+
+<hr />
+
+<h4>NSAttributeType</h4>
+
+<p>Defines the possible types of NSAttributeType properties. These explicitly distinguish between bit sizes to ensure data store independence.</p>
+
+<pre><code>typedef enum {
+NSUndefinedAttributeType = 0,
+NSInteger16AttributeType = 100,
+NSInteger32AttributeType = 200,
+NSInteger64AttributeType = 300,
+NSDecimalAttributeType = 400,
+NSDoubleAttributeType = 500,
+NSFloatAttributeType = 600,
+NSStringAttributeType = 700,
+NSBooleanAttributeType = 800,
+NSDateAttributeType = 900,
+NSBinaryDataAttributeType = 1000,
+NSTransformableAttributeType = 1800,
+NSObjectIDAttributeType = 2000
+} NSAttributeType;
+</code></pre>
+
+<h4>Constants</h4>
+
+<p>NSUndefinedAttributeType<br/>
+Specifies an undefined attribute type.
+NSUndefinedAttributeType is valid for transient properties—Core Data will still track the property as an id value and register undo/redo actions, and so on.
+NSUndefinedAttributeType is illegal for non-transient properties.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSInteger16AttributeType<br/>
+Specifies a 16-bit signed integer attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSInteger32AttributeType<br/>
+Specifies a 32-bit signed integer attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSInteger64AttributeType<br/>
+Specifies a 64-bit signed integer attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSDecimalAttributeType
+Specifies an NSDecimalNumber attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSDoubleAttributeType<br/>
+Specifies a double attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSFloatAttributeType<br/>
+Specifies a float attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSStringAttributeType<br/>
+Specifies an NSString attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSBooleanAttributeType<br/>
+Specifies a Boolean attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSDateAttributeType<br/>
+Specifies an NSDate attribute.
+Times are specified in GMT.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSBinaryDataAttributeType<br/>
+Specifies an NSData attribute.
+Available in OS X v10.4 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSTransformableAttributeType<br/>
+Specifies an attribute that uses a value transformer.
+Available in OS X v10.5 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<p>NSObjectIDAttributeType<br/>
+Specifies the object ID attribute.
+Available in OS X v10.6 and later.
+Declared in NSAttributeDescription.h.</p>
+
+<hr />
+
+<p>Argh.  Really?  I mean, sure <strong>I</strong> have been around long enough to have programmed in assembly code, and C, but how many younger and beginning developers understand the difference between 16 bit, 32 bit, and 64 bit integers?  And the Decimal type?  And the difference between floats and doubles?</p>
+
+<p>WHY?  Why can't this reference page actually provide the information that a developer needs to make an effective choice <a href="https://developer.apple.com/library/mac/documentation/cocoa/reference/CoreDataFramework/Classes/NSAttributeDescription_Class/reference.html#//apple_ref/doc/uid/TP30001175-BAJBGGIB">RIGHT HERE</a>.</p>
+
+<p>And before anyone accuses me of not practicing what I preach... I was responsible for the 900+ page reference guide for the WNDX toolkit, almost 20 years ago, and we made sure that our enumerated types were described <strong>properly</strong>, with a certain amount of useful detail, like this:</p>
+  
+       [caption id="" align="alignnone" width="2446.0"]<img src="http://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29313e4b04687d9db349f/52a251b4e4b0e77c563c2387/1386369469237/Screen+Shot+2013-12-06+at+3.25.00+PM.png.00+PM.png?format=original" alt="WNDX Reference Manual"/> WNDX Reference Manual[/caption]]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>ux-all-the-things</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 06 Dec 2013 22:37:04 +0000</pubDate>
+      <wp:post_date>2013-12-06 22:37:04</wp:post_date>
+      <wp:post_date_gmt>2013-12-06 22:37:04</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29313e4b04687d9db349f/52a251b4e4b0e77c563c2387/1386369469237/Screen+Shot+2013-12-06+at+3.25.00+PM.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/50d2902fe4b0959a0871a12c/50d29313e4b04687d9db349f/52a251b4e4b0e77c563c2387/1386369469237/Screen+Shot+2013-12-06+at+3.25.00+PM.png</link>
+      <title>attachment-52a251b4e4b0e77c563c2387</title>
+      <wp:post_name>Screen-Shot-2013-12-06-at-3-25-00-PM-png</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>12</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-52a251b4e4b0e77c563c2387]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-52a251b4e4b0e77c563c2387]]></excerpt:encoded>
+      <pubDate>Fri, 06 Dec 2013 22:37:40 +0000</pubDate>
+      <wp:post_date>2013-12-06 22:37:40</wp:post_date>
+      <wp:post_date_gmt>2013-12-06 22:37:40</wp:post_date_gmt>
+      <dc:creator>lori@wndx.com</dc:creator>
+    </item>
+    <item>
+      <link>/speaking/</link>
+      <title>Speaking</title>
+      <pubDate>Fri, 14 Aug 2015 23:18:11 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Conference Talks</h1><p>Need a speaker for your conference or meetup? &nbsp;Here is a selection of the conference talks I have given in the past couple of years, videos where available, slides where not. &nbsp;Let me know if you see something you like. &nbsp;I am available for speaking engagements.</p><hr /><h2 class="text-align-right">Upcoming</h2><h2><a target="_blank" href="http://beyondthecode.io">Beyond The Code - September 21, 2015 </a></h2><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2295298687749525";
+/* WNDX blog */
+google_ad_slot = "2598367299";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><hr /><h2><strong><a target="_blank" href="http://confreaks.com/videos/3829-inspect-coredata-and-rubymotion">Core Data in RubyMotion</a>&nbsp;- RubyMotion #inspect 2014</strong></h2>
+ 
+   <iframe src="//www.youtube.com/embed/zMGsvb3_fJI?wmode=opaque&amp;enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen="">
+</iframe>
+ 
+<h2><a target="_blank" href="http://programme2014.scottishrubyconference.com/proposals/72/video">Do The Work</a>&nbsp;- Scottish Ruby Conference 2014</h2>
+ 
+   <iframe src="//player.vimeo.com/video/98250946?wmode=opaque&amp;api=1" width="1280" height="720" frameborder="0" title="z_140513_MellvilleSuite-02_LoriMOlson_2.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+ 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/27418415" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<h2><a href="http://nsscotland.com/speakers.html" target="_blank">Core Data in Motion</a></h2><p></p><p>NSScotland Oct 19-20, 2013</p><p>Have you tried to use CoreData in RubyMotion, only to get lost in the quagmire of simplistic or confusing examples, DSL's and gems? Have you been asking yourself these questions: Do I have to use XCode to create a CoreData model?; How do relationships work in code work anyway?; How do I pre-load data into my CoreData store?; What is an NSFetchedResultsController, and why do I need one?</p><p>We'll delve into each of these questions, and review the surprisingly simple, elegant solutions that RubyMotion can provide.</p><p>&nbsp;</p>
+<h3>Consultants &amp; Rockstars, Who needs 'em? -&nbsp;</h3><p><a href="http://aloharubyconf.com/index" data-link-type="external">Aloha Ruby Conf</a>&nbsp;Oct 8-9, 2012 &nbsp;Honolulu, HI<br></p>
+ 
+   <iframe width="640" height="360" src="http://www.youtube.com/embed/5WettBcU_OE?feature=oembed&amp;wmode=opaque&amp;enablejsapi=1" frameborder="0" allowfullscreen=""></iframe>
+ 
+
+<p>Sound familiar? The Rails ecosystem has grown in leaps and bounds, like the Java ecosystem did in its’ early days. So many languages, frameworks, plugins, engines, libraries and tools. So little time to deliver your new project.</p><p>It’s tempting to hire a rock star who knows absolutely everything to get your new project off the ground. You can also hire "consultants" to help fill in the holes in your team when taking your existing product to the next level. Or maybe just hire a whole bunch of people for cheap, and they’ll get the job done... But did you ever consider the untapped wealth of the team you already have?</p><p>In this session we’ll explore ways in which the average development team can explore, learn, teach, and grow, until the sum of members of the team is as great as any Consultant or Rockstar.</p><p></p>
+<h3>Mobile Rage</h3><p><a href="http://railsconf2012.com" data-link-type="external" target="_blank">RailsConf</a> - April 23-25, 2012 &nbsp;Austin, TX</p>
+ 
+   <iframe width="640" height="360" src="http://www.youtube.com/embed/qev9PSaNLSA?feature=oembed&amp;wmode=opaque&amp;enablejsapi=1" frameborder="0" allowfullscreen=""></iframe>
+ 
+
+<p>Most of us have been there. That website you want to use, from your mobile device, that just refuses to cooperate. From the Flash-only, to the can't f**king log in, to the redirect-to-mobile-and-stay-there sites, there's more than enough websites out there to invoke Mobile Rage.</p><p>Although we all know that the best mobile development strategy is "mobile-first", we also all know how many sites and applications out there were designed and built by people who didn't imagine how fast mobile would take over.</p><p>Come learn about the common mistakes most people make for mobile, and some of the simple solutions you can use to help reduce Mobile Rage, without having to do a complete rewrite.</p><p></p>
+<h3>Rails 3.1</h3><p><a href="http://confoo.ca/en" data-link-type="external" target="_blank">Confoo</a>&nbsp;February 29th - March 2nd, 2012 &nbsp;Montreal, QC<br></p>
+ 
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/11817023?wmode=opaque" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/wndxlori/rails-31" title="Rails 3.1" target="_blank">Rails 3.1</a> </strong> from <strong><a href="http://www.slideshare.net/wndxlori" target="_blank">Lori Olson</a></strong> </div>
+ 
+
+<p>Another new version of Rails. Delightful. And terrifying. What's changed this time? Fear Not!</p><p>We'll be reviewing the changes and additions to Rails 3.1, giving you a walk-through of what it all means (asset pipeline, what?), in the context of a brand new app, and an older app that will need to be upgraded.</p><p>&nbsp;</p>
+<h3>Maps &amp; Maps and Scale &amp; Scale</h3><p><a href="http://events.jquery.org/2011/boston/" data-link-type="external" target="_blank">jQuery Conference</a>&nbsp;Oct 1-2, 2011 &nbsp;Boston </p>
+ 
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/9503218?wmode=opaque" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/wndxlori/maps-and-scale" title="Maps and Scale" target="_blank">Maps and Scale</a> </strong> from <strong><a href="http://www.slideshare.net/wndxlori" target="_blank">Lori Olson</a></strong> </div>
+ 
+
+<p>Maps are easy, right? Right. Except... when they aren't.</p><p>What about when you need to mix multiple data types on your maps?</p><p>What about when the simple solutions (paging) to complex problems (too much data) don't cut it with your users?</p><p>What about when your scaling problems exceed the bounds of all the available solutions?</p><p></p>
+<h3>Consultants &amp; Rockstars, Who needs 'em </h3><p><a href="http://madisonruby.org/" data-link-type="external" target="_blank">Madison Ruby</a> &nbsp;Aug 18-20, 2011 &nbsp;Madison, WI</p>
+ 
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/8941126?wmode=opaque" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/wndxlori/rockstars-consultants-who-needs-em" title="Rockstars &amp; Consultants - who needs 'em" target="_blank">Rockstars &amp; Consultants - who needs 'em</a> </strong> from <strong><a href="http://www.slideshare.net/wndxlori" target="_blank">Lori Olson</a></strong> </div>
+ 
+
+<p>Sound familiar? The Rails ecosystem is growing in leaps and bounds, like the Java ecosystem did in its’ early days. So many languages, frameworks, plugins, engines, libraries and tools. So little time to deliver your new project.</p><p>It’s tempting to hire a rock star who knows absolutely everything to get your new project off the ground. You can also hire "consultants" to help fill in the holes in your team when taking your existing product to the next level. Or maybe just hire a whole bunch of people for cheap, and they’ll get the job done... But did you ever consider the untapped wealth of the team you already have?</p><p>In this session we’ll explore ways in which the average development team can explore, learn, teach, and grow, until the sum of members of the team is as great as any Consultant or Rockstar.</p><p></p>
+<h3>Powerful UX, Not just for desktops anymore</h3><p><a href="http://conferenciarails.org" data-link-type="external" target="_blank">Conferencia Rails</a>&nbsp;Nov 3-5, 2010 &nbsp;Madrid, Spain</p><hr />
+ 
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/5731294?wmode=opaque" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/wndxlori/powerful-ux-not-just-for-desktops-anymore-5731294" title="Powerful UX, not just for desktops anymore" target="_blank">Powerful UX, not just for desktops anymore</a> </strong> from <strong><a href="http://www.slideshare.net/wndxlori" target="_blank">Lori Olson</a></strong> </div>
+ 
+<p>How to build your own custom UI controls, powered by jQuery, and integrate them in your Rails application.</p><p>&nbsp;</p>]]></content:encoded>
+      <wp:post_name>speaking</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/</link>
+      <title>Products</title>
+      <pubDate>Thu, 25 Aug 2016 00:05:26 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">WIMBY - Wells In My Back Yard</h1><p class="text-align-center"><span style="font-size:14px">WIMBY was an idea I had, quite a few years ago, after reading about an incident w.r.t. an improperly abandoned well in the community of Calmar, AB (more on that later). At the time, I was working with oil &amp; gas data every day (in the development of etriever.com and welltriever.com), and I was appalled at the idea people could have an abandoned well in their back yard, and not be aware of it.</span></p><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 100.0%"></div></div><h3 id="map">Map</h3>
+<p>The main view is a map view, of all the abandoned oil &amp; gas wells in Canada.  If the wells are too close together, they are displayed as a cluster, with the number of wells in the cluster prominently displayed.</p>
+
+<div class="sqs-block-button-container--left">
+	<a href="" class="sqs-block-button-element--small sqs-block-button-element" >Learn More</a>
+</div><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 100.0%"></div></div><h3 id="list">List</h3>
+<p>All the wells currently displayed on the map can also be viewed as a list, with the UWI (Unique Well Identifier) and abandoned date.</p>
+
+<div class="sqs-block-button-container--left">
+	<a href="" class="sqs-block-button-element--small sqs-block-button-element" >Learn More</a>
+</div><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 100.0%"></div></div><h3 id="search">Search</h3>
+<p>There are several "interesting" locations listed, but you can search for any city or town, and it will appear in the list to be selected. Once selected, the map will zoom to this location.  </p>
+<p>Previously entered locations are saved, up to 5.</p>
+
+<div class="sqs-block-button-container--left">
+	<a href="" class="sqs-block-button-element--small sqs-block-button-element" >Learn More</a>
+</div>]]></content:encoded>
+      <wp:post_name>products</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/wimby-privacy-policy/</link>
+      <title>WIMBY Privacy Policy</title>
+      <pubDate>Thu, 25 Aug 2016 00:07:21 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>Detail 1</h2><p>The following is placeholder text known as “lorem ipsum,” which is scrambled Latin used by designers to mimic real copy. Aenean eu justo sed elit dignissim aliquam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus sodales massa malesuada tellus fringilla, nec bibendum tellus blandit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p><p>Suspendisse nec congue purus. Quisque congue porttitor ullamcorper. Nulla lectus ante, consequat et ex eget, feugiat tincidunt metus. Maecenas non leo laoreet, condimentum lorem nec, vulputate massa. Vivamus a ante congue, porta nunc nec, hendrerit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><hr /><h2>Detail 2</h2><p>The following is placeholder text known as “lorem ipsum,” which is scrambled Latin used by designers to mimic real copy. Aenean eu justo sed elit dignissim aliquam. Vivamus sit amet semper lacus, in mollis libero.</p><p>Donec eget risus diam. Aliquam bibendum, turpis eu mattis iaculis, ex lorem mollis sem, ut sollicitudin risus orci quis tellus. Suspendisse nec congue purus. Nulla eu pretium massa. Sed a ligula quis sapien lacinia egestas. Nullam sit amet nisi condimentum erat iaculis auctor.</p><hr /><h2>Detail 3</h2><p>The following is placeholder text known as “lorem ipsum,” which is scrambled Latin used by designers to mimic real copy. Mauris egestas at nibh nec finibus. Fusce at massa nec sapien auctor gravida in in tellus. Fusce at massa nec sapien auctor gravida in in tellus.</p><p>Integer tempus, elit in laoreet posuere, lectus neque blandit dui, et placerat urna diam mattis orci. Mauris egestas at nibh nec finibus. Sed a ligula quis sapien lacinia egestas. Suspendisse nec congue purus. Donec eget risus diam. Aliquam bibendum, turpis eu mattis iaculis, ex lorem mollis sem, ut sollicitudin risus orci quis tellus. Aenean eu justo sed elit dignissim aliquam.</p>]]></content:encoded>
+      <wp:post_name>wimby-privacy-policy</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+

@@ -23,7 +23,7 @@ There's all sorts of stories and reasons behind the lack of women in software de
 Young women, and really before that, young girls, are convinced that programming is boring, where you are just locked up in a room with a computer pounding out code 24/7.  That is such a narrow and really misleading look at the profession that it just breaks my heart. Good programmers need to understand, deeply, the fields related to what they are programming, in order to do a good job.  Good software developers need to be people-persons, to work with the users/customers of their software, to determine their needs, and to help them solve problems that they never even realized they had.
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54d53931e4b05da7d773c24a_1423259957411__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54d53931e4b05da7d773c24a_1423259957411__img.png)
   
 
 

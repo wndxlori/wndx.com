@@ -18,7 +18,7 @@ meta:
 Let's get this one question out of the way, right off the bat.  Why RSpec?  or more specifically - why RSpec instead of MiniTest?
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_551dda23e4b06389c8205a32_1428019748396__img.jpg_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_551dda23e4b06389c8205a32_1428019748396__img.jpg)
   
 
 

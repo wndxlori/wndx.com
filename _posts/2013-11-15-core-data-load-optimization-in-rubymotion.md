@@ -72,7 +72,7 @@ I'll jump ahead here, and note that even when you batch all the saves, while run
 Now that we have a grasp of everything that's wrong with the previous code, let's figure out how to fix it.
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a02d1ce4b0da93269fdc54_1436560669435__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a02d1ce4b0da93269fdc54_1436560669435__img.png)
   
 
 

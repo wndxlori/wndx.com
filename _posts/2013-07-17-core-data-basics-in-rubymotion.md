@@ -25,7 +25,7 @@ If you want to use Core Data in your RubyMotion project, then you should probabl
 [RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples) project on Github. Although most of the samples are pretty basic, they all have valuable lessons to teach us. With the recent addition of OSX application support in RubyMotion, the samples have been subdivided into ios and osx subdirectories. The sample project you will want is under ios, and is called "Locations".
   
        [caption id="" align="alignnone" width="149.0"]
-[![RubyMotion Samples](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5571d3cbe4b0d635f261b537_1433523148015__img.png_)](http://rubymotion.com) RubyMotion Samples[/caption] 
+[![RubyMotion Samples](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5571d3cbe4b0d635f261b537_1433523148015__img.png)](http://rubymotion.com) RubyMotion Samples[/caption] 
   
 
 
@@ -77,7 +77,7 @@ I would suggest, if you are going to be writing code like this, that you invest 
 NSAttributeType's are available?" so much easier.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5571d61de4b019f4b6c477b3_1433523742623__img.png_)](https://kapeli.com/dash)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_5571d61de4b019f4b6c477b3_1433523742623__img.png)](https://kapeli.com/dash)
   
 
 

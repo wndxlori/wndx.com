@@ -24,7 +24,7 @@ It seems like just yesterday that I finally finished my book,
 
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e9590725e25ff5489b011_1477350808919__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e9590725e25ff5489b011_1477350808919__img.png)
   
 
 
@@ -32,7 +32,7 @@ Core Data is one of the more complex iOS frameworks, and it is made more obscure
 
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e95cd725e25ff5489b3d8_1477350868043__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e95cd725e25ff5489b3d8_1477350868043__img.png)
   
 
 
@@ -59,7 +59,7 @@ So after two years, looks like it’s already time for a second edition of
 
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e96192e69cf6ad145222f_1477350948341__img.png_)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_580e96192e69cf6ad145222f_1477350948341__img.png)
   
 
 

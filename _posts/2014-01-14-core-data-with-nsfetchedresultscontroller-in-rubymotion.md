@@ -48,7 +48,7 @@ minutes for the table view to load, which is what it does at this point. That is
 FAIL.
   
        [caption id="" align="alignnone" width="1325.0"]
-![Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a30b61e4b0359ca412be9e_1436748642620_fetch-fail.jpg_) Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/[/caption] 
+![Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a30b61e4b0359ca412be9e_1436748642620_fetch-fail.jpg) Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/[/caption] 
   
 
 
