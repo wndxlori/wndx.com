@@ -37,3 +37,12 @@ jekyll-archives:
     year: '/archives/:year/'
     tag: '/archives/tag/:name/'
     category: '/archives/category/:name/'
+
+exclude:
+  - Capfile
+  - config
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - REVISION
