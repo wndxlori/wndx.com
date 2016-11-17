@@ -1,25 +1,21 @@
 ---
 layout: archive
 ---
-<div id="wrapper">
+<div class="row">
 
+  <div class="col-md-3" data-spy="affix" data-offset-top="60" data-offset-bottom="60">
   {% include archive_sidebar.html %}
+  </div>
 
-  <div id="page-content-wrapper">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-12">
-          <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
-          <ul class="posts">
-            {% for post in page.posts %}
-              <li>
-                <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-    </div>
+  <div class="col-md-9">
+    <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+    <ul class="posts">
+      {% for post in page.posts %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>

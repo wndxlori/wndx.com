@@ -1,5 +1,4 @@
 {% include css/bootstrap.min.css %}
-{% include css/simple-sidebar.css %}
 {% include css/agency.css %}
 {% include css/wndx.scss %}
 {{ content }}

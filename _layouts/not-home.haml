@@ -1,0 +1,28 @@
+---
+layout: default
+---
+%body.index.bg-light-gray
+  %nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink
+    .container
+      .navbar-header
+        %button.navbar-toggle{type:"button",data:{toggle:"collapse", target:"#bs-example-navbar-collapse-1"}}
+          %span.sr-only Toggle Navigation
+          %span.icon-bar
+          %span.icon-bar
+          %span.icon-bar
+        %a.navbar-brand{href:"/"} {{ site.title }}
+
+      .collapse.navbar-collapse#bs-example-navbar-collapse-1
+        %ul.nav.navbar-nav.navbar-right
+          %li.hidden
+            %a{href:"/"}
+          %li.active
+            %a{href:"/blog"} Blog
+          %li
+            %a{href:"/archives/category/"} Categories
+          %li
+            %a{href:"/archives/tag/"} Tags
+          %li
+            %a{href:"/#contact"} Contact
+  .container-fluid
+    {{ content }}
