@@ -2,17 +2,18 @@
 layout: post
 title: Decidedly Jazz
 categories:
-- workshops
+- software craft
 tags:
 - development
 - mentor
-- software craft
+- workshops 
 status: publish
 type: post
 published: true
 image:
-  featured: lori_drums.jpg
+  one: lori_drums.jpg
 ---
+
 Recently came across a discussion on Twitter about how programming 
 was part math and part jazz.  The jazz part, of course, is about 
 improvisation.  I don't know, maybe we are all comedians?
@@ -83,6 +84,8 @@ just because their mind works differently.  As a teacher, you should
 open yourself to all the possible variations of solutions, so that when 
 you encounter one of those students, you have other options to use, in 
 order to help that student achieve understanding.
+
+![](/img/original/{{ page.image.one }} "Me on Uncle Don's drums"){: .img-responsive }
 
 And yes, the title of this post IS an homage to the 
 [Decidedly Jazz Danceworks](http://www.decidedlyjazz.com) professional 
