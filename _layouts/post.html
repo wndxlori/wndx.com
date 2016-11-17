@@ -1,31 +1,35 @@
 ---
-layout: archive
+layout: not-home
 ads: false
 ---
-<div id="main" role="main">
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="/img/posts/{{ page.image.feature }}" class="img-responsive" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		{% include breadcrumbs.html %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
-		<div class="inner-wrap text-justify">
-			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
-				<hr />
-				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
-				</aside>
-			</div><!-- /.content -->
-		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+<div class="post row">
+    <div class="col-md-9">
+      {% include breadcrumbs.html %}
+    </div>
+</div>
+<div class="post row">
+	<div class="col-md-9">
+        {% if page.image.feature %}
+          {% include post-image-feature.html %}
+        {% endif %}
+        <div class="page-title">
+            <h1>{{ page.title }}</h1>
+            <hr />
+            {{ page.date | date: '%B %-d, %Y'}}
+        </div>
+        <div class="inner-wrap text-justify">
+            <div id="content" class="page-content">
+                {{ content }}
+                <hr />
+                <aside>
+                    {% if page.comments == true %}{% include comments.html %}{% endif %}
+                </aside>
+            </div><!-- /.content -->
+        </div><!-- /.inner-wrap -->
+        {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 
-	</article><!-- ./wrap -->
-</div><!-- /#main -->
+	</div> <!-- post content -->
+    <div id="sidebar" class="col-md-3" data-spy="affix" data-offset-top="60" data-offset-bottom="60">
+        {% include post-sidebar.html %}
+	</div>
+</div>

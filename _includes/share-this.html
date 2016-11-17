@@ -1,5 +1,24 @@
-<div class="inline-btn">
-	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ site.owner.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ site.data.messages.locales[site.locale].share }} Twitter</a>
-	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> {{ site.data.messages.locales[site.locale].share }} Facebook</a>
-	<a class="btn-social google-plus"  href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> {{ site.data.messages.locales[site.locale].share }} Google+</a>
-</div><!-- /.share-this -->
+<ul class="list-inline social-buttons">
+    <li>
+        <a href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ site.owner.twitter }}" target="_blank">
+            <i class="fa fa-twitter"></i>{{ site.data.messages.locales[site.locale].share }}
+        </a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank">
+            <i class="fa fa-facebook"></i>{{ site.data.messages.locales[site.locale].share }}
+        </a>
+    </li>
+    <li>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;title={{ page.title | escape | replace:' ','%20' }}&amp;source={{site.url}}" target="_blank">
+            <i class="fa fa-linkedin"></i>{{ site.data.messages.locales[site.locale].share }}
+        </a>
+    </li>
+    <li>
+        <a href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank">
+            <i class="fa fa-google-plus"></i>{{ site.data.messages.locales[site.locale].share }}
+        </a>
+    </li>
+</ul><!-- /.share-this -->
+
+

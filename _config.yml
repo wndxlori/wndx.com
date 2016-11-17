@@ -6,6 +6,9 @@ title: The WNDX Group Inc
 email: talk-to-us@wndx.com
 description: "Welcome to the home of The WNDX Group Inc, where Practical Software Development is our way of life."
 
+owner:
+  twitter: wndxlori
+
 collections:
   projects:
     output: true
