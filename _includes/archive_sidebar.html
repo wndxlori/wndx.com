@@ -1,0 +1,17 @@
+<div id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+            {{ page.type | capitalize }}
+        </li>
+        {% if page.type == 'tag' %}
+            {% assign archive = site.tags %}
+        {% else %}
+            {% assign archive = site.categories %}
+        {% endif %}
+        {% for item in archive %}
+            <li>
+                <a href="/archives/{{page.type}}/{{item[0]|slugify}}/">{{ item[0] | capitalize }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
