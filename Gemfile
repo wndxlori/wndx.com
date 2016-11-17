@@ -11,5 +11,6 @@ group "jekyll_plugins" do
   gem "jekyll-haml"
   gem "jekyll-picture-tag"
   gem "jekyll-sitemap"
+  gem "jekyll-titleize"
   gem "octopress-paginate"
 end

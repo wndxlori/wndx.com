@@ -1,14 +1,14 @@
-<nav class="breadcrumbs">
-  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-    <a href="/blog/" itemprop="url">
-      <span itemprop="title">Home</span>
+<ol class="breadcrumb">
+  <li>
+    <a href="/blog/">
+      Home
     </a>
+  </li>
   {% if page.categories and page.categories != empty %}
-    ›
-  <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-    <a href="/archives/category/{{ page.categories | first | slugify }}/" itemprop="url">
-      <span itemprop="title">{{ page.categories | first | replace: '-',' ' | titleize }}</span>
+  <li>
+    <a href="/archives/category/{{ page.categories | first | slugify }}/" >
+      {{ page.categories | first | titleize }}
     </a>
-  </span>
+  </li>
   {% endif %}
-</nav><!-- /.breadcrumbs -->
+</ol>

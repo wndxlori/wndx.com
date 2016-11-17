@@ -1,6 +1,22 @@
-body { padding-bottom: 70px; }
+body { padding-top: 90px; }
 
 .pager .disabled>a,
 .pager .disabled>a:hover {
     background-color: lightgray;
 }
+
+.breadcrumb {
+  background: inherit;
+  border: none;
+  display: block;
+  padding: 5px 0px;
+  margin-bottom: 2px;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0.5em;
+}
+.breadcrumb li {
+  font-size: 16px;
+  font-family: {{ site.data.template.font.primary }};
+}
+.breadcrumb>li+li:before {content: "\276F\00a0";}
+
