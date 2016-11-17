@@ -2,7 +2,7 @@
 layout: post
 title: Core Data in Motion - the Gems
 categories:
-- Core Data
+- products
 tags:
 - Core Data
 - RubyMotion

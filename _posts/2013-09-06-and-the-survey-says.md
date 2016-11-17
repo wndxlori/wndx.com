@@ -2,7 +2,7 @@
 layout: post
 title: And the survey says...
 categories:
-- Rails
+- workshops
 tags:
 - ruby
 - workshop

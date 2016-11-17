@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Little Steps
-categories: []
+categories:
+- business
 tags:
 - agile
 - continuous improvement

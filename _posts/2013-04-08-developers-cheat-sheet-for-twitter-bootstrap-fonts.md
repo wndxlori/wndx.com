@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Developers cheat sheet for Twitter Bootstrap fonts
-categories: []
+categories:
+- web development
 tags: []
 status: publish
 type: post

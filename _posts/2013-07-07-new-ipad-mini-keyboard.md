@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New iPad mini keyboard
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

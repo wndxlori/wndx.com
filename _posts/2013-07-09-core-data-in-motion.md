@@ -2,8 +2,7 @@
 layout: post
 title: Core Data in Motion
 categories:
-- Core Data
-- RubyMotion
+- products
 tags:
 - RubyMotion
 - ruby

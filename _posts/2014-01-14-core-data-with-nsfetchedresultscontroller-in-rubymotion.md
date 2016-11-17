@@ -2,8 +2,7 @@
 layout: post
 title: Core Data with NSFetchedResultsController in RubyMotion
 categories:
-- Core Data
-- RubyMotion
+- products
 tags:
 - Core Data
 - ruby

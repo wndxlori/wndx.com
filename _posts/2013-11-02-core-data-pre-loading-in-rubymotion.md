@@ -2,7 +2,7 @@
 layout: post
 title: Core Data Pre-Loading in RubyMotion
 categories:
-- Core Data
+- products
 - RubyMotion
 tags:
 - Core Data

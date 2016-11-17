@@ -2,8 +2,7 @@
 layout: post
 title: Better Testing with RSpec
 categories:
-- Training
-- Rails
+- software craft
 tags:
 - ruby
 - rails

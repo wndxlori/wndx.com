@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Getting to know JRuby
-categories: []
+categories: 
+- software craft
 tags:
 - jruby
 - rails

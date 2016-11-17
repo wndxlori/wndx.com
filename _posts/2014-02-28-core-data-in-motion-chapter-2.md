@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Core Data in Motion - Chapter 2
-categories: []
+categories: 
+- products
 tags: []
 status: publish
 type: post

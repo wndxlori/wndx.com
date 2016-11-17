@@ -1,7 +1,8 @@
 ---
 layout: post
 title: UX All The Things
-categories: []
+categories:
+- software craft
 tags: []
 status: publish
 type: post

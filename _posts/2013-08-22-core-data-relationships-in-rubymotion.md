@@ -2,8 +2,7 @@
 layout: post
 title: Core Data Relationships in RubyMotion
 categories:
-- RubyMotion
-- Core Data
+- products
 tags:
 - Core Data
 - RubyMotion

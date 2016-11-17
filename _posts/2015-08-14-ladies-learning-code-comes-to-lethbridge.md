@@ -2,11 +2,9 @@
 layout: post
 title: Ladies Learning Code comes to Lethbridge
 categories:
-- Training
 - Ladies Learning Code
 tags:
 - workshop
-- ladieslearningcode
 - python
 status: publish
 type: post

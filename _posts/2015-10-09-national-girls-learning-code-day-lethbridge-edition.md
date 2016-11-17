@@ -1,7 +1,8 @@
 ---
 layout: post
 title: National Girls Learning Code Day, Lethbridge edition
-categories: []
+categories: 
+- ladies learning code
 tags: []
 status: publish
 type: post

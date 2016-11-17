@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Girls Learning Ruby
-categories: []
+categories:
+- ladies learning code
 tags: []
 status: publish
 type: post

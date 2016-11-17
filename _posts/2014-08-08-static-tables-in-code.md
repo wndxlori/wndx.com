@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Static Tables in Code
-categories: []
+categories:
+- products
 tags:
 - ruby
 - RubyMotion

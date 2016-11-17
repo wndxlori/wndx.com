@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Screw you, too, Rogers
-categories: []
+categories:
+- business
 tags:
 - rogers
 - ripoff

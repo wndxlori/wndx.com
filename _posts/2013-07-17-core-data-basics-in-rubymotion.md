@@ -2,8 +2,7 @@
 layout: post
 title: Core Data Basics in RubyMotion
 categories:
-- RubyMotion
-- Core Data
+- products
 tags:
 - rails
 - ruby

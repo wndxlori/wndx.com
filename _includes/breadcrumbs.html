@@ -7,7 +7,7 @@
     ›
   <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
     <a href="/archives/category/{{ page.categories | first | slugify }}/" itemprop="url">
-      <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
+      <span itemprop="title">{{ page.categories | first | replace: '-',' ' | titleize }}</span>
     </a>
   </span>
   {% endif %}

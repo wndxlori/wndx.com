@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Core Data has selects
-categories: []
+categories:
+- products
 tags: []
 status: publish
 type: post

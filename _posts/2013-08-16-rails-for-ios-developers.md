@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rails for iOS Developers
-categories: []
+categories: 
+- workshops
 tags:
 - nsscotland
 - rails

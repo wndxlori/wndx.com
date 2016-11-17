@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Core Data - Did you know?
-categories: []
+categories:
+- products
 tags:
 - iOS
 - development

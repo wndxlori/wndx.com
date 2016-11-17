@@ -4,7 +4,6 @@ title: Why Python?
 categories:
 - Ladies Learning Code
 tags:
-- ladieslearningcode
 - python
 - workshop
 status: publish

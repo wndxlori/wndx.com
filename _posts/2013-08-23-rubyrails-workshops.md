@@ -2,7 +2,7 @@
 layout: post
 title: Ruby/Rails Workshops...
 categories:
-- Rails
+- workshops
 tags:
 - ruby
 - rails

@@ -2,7 +2,7 @@
 layout: post
 title: The Fourth R
 categories:
-- Training
+- ladies learning code
 tags:
 - girls learning code
 - women in computing
