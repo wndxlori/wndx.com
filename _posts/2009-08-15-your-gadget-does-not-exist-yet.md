@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Your gadget does not exist... yet
-categories: []
+categories:
+- just for fun
 tags: []
 status: publish
 type: post

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A new plan for more frequent blogging
-categories: []
+categories: 
+- business
 tags: []
 status: publish
 type: post

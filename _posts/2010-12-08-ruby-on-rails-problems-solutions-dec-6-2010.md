@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ruby on Rails problems & solutions - Dec 6, 2010
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

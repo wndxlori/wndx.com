@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My weekend Windows experience, or why I love Apple so much
-categories: []
+categories: 
+- business
 tags:
 - installer
 - mac

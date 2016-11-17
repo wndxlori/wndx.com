@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'May 25, 2001: Towel Day Honors Hitchhiker Author Adams | This Day In Tech'
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

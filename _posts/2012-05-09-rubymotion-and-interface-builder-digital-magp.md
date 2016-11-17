@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RubyMotion and Interface Builder… - Digital Magpie
-categories: []
+categories: 
+- mobile development
 tags:
 - interfacebuilder
 - ruby

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: iPad App Store finally live in Canada
-categories: []
+categories: 
+- mobile development
 tags:
 - canada
 - ipad

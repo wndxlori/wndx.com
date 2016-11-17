@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RubyMotion - In the beginning
-categories: []
+categories:
+- mobile development
 tags:
 - iOS
 - ipad

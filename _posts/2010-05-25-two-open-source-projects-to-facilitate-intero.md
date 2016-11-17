@@ -2,7 +2,8 @@
 layout: post
 title: Two open source projects to facilitate interoperability with Outlook .pst data
   files - Interoperability @ Microsoft - Site Home - MSDN Blogs
-categories: []
+categories: 
+- software craft
 tags:
 - microsoft
 - opensource

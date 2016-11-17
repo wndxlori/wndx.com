@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Biertijd.com // Media » Tablecloth Trick
-categories: []
+categories:
+- just for fun
 tags: []
 status: publish
 type: post

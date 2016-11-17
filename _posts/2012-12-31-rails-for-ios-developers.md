@@ -2,7 +2,7 @@
 layout: post
 title: Rails for iOS Developers - New sessions!
 categories:
-- rails4ios
+- workshops
 tags:
 - rails4ios
 - rails

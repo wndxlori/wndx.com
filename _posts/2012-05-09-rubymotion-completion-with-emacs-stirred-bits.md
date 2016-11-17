@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rubymotion completion with Emacs - Stirred bits
-categories: []
+categories:
+- mobile development
 tags:
 - emacs
 - ruby

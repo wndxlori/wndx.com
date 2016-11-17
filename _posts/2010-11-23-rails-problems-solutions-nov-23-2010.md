@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rails problems & solutions - Nov 23, 2010
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

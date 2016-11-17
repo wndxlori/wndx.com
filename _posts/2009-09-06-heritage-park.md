@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Heritage Park
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

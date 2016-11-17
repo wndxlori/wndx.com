@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Weird script running problem on WinXP
-categories: []
+categories:
+- software craft
 tags: []
 status: publish
 type: post

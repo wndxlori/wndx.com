@@ -2,7 +2,8 @@
 layout: post
 title: 'Maker Faire Preview: Animatronic Dragon Breathes 8-Foot Fireball | Gadget
   Lab'
-categories: []
+categories: 
+- business
 tags: []
 status: publish
 type: post

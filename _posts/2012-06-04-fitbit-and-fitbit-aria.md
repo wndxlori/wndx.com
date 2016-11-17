@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Fitbit and Fitbit Aria
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

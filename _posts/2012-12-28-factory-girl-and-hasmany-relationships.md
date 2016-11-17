@@ -2,7 +2,7 @@
 layout: post
 title: Factory Girl and has_many relationships
 categories:
-- Rails
+- web development
 tags:
 - factory_girl
 - rails

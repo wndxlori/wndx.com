@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Not so subtle sexism
-categories: []
+categories: 
+- ladies learning code
 tags:
 - feminism
 - geek

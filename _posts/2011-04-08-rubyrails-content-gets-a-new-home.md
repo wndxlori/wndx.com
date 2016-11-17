@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ruby/Rails content gets a new home
-categories: []
+categories:
+- business
 tags: []
 status: publish
 type: post

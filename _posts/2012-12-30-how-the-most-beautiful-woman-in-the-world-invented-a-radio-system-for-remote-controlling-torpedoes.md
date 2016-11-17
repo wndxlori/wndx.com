@@ -2,7 +2,8 @@
 layout: post
 title: How the "Most Beautiful Woman in the World" Invented a Radio System for Remote-Controlling
   Torpedoes | Brain Pickings
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: eTriever 4.0 Optimized for iPad | IHS
-categories: []
+categories: 
+- web development
 tags:
 - etriever
 - oil&gas

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: RubyMotion and CocoaPods
-categories: []
+categories:
+- mobile development
 tags:
 - cocoapods
 - iOS

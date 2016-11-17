@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A new plan, five weeks in
-categories: []
+categories:
+- just for fun
 tags:
 - energy
 - fitness

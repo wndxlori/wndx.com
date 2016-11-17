@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tamron updates 17-50mm lens for shaky hands | Deep Tech - CNET News
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

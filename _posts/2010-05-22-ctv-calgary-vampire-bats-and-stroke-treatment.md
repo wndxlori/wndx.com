@@ -1,7 +1,8 @@
 ---
 layout: post
 title: CTV Calgary- Vampire bats and stroke treatment - CTV News
-categories: []
+categories: 
+- just for fun
 tags:
 - bats
 - health

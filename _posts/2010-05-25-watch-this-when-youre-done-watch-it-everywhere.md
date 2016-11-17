@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Watch this. When you’re done, watch it … « Everywhere Else
-categories: []
+categories:
+- business
 tags:
 - business
 - motivation

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Mingle2 - The Mind of a Web Developer: An Illustrated Diagram'
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

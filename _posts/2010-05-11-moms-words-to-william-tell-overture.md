@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mom’s words to William Tell Overture
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

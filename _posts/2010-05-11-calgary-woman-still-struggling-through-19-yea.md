@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Calgary woman still struggling through 19-year HR complaint
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

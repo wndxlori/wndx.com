@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Jeep Liberty commercial
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

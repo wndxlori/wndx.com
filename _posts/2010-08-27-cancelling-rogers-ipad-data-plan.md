@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cancelling Rogers iPad data plan
-categories: []
+categories: 
+- business
 tags:
 - Rogers
 - cancel

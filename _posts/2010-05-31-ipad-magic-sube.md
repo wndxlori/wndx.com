@@ -1,7 +1,8 @@
 ---
 layout: post
 title: iPad magic sub:E
-categories: []
+categories: 
+- just for fun
 tags:
 - ipad
 - magic

@@ -2,7 +2,8 @@
 layout: post
 title: 'How to use models in your migrations (without killing kittens) - Gem Session:
   ruby on rails'
-categories: []
+categories:
+- web development
 tags:
 - activerecord
 - migrations

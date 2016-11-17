@@ -1,7 +1,8 @@
 ---
 layout: post
 title: iPad/Pages experiment
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

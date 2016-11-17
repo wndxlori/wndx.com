@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Well, now I know who to boycott
-categories: []
+categories: 
+- business
 tags:
 - canada
 - oil

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Don't sneeze...
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

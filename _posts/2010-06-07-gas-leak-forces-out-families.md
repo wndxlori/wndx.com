@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Gas leak forces out families
-categories: []
+categories: 
+- products
 tags: []
 status: publish
 type: post

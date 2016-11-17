@@ -2,7 +2,8 @@
 layout: post
 title: YouTube sensation OK Go among performers on this year's Calgary Stampede Coca-Cola
   stage
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Ada Lovelace Day #ALD10'
-categories: []
+categories: 
+- ladies learning code
 tags: []
 status: publish
 type: post

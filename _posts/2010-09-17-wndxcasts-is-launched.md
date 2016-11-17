@@ -1,7 +1,8 @@
 ---
 layout: post
 title: WNDXcasts is launched
-categories: []
+categories: 
+- business
 tags:
 - mobile web development
 - screencast

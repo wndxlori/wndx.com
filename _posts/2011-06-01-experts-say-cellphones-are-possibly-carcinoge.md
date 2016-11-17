@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Experts say cellphones are 'possibly carcinogenic'
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

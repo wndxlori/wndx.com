@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Revenue Canada revokes New Hope institute's charity status
-categories: []
+categories: 
+- business
 tags: []
 status: publish
 type: post

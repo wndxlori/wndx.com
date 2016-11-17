@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Google Maps V3 vs Bing Maps 7
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

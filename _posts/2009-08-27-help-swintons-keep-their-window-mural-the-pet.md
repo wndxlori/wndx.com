@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Help Swinton's keep their window mural! - The Petition Site
-categories: []
+categories: 
+- business
 tags: []
 status: publish
 type: post

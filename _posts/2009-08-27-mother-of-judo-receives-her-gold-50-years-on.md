@@ -1,7 +1,8 @@
 ---
 layout: post
 title: '"Mother of Judo" receives her gold 50 years on - Yahoo! News'
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

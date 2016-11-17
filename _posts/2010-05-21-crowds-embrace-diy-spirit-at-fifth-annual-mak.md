@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Crowds Embrace DIY Spirit at Fifth Annual Maker Faire | Gadget Lab
-categories: []
+categories: 
+- business
 tags:
 - maker faire
 status: publish

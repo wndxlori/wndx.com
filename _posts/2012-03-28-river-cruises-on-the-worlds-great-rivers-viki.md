@@ -1,7 +1,8 @@
 ---
 layout: post
 title: River Cruises on the World’s Great Rivers - Viking River Cruises
-categories: []
+categories:
+- just for fun
 tags: []
 status: publish
 type: post

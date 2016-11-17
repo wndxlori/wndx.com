@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Jeff Koons’ BMW Art Car Doesn’t Suck | Autopia
-categories: []
+categories: 
+- just for fun
 tags:
 - artcar
 - bmw

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: OK Go - This Too Shall Pass - Rube Goldberg Machine version - Official
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

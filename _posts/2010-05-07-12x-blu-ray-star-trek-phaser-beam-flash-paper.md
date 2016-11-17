@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 12X Blu-ray Star Trek Phaser - Beam, Flash Paper, Balloon...
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

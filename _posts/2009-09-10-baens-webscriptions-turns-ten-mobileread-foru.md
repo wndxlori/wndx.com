@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Baen's Webscriptions turns ten - MobileRead Forums
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

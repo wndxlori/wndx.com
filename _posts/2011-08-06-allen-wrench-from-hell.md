@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Allen Wrench from Hell
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Turning off BirdsEye (or 3D) on Bing Maps
-categories: []
+categories:
+- web development
 tags:
 - 3d
 - bing

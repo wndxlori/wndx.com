@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Toyota - changing software development processes
-categories: []
+categories: 
+- software craft
 tags: []
 status: publish
 type: post

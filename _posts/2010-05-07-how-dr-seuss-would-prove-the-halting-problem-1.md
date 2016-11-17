@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How Dr. Seuss would prove the halting problem undecidable
-categories: []
+categories: 
+- software craft
 tags: []
 status: publish
 type: post

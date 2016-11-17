@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Can't mass-assign protected attributes for rake db:seed
-categories: []
+categories: 
+- web development
 tags: []
 status: publish
 type: post

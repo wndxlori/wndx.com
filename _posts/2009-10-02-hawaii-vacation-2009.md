@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hawaii Vacation 2009
-categories: []
+categories: 
+- just for run
 tags: []
 status: publish
 type: post

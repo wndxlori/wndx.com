@@ -1,7 +1,8 @@
 ---
 layout: post
 title: xkcd - A Webcomic - Tech Support Cheat Sheet
-categories: []
+categories: 
+- software craft
 tags: []
 status: publish
 type: post

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "@OldSpice does video replies"
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post

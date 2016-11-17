@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Perfect Parmesan Pork Tenderloin for your Dinner Party
-categories: []
+categories: 
+- just for fun
 tags: []
 status: publish
 type: post
