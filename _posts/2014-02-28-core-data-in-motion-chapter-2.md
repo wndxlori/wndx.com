@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: core-data-book
 title: Core Data in Motion - Chapter 2
 categories: 
 - products
-tags: []
+tags:
+- ruby
+- rubymotion
+- core data
+- software craft
 status: publish
 type: post
 published: true
@@ -13,13 +17,14 @@ meta: {}
 So, Core Data and relationships.  Lots of iOS apps are small, so why wouldn't you just smoosh all your data into one big model?
 
 
-Performance. Memory. Speed.
+#### Performance. Memory. Speed.
 
 
-With Core Data, you cannot simply retrieve only certain attributes from a object.  For instance, in my WIMBY application, we have a rather huge monolithic well table, with about 20 attributes for each well.  When we want to display these on a map, we only need 4 of those 20 attributes.  A unique identifier,  "label" for the pin, and the latitude and longitude values for map coordinates.  To be memory/bandwidth efficient, we would only select the 4 attributes we actually need when retrieving the data from the database.  In Rails ActiveRecord parlance, that would be something like:
+With Core Data, you cannot simply retrieve only certain attributes from a object.  For instance, in my [WIMBY](https://wimby.ca) application, we have a rather huge monolithic well table, with about 20 attributes for each well.  When we want to display these on a map, we only need 4 of those 20 attributes.  A unique identifier,  "label" for the pin, and the latitude and longitude values for map coordinates.  To be memory/bandwidth efficient, we would only select the 4 attributes we actually need when retrieving the data from the database.  In Rails ActiveRecord parlance, that would be something like:
 
-
+```ruby
 Well.select(:uwi, :well_name, :surface_latitude, :surface_longitude)
+```
 
 
 In this 
@@ -43,5 +48,5 @@ In our particular case of the well table, Core Data will either fetch entire obj
 So how do we make make our object fetches more performant in Core Data?
 
 
-This is accomplished through decomposing our monolithic models into several distinct models with one-to-one relationships between each model (entity).  Each model contains only the information necessary for the view in which it will be used.  In the hot-off-the-presses Chapter 2 of 
+This is accomplished through decomposing our monolithic models into several distinct models with one-to-one relationships between each model (entity).  Each model contains only the information necessary for the view in which it will be used.  In Chapter 2 of 
 [Core Data in Motion](http://coredatainmotion.com), we examine, in detail, how to accomplish this.

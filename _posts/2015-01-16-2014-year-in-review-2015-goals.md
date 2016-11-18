@@ -2,9 +2,8 @@
 layout: post
 title: 2014 Year in Review + 2015 Goals
 categories:
-- Business
+- business
 tags:
-- wndx
 - 30x500
 - goals
 status: publish
@@ -32,7 +31,7 @@ Before looking forward, however, I need to get an idea of where I currently stan
 [Stripe](https://stripe.com/ca), downloaded my transaction history, and summed everything up:
 
 
-![WNDX Products Revenue](/s/Screenshot-2015-01-09-135425.png)
+![WNDX Products Revenue](/img/original/Screenshot-2015-01-09-135425.png){: .img-responsive .center-block}
 
 
 Ok, that % increase on the book is kind of lame, since I only sold one copy in Dec 2013, but the overall revenue numbers were still a nice uptick, year over year. I guess I’m still in that constant battle with impostor syndrome, and I didn’t keep track regularly, because I didn’t think I was doing that well, considering that I was still pretty much half-assing my way along last year.
@@ -41,22 +40,22 @@ Ok, that % increase on the book is kind of lame, since I only sold one copy in D
 Now I have the numbers on which to base my goals for the next year. Drum roll, please...
 
 
-*Marketing the 
+* Marketing the 
 [Core Data in Motion](http://coredatainmotion.com) book
 
 
-*Create new 
+* Create new 
 [Advanced Rails Workshop](http://www.wndx.com/workshops/)
 
 
-*Schedule/deliver 
+* Schedule/deliver 
 [Rails/Advanced Rails/Rails4iOS workshops](http://www.wndx.com/workshops/) quarterly
 
 
-*Finish my damn iOS application - WIMBY
+* Finish my damn iOS application - WIMBY
 
 
-*Establish a 
+* Establish a 
 [Ladies Learning Code](http://ladieslearningcode.com) Lethbridge Chapter & and host at least one workshop
 
 
@@ -73,12 +72,12 @@ The iOS application is a bit of a soft goal.  I need to finish it, because it's 
 
 
 I also want to continue my volunteer work in conjunction with Ladies Learning Code, to improve the levels of diversity in software development.  Lethbridge may be small, but it has both a university and a college, so I fully expect to be able to host workshops here quarterly, as I get the Lethbridge Chapter ramped up. (
-[Contact](http://www.wndx.com/contact/) me if you are interested in helping out!)
+[Contact](/#contact) me if you are interested in helping out!)
 
 
 So there we have it.  Last year I had a 300% increase in revenue.  I don't think it's a stretch to go for 500% this year (not a goal, but a good measuring stick of progress), since I am buckling down with these definite goals.  Instead of leaving my revenue checkup for the end of the year, this year I'll be doing that at least quarterly, so I can tell what sort of progress I am making.
 
 
 If you'd like to keep in touch, you can always 
-[contact](http://www.wndx.com/contact/) me directly, or you can 
+[contact](/#contact) me directly, or you can 
 [sign up for my mailing list](http://mad.ly/signups/29211/join), and get advance notice about workshops and special discounts for my products not offered elsewhere.

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: core-data-book
 title: Core Data Relationships in RubyMotion
 categories:
 - products
 tags:
-- Core Data
-- RubyMotion
-- relationships
+- core data
+- rubymotion
+- mobile development
 - ruby
 - ios
 status: publish
@@ -22,10 +22,10 @@ Updated June 12, 2015
 So, we've been talking about using Core Data in RubyMotion.  If you missed my earlier posts, you can find them here:
 
 
-*[Introduction to Core Data in Motion](http://www.wndx.com/blog/core-data-in-motion)
+*[Introduction to Core Data in Motion](/blog/core-data-in-motion)
 
 
-*[Core Data Basics in RubyMotion](http://www.wndx.com/blog/core-data-basics-in-rubymotion)
+*[Core Data Basics in RubyMotion](/blog/core-data-basics-in-rubymotion)
 
 
 Today, let's dig into a more meaty problem.  Relationships between entities in Core Data.  If you google for that, you will undoubtedly end up at Ray Wenderlich's site, and his 
@@ -38,13 +38,13 @@ in code.  Thankfully, it's not as difficult as it might seem at first blush.  Si
 
 
 In the 
-[basics](http://www.wndx.com/blog/core-data-basics-in-rubymotion) post we already created Core Data managed objects, defined their attributes, and dealt with the persistent store coordinator, managed object context, and the managed object model.  So let's just assume you have all that, and get right down to… two models, how to connect them together.
+[basics](/blog/core-data-basics-in-rubymotion) post we already created Core Data managed objects, defined their attributes, and dealt with the persistent store coordinator, managed object context, and the managed object model.  So let's just assume you have all that, and get right down to… two models, how to connect them together.
 
 
 I was interested to discover that a relationship is simply another property, much like an entity attribute.  So, when the entities properties are assigned, you just add the relationships to that array along with the attributes.  Seems simple enough.
 
 
-![It's a trap](http://i0.kym-cdn.com/photos/images/original/000/001/384/Atrapitis.gif)
+![It's a trap](http://i0.kym-cdn.com/photos/images/original/000/001/384/Atrapitis.gif){: .img-responsive .center-block}
 
 
 Unfortunately, it's not that simple after all.  In order for two Core Data entities to be connected, each needs to have a relationship defined to the other.  The problem here being the old chicken-and-egg.  When you define the first entity, the second does not exist, and so the 
@@ -57,7 +57,7 @@ But here's the trick.  You CAN create an entity, and add it to the managed objec
 First, I have re-factored my 
 [models](https://github.com/wndxlori/WNDXRubyMotion/blob/master/FailedBankCD/app/models/failed_bank_info.rb), so that the entity creation does not add attributes at the same time.
 
-
+```ruby
 def self.entity
     @entity ||= begin
       # Create the entity for our managed object class
@@ -67,14 +67,14 @@ def self.entity
       entity
     end
   end
-
+```
 
 As you can see here, this code is looking pretty non-specific to the model, and can easily be factored out.  In fact, that's where most of the RubyMotion specific modelling gems that support Core Data start.  I'll leave that as an exercise for you.
 
 
 Next we have separate definitions for the attributes:
 
-
+```ruby
 def self.attributes
     @attributes ||= [
       {:name => 'name', :type => NSStringAttributeType, :default => nil, :optional => false},
@@ -82,11 +82,11 @@ def self.attributes
       {:name => 'state', :type => NSStringAttributeType, :default => nil, :optional => false},
     ]
   end
-
+```
 
 and the relationships:
 
-
+```ruby
 def self.relationships
     @relationships ||= [
       {
@@ -98,7 +98,7 @@ def self.relationships
       },
     ]
   end
-
+```
 
 We have similar atrributes and relationship defined on the 
 [FailedBankDetails](https://github.com/wndxlori/WNDXRubyMotion/blob/master/FailedBankCD/app/models/failed_bank_details.rb) entity, which is the inverse of this relationship.
@@ -106,18 +106,18 @@ We have similar atrributes and relationship defined on the
 
 Ok, now that we have entities, attributes, and relationships specified, let's jump over to our 
 [store](https://github.com/wndxlori/WNDXRubyMotion/blob/master/FailedBankCD/app/models/failed_bank_store.rb) object, where we create the 
-NSManagedObjectModel:
+`NSManagedObjectModel`:
 
-
-model ||= NSManagedObjectModel.alloc.init.tap do |m|
+```ruby
+    model ||= NSManagedObjectModel.alloc.init.tap do |m|
       m.entities = [FailedBankInfo, FailedBankDetails].collect {|c| c.entity}
       m.entities.each {|entity| set_entity_properties(entity,m)}
     end
-
+```
 
 Here we have added all the entities in our data model (all two of them) to the MOM.  Once those entities exist, they can be used to complete the creation of the relationships.
 
-
+```ruby
 def set_entity_properties(entity, model)
     # set up attributes
     managed_object_class = Object.const_get(entity.managedObjectClassName)
@@ -149,12 +149,12 @@ def set_entity_properties(entity, model)
     # assign properties
     entity.properties = attributes + relationships
   end
-
+```
 
 And voila!  We have a fully specified data model, with relationships and inverse relationships.
 
 
-![Voila!](http://www.englize.com/wp-content/uploads/Voila_Logo.jpg)
+![Voila!](/img/original/voila.gif){: .img-responsive .center-block} 
 
 
 The complete 

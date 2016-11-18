@@ -4,8 +4,7 @@ title: A Schedule that Fits... ME
 categories:
 - just for fun
 tags:
-- random
-- schedule
+- business
 - productivity
 status: publish
 type: post

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: core-data-book
 title: Static Tables in Code
 categories:
 - products
 tags:
 - ruby
-- RubyMotion
-- Core Data
+- rubymotion
+- core data
 - uitableviewcontroller
 status: publish
 type: post
@@ -22,7 +22,7 @@ Creating a static table in code, to display some detail data in your application
 
 For my specific example, I have 6 items of information about a well to display, and this data logically groups into 3 sections of 2 items in each section.  So, we'll set up the table view using sections like so:
 
-
+```ruby
 class WellDetailsController < UITableViewController
 
   SECTIONS = %w(Name Status Location)
@@ -47,7 +47,7 @@ class WellDetailsController < UITableViewController
   def tableView(tableView, titleForHeaderInSection:section)
     SECTIONS[section]
   end
-
+```
 
 With this code, I have set up my 3 sections (Name, Status, and Location) as a constant array.  Then we implement the necessary methods of the table view (
 numberOfSectionsInTableView, 
@@ -57,7 +57,7 @@ tableView:titleForHeaderInSection) to deal with these sections.
 
 Next up, we need to fill the actual table cells with data:
 
-
+```ruby
 CellID = self.class.name
 
   def tableView(tableView, cellForRowAtIndexPath:indexPath)
@@ -88,7 +88,7 @@ CellID = self.class.name
     tableView.reloadData
   end
 end
-
+```
 
 Here, we set up the traditional 
 tableView:cellForRowAtIndexPath.  In it, we pull the data for the cell textLabel and detailTextLabel out of our 
@@ -105,7 +105,3 @@ That's all folks.
 Certainly, it would be far simpler to code this up using 
 [Promotion](https://github.com/clearsightstudio/ProMotion), assuming you already knew and used Promotion. But it wasn't necessary to add another gem to my project for this.  And I now understand exactly how sections and rows work in 
 UITableViewController, so it wasn't a total loss ;-)
-
-
-If you liked this post, you may find the prerelease of my 
-[Core Data in Motion](http://book.coredatainmotion.com) book of interest.  Certainly if you plan to use Core Data in your RubyMotion project it will save you many hours of head-scratching. Chapter 4 (Load Optimization) is now available. This will be the last chapter before the book goes up to full price, so get it now, and you will receive the last couple chapters (and maybe some bonus content) as they are completed, at a bargain price.

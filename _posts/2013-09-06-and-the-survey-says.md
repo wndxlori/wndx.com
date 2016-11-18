@@ -14,7 +14,7 @@ meta: {}
 ---
 
 Thanks to everyone who participated in my 
-[Ruby Workshop survey](http://www.wndx.com/blog/rubyrails-workshops).  Although I didn't get a tonne of responses, the ones I did get formed some distinct patterns, so I got what I needed.
+[Ruby Workshop survey](/blog/rubyrails-workshops).  Although I didn't get a tonne of responses, the ones I did get formed some distinct patterns, so I got what I needed.
 
 
 In general, you prefer weekends or don't care, so weekend it is.

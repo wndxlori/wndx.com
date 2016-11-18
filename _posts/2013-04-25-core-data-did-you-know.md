@@ -4,9 +4,9 @@ title: Core Data - Did you know?
 categories:
 - products
 tags:
-- iOS
-- development
-- coredata
+- ios
+- mobile development
+- core data
 status: publish
 type: post
 published: true
@@ -18,6 +18,6 @@ meta: {}
 
 
 
-That, right there, is worth the price of going thru the entire tutorial.  I have not seen this little limitation mentioned before.
+That, right there, is worth the price of going thru the entire [tutorial](https://www.raywenderlich.com/115695/getting-started-with-core-data-tutorial).  I have not seen this little limitation mentioned before.
 
  

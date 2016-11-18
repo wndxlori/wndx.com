@@ -26,6 +26,13 @@ body.not-home { padding-top: 90px; }
   font-size: 16px;
 }
 
+.post iframe {
+  border: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #sidebar .row {
   padding-bottom: 2em;
 }

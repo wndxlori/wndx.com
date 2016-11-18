@@ -20,6 +20,9 @@ ads: false
         <div class="inner-wrap text-justify">
             <div id="content" class="page-content">
                 {{ content }}
+                {% if layout.iframe %}
+                    <iframe class="embed-responsive-item" width="{{layout.iframe.width}}" height="{{layout.iframe.height}}" src="{{layout.iframe.url}}" ></iframe>
+                {% endif %}
                 <hr />
                 <aside>
                     {% if page.comments == true %}{% include comments.html %}{% endif %}

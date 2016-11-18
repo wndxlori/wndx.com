@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: core-data-book
 title: Core Data with NSFetchedResultsController in RubyMotion
 categories:
 - products
 tags:
-- Core Data
+- core data
 - ruby
 - rubymotion
 status: publish
@@ -21,46 +21,45 @@ Today we'll be continuing our series on
 [Core Data in RubyMotion](http://coredatainmotion.com), discussing table view optimization of large amounts of data in your RubyMotion application.  If you've missed the earlier posts, you can find them here:
 
 
-[Introduction to Core Data in Motion](http://www.wndx.com/blog/core-data-in-motion)
+[Introduction to Core Data in Motion](/blog/core-data-in-motion)
 
 
-[Core Data Basics in RubyMotion](http://www.wndx.com/blog/core-data-basics-in-rubymotion)
+[Core Data Basics in RubyMotion](/blog/core-data-basics-in-rubymotion)
 
 
-[Core Data Relationships in RubyMotion](http://www.wndx.com/blog/core-data-relationships-in-rubymotion)
+[Core Data Relationships in RubyMotion](/blog/core-data-relationships-in-rubymotion)
 
 
-[Core Data Pre-loading in RubyMotion](http://www.wndx.com/blog/core-data-pre-loading-in-rubymotion)
+[Core Data Pre-loading in RubyMotion](/blog/core-data-pre-loading-in-rubymotion)
 
 
-[Core Data Load Optimization in RubyMotion](http://www.wndx.com/blog/core-data-load-optimization-in-rubymotion)
+[Core Data Load Optimization in RubyMotion](/blog/core-data-load-optimization-in-rubymotion)
 
 
 Once again, we turn to Ray Wenderlich for inspiration and instruction.  His 
 [Core Data tutorial](http://www.raywenderlich.com/999/core-data-tutorial-for-ios-how-to-use-nsfetchedresultscontroller) wraps up with a post on the usage of 
-NSFetchedResultsController, so we should probably talk about that as well.
+`NSFetchedResultsController`, so we should probably talk about that as well.
 
 
 Why do we want to use 
-NSFetchedResultsController, anyway?  What's so special about it?  When we started this series, with a relatively small sample dataset, it didn't really need much optimization.  Now that we've loaded our database up with all 244,292 wells, it definitely needs some help, because I don't want my customers to wait 
+`NSFetchedResultsController`, anyway?  What's so special about it?  When we started this series, with a relatively small sample dataset, it didn't really need much optimization.  Now that we've loaded our database up with all 244,292 wells, it definitely needs some help, because I don't want my customers to wait 
 minutes for the table view to load, which is what it does at this point. That is what I would call a fetch 
 FAIL.
   
-       [caption id="" align="alignnone" width="1325.0"]
-![Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a30b61e4b0359ca412be9e_1436748642620_fetch-fail.jpg) Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/[/caption] 
+![Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_55a30b61e4b0359ca412be9e_1436748642620_fetch-fail.jpg){: .img-responsive .center-block} Source: http://sadmoment.com/dog-meets-tree-while-playing-fetch-in-the-park-with-a-frisbee/ 
   
 
 
 We will need to reduce memory overhead, and improve the response time of our table view, now that we have all that data.  Ideally, in a table view, we would only load up the data that is actually visible to the user at any given moment.  And 
 that is exactly what the utility class 
-NSFetchedResultsController provides.  Let's see how that is accomplished in RubyMotion.
+`NSFetchedResultsController` provides.  Let's see how that is accomplished in RubyMotion.
 
 
 First of all, we create an 
-NSFetchedResultsController. Since this object requires access to the 
-NSManagedObjectContext, which is in our store class, that's where we will put it.
+`NSFetchedResultsController`. Since this object requires access to the 
+`NSManagedObjectContext`, which is in our store class, that's where we will put it.
 
-
+```ruby
 def fetched_results_controller
     fetch_request = NSFetchRequest.alloc.init
     fetch_request.entity = NSEntityDescription.entityForName('FailedBankInfo', inManagedObjectContext:@context)
@@ -73,20 +72,20 @@ def fetched_results_controller
                                                sectionNameKeyPath:nil,
                                                cacheName:"Root")
   end
-
+```
 
 The key to the construction of the 
-NSFetchedResultsController is providing a base 
-NSFetchRequest.  This request needs to know which entity (a.k.a. model) is being fetched, and also requires an 
-NSSortDescriptor so it knows in what order to return the requested objects.  The 
+`NSFetchedResultsController` is providing a base 
+`NSFetchRequest`.  This request needs to know which entity (a.k.a. model) is being fetched, and also requires an 
+`NSSortDescriptor` so it knows in what order to return the requested objects.  The 
 fetchBatchSize simply limits the number of objects returned on any single query to the database.
 
 
 Now that we can create our 
-NSFetchedResultsController, where do we call it?  In this case, we will be creating it in our table view controller's 
-viewDidLoad method.
+`NSFetchedResultsController`, where do we call it?  In this case, we will be creating it in our table view controller's 
+`viewDidLoad` method.
 
-
+```ruby
 def viewDidLoad
     super
     error_ptr = Pointer.new(:object)
@@ -96,16 +95,16 @@ def viewDidLoad
       raise "Error when fetching banks: #{error_ptr[0].description}"
     end
   end
-
+```
 
 Here we create the 
-NSFetchedResultsController, set it's delegate to be self, and trigger the initial fetch to populate table view.
+`NSFetchedResultsController`, set it's delegate to be self, and trigger the initial fetch to populate table view.
 
 
 Next, we need to update the table view, so that it knows to get it's data from the 
-NSFetchedResultsController.
+`NSFetchedResultsController`.
 
-
+```ruby
 def tableView(tableView, numberOfRowsInSection:section)
     @fetch_controller.sections.objectAtIndex(section).numberOfObjects
   end
@@ -122,17 +121,17 @@ def tableView(tableView, numberOfRowsInSection:section)
     cell = tableView.dequeueReusableCellWithIdentifier(CellID) || UITableViewCell.alloc.initWithStyle(UITableViewCellStyleSubtitle, reuseIdentifier:CellID)
     configureCell(cell, atIndexPath:indexPath)
   end
-
+```
 
 These methods translate over from Ray's tutorial pretty much intact, without much change, other than the "rubyization".
 
 
 I did sort of skip a step back there, so let's not forget about that.  In 
-viewDidLoad we set the 
-NSFetchedResultsController's delegate to be self.  Now, we have to implement the 
-NSFetchedResultsControllerDelegate's signature methods.  Ray simply copied his implementation from an Apple sample.  And I've simply converted his code into a Ruby module.
+`viewDidLoad` we set the 
+`NSFetchedResultsController`'s delegate to be self.  Now, we have to implement the 
+`NSFetchedResultsControllerDelegate`'s signature methods.  Ray simply copied his implementation from an Apple sample.  And I've simply converted his code into a Ruby module.
 
-
+```ruby
 module NSFetchedResultsControllerDelegate
 
   def controllerWillChangeContent(controller)
@@ -170,20 +169,20 @@ module NSFetchedResultsControllerDelegate
     self.tableView.endUpdates
   end
 end
-
+```
 
 Then we must include that module in our table view controller, to satisfy the requirements of the delegate:
 
-
+```ruby
 class FailedBankTableViewController < UITableViewController
   include NSFetchedResultsControllerDelegate
-
+```
 
 It looks like a lot of code, but if you only need to display data, and you don't need to change it much, you should just be able to reuse this module when required.
 
 
 And that, as they say, is that.  We now have a working implementation of 
-NSFetchedResultsController, and the data will only be loaded 20 objects at a time.  This speeds things up immensely, and reduces memory usage in our app from get-killed-immediately to just fine ;-)  The complete 
+`NSFetchedResultsController`, and the data will only be loaded 20 objects at a time.  This speeds things up immensely, and reduces memory usage in our app from get-killed-immediately to just fine ;-)  The complete 
 [example](https://github.com/wndxlori/WNDXRubyMotion/tree/nsfetchedresultscontroller/FailedBankCD) can be downloaded and run.  Alas, I am unable to provide the "large data load" that I used, as that data is not mine to give away.  I encourage you to come up with your own large data set, and plug it in, and see how it works.
 
 

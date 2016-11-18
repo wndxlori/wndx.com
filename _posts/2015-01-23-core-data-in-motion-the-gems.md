@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: core-data-book
 title: Core Data in Motion - the Gems
 categories:
 - products
 tags:
-- Core Data
-- RubyMotion
+- core data
+- rubymotion
+- ruby
 - gems
 - book
 status: publish
