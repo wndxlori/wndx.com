@@ -6,7 +6,7 @@ categories:
 tags:
 - personal
 - lethbridge
-- tech
+- technology
 status: publish
 type: post
 published: true
@@ -16,7 +16,7 @@ meta: {}
 So here it is, the end of January. This marks exactly a year since my husband and I were "just checking out" the housing market in Lethbridge, Alberta and fell in love with our money-pit of a property.  I have another whole post drafted on how we arrived at our decision to move, so I'll leave that to another time, and just talk about what we've discovered about our new-old home town in that year.
   
       
-[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54cc1ca5e4b05d8fda8b4ba9_1422662828265_101027-_MG_4005.jpg)](http://www.lethbridge.ca/Things-To-Do/About-Lethbridge/PublishingImages/101027-_MG_4005.jpg)
+[![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_54cc1ca5e4b05d8fda8b4ba9_1422662828265_101027-_MG_4005.jpg){: .img-responsive .center-block}](http://www.lethbridge.ca/Things-To-Do/About-Lethbridge/PublishingImages/101027-_MG_4005.jpg)
   
 
 

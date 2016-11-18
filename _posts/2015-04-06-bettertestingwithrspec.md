@@ -7,6 +7,7 @@ tags:
 - ruby
 - rails
 - workshop
+- testing
 status: publish
 type: post
 published: true
@@ -17,7 +18,7 @@ meta:
 Let's get this one question out of the way, right off the bat.  Why RSpec?  or more specifically - why RSpec instead of MiniTest?
   
       
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_551dda23e4b06389c8205a32_1428019748396__img.jpg)
+![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_551dda23e4b06389c8205a32_1428019748396__img.jpg){: .img-responsive .center-block}
   
 
 
@@ -42,39 +43,25 @@ Now, it does take a little longer to get up to speed using RSpec, but once you h
 The RoR4Real Advanced Topics workshop - Better Testing with RSpec - will help you over that speed-bump of getting started using RSpec, and introduce you to the full power of the RSpec environment covering:
 
 
-*RSpec basics
+* RSpec basics
 
-*Setting up your project with RSpec
+  * Setting up your project with RSpec
+  * describe & context blocks
+  * expectations in detail
+  * using test doubles
+  * rspec-rails intro
+* More advanced concepts
 
-
-*describe & context blocks
-
-
-*expectations in detail
-
-
-*using test doubles
-
-
-*rspec-rails intro
-
-
-*More advanced concepts
-
-*writing your own matchers
-
-
-*the power of factories
-
-
-*integration testing with Capybara
+  * writing your own matchers
+  * the power of factories
+  * integration testing with Capybara
 
 
 So, to get back to the original question, "Why RSpec", let's see what one of the authors of 
 [The RSpec Book](https://pragprog.com/book/achbd/the-rspec-book) had to say:
 
 
-![](https://imagery.pragprog.com/products/140/achbd_xlargecover.jpg?1298589834)
+![](https://imagery.pragprog.com/products/140/achbd_xlargecover.jpg?1298589834){: .img-responsive .center-block}
 
 
 >RSpec is not just about RSpec. It's about BDD. It's about encouraging
@@ -87,9 +74,7 @@ So, to get back to the original question, "Why RSpec", let's see what one of the
 
 And that's why I use RSpec.  If you'd like to write better tests in RSpec like a pro, you should sign up (and get 50% off!!) for one of my Advanced Rails Workshops now:
 
-
 [Signup Now!](/workshops/)
-
 
 Even if you don't sign up now, if you are intrigued by RSpec, please do 
 [vote](https://www.surveymonkey.com/s/ZY8RHXJ) for this topic in my 
