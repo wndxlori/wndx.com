@@ -176,8 +176,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    width:93px;
+    height:22px;
+    background-image:url(/img/logos/brand-smallest.png);
+    background-repeat:no-repeat;
+    margin:8px 0 0 5px; /*better position*/
 }
 
 .navbar-default .navbar-brand:hover,
@@ -245,7 +248,10 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        width:373px;
+        height:86px;
+        background-image:url(/img/logos/brand.png);
+        background-repeat:no-repeat;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -261,7 +267,10 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        width:186px;
+        height:43px;
+        background-image:url(/img/logos/brand-small.png);
+        background-repeat:no-repeat;
     }
 }
 
