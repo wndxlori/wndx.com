@@ -1,7 +1,9 @@
 body.not-home { padding-top: 90px; }
 
-.navbar .container {
-  padding-left: 0;
+@media(min-width:768px) {
+  .navbar .container {
+    padding-left: 0;
+  }
 }
 
 .affix {

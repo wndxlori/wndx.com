@@ -176,9 +176,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    width:93px;
-    height:22px;
-    background-image:url(/img/logos/brand-smallest.png);
+    width:186px;
+    height:43px;
+    background-image:url(/img/logos/brand-small.png);
     background-repeat:no-repeat;
     margin:8px 0 0 5px; /*better position*/
 }
