@@ -1,5 +1,18 @@
 body.not-home { padding-top: 90px; }
 
+.navbar-default.navbar-normal {
+    padding: 10px 0;
+    background-color: #222;
+}
+
+.navbar-default.navbar-normal .navbar-brand {
+    width:186px;
+    height:43px;
+    background-image:url(/img/logos/brand-small.png);
+    background-repeat:no-repeat;
+}
+
+
 @media(min-width:768px) {
   .navbar .container {
     padding-left: 0;

@@ -8,20 +8,20 @@ ads: false
     </div>
 </div>
 <div class="post row">
-    <div id="sidebar" class="col-md-3 pull-right">
+    <div id="sidebar" class="col-md-3 col-md-push-9 col-sm-12">
         {% include post-sidebar.html %}
 	</div>
-	<div class="col-md-9 pull-left">
+	<div class="col-md-9 col-md-pull-3 col-sm-12">
         {% if page.image.feature %}
           {% include post-image-feature.html %}
         {% endif %}
-        <div class="page-title">
+        <div class="row page-title">
             <h1>{{ page.title }}</h1>
             <hr />
             {{ page.date | date: '%B %-d, %Y'}}
         </div>
-        <div class="inner-wrap text-justify">
-            <div id="content" class="page-content">
+        <div class="row text-justify">
+            <div id="content" class="col-lg-12">
                 {{ content }}
                 {% if layout.iframe %}
                     <iframe class="embed-responsive-item" width="{{layout.iframe.width}}" height="{{layout.iframe.height}}" src="{{layout.iframe.url}}" ></iframe>
@@ -33,6 +33,5 @@ ads: false
             </div><!-- /.content -->
         </div><!-- /.inner-wrap -->
         {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-
 	</div> <!-- post content -->
 </div>
