@@ -1,0 +1,27 @@
+---
+# Imports client portal style and then provides overrides
+---
+@import "style.css";
+
+.cta-block,
+.title-section {
+    background: #222;
+}
+.btn, button, input[type="button"], input[type="reset"], input[type="file"], input[type="submit"] {
+    background: #{{ site.data.template.color.primary }};
+}
+.btn:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="file"]:hover, input[type="submit"]:hover {
+    background: #{{ site.data.template.color.secondary }};
+}
+#footer {
+    background: #fff;
+    color: #{{ site.data.template.color.primary }};
+}
+#footer a {
+    color: #{{ site.data.template.color.primary }};
+    border: none;
+}
+#footer a:hover {
+    color: #{{ site.data.template.color.secondary-dark }};
+}
+

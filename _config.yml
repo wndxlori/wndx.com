@@ -1,5 +1,4 @@
 url: https://www.wndx.com
-baseurl: 
 
 # Site settings
 title: The WNDX Group Inc
@@ -11,6 +10,8 @@ owner:
 
 collections:
   projects:
+    output: true
+  clients:
     output: true
 
 # Postal address (add as many lines as necessary)

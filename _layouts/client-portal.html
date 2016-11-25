@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]> <html class="oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <title>{{page.client.name}} Client Area</title>
+    <link rel="icon" type="image/png" href="#" sizes="96x96">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ "/css/client-portal/main.css" | prepend: site.baseurl }}">
+</head>
+<body>
+        <div class="title-section add2">
+            <div class="container">
+                <img src="/img/logos/brand.png" alt="Pixel Creative Logo" style="padding:20px;">
+                <p>{{ page.client.name }} Client Area</p>
+            </div>
+        </div>
+        <div class="content-section">
+            <div class="container">
+                <div class="entry">
+                    <p>
+                        Hello and welcome! Here you can find everything you need during our project
+                        from all your files to how to contact me. You'll have full access to this area
+                        throughout the whole project and for 6 months after completion. However all of your
+                        files will still live on in <a href="{{ page.client.dropbox_url }}">your Dropbox folder.</a>
+                    </p>
+                </div>
+                <h2>How to contact me</h2>
+                <div class="entry">
+                    <p>
+                        If you have any small questions or comments throughout the project, you can
+                        <a class="email" href="mailto:lori@wndx.com">email me.</a> For anything larger
+                        it's best to wait until our next catch up call so we can go through it properly.
+                        Our call is scheduled for every <strong>{{page.client.schedule.meeting}}</strong>
+                    </p>
+                </div>
+                <h2>Availability</h2>
+                <div class="entry">
+                    <p>I will be available on this project <strong>{{page.client.schedule.days}}</strong>  </p>
+                    <p>
+                        Occasionally I take time off for holidays so if this is due to happen during our project
+                        I will let you know in good time. Other than that you can expect intermittent availability
+                        around all major holidays including Christmas, New Year, Easter and (ok, not a major
+                        holiday) my birthday - (end of August)
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="projects">
+            <div class="container">
+                {{ content }}
+            </div>
+        </div>
+        <div class="cta-block">
+            <div class="container">
+                <p>Want to see all your files? </p>
+                <a href="{{ page.client.dropbox_url }}" class="btn">Go to your Dropbox folder <i class="icon-arrow-r"></i></a>
+            </div>
+        </div>
+        <footer id="footer">
+            <address>Lots of <i class="icon-heart"></i> and stardust</address>
+            <div class="social">
+                <span class="title">Follow along with me!</span>
+                <ul class="social-networks">
+                    <li><a href="{{ site.data.social.twitter.url }}"><i class="icon-twitter"></i></a></li>
+                </ul>
+            </div>
+            <ul class="contacts">
+                <li><a href="tel:#">1-403-217-5544</a></li>
+                <li><a href="mailto:lori@wndx.com">lori@wndx.com</a></li>
+            </ul>
+        </footer>
+    </div>
+</body>
+</html>
