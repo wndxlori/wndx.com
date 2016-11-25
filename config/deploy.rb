@@ -39,7 +39,14 @@ namespace :deploy do
   ServerName wndx.com
   ServerAlias www.wndx.com
   DocumentRoot /var/www/wndx.com/current
-
+  <Directory "/var/www/wndx.com/current/clients/kudos">
+    AuthType Basic
+    AuthName "Authentication Required"
+    AuthUserFile "/etc/apache2/.htpasswd"
+    Require user kudos
+    Order allow,deny
+    Allow from all
+  </Directory>
   # Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
   # error, crit, alert, emerg.
   # It is also possible  configure the loglevel for particular

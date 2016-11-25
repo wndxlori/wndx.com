@@ -1,0 +1,8 @@
+---
+layout:
+permalink: clients/kudos/.htaccess
+---
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /etc/apache2/.htpasswd
+Require user kudos
