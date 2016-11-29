@@ -1,6 +1,11 @@
-<div class="page-feature">
-	<div class="page-image">
+<div class="row page-feature">
+	<div class="col-lg-12 page-image">
 		<img src="/img/original/{{ page.image.feature }}" class="img-responsive" alt="{{ page.title }}" itemprop="image">
 		{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 	</div><!-- /.page-image -->
+	{% if page.image.caption %}
+	<div class="col-lg-12 page-image-caption">
+        <span class="text-muted">{{ page.image.caption }}</span>
+	</div>
+	{% endif %}
 </div><!-- /.page-feature -->

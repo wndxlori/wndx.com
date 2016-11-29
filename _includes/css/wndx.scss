@@ -23,6 +23,11 @@ body.not-home { padding-top: 90px; }
   top: 90px;
 }
 
+.page-title {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .page-title h1, .page-title hr {
   margin-top: 3px;
   margin-bottom: 3px;
@@ -30,6 +35,10 @@ body.not-home { padding-top: 90px; }
 
 .page-title hr {
   border-top: 3px solid #{{ site.data.template.color.primary }};
+}
+
+#content, .page-feature {
+  margin-top: 2em;
 }
 
 /* Custom, iPhone Retina */
