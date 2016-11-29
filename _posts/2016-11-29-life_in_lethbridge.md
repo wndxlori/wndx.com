@@ -1,5 +1,19 @@
-#Life in Lethbridge
-
+---
+layout: post
+title: Life In Lethbridge
+categories:
+- business
+tags:
+- lethbridge
+- personal
+- business 
+status: publish
+type: post
+published: true
+image:
+  feature: nikka_yuko_in_fall.png
+  caption: Fall colours in the iconic Nikka Yuko Japanese Garden
+---
 It's been 2.5 years since we moved out of Calgary, and down to my old home town of Lethbridge. So far, 
 we have really enjoyed the experience of living in Lethbridge. I moved away in 1982, so it's 
 been quite some time since I called Lethbridge "home".  Lots has changed.  And lots has stayed the same.
@@ -17,14 +31,14 @@ We thought the shingles would last another couple/five years.  Nope, the hail th
 idea, so new roof.  Took most of that first summer to find a contractor, but we built a garage.  And while we
 were at it, replaced the back fence.  Then the water heater started to go, and we replaced that with a tankless
 model. So, yup, it's been busy. But we also managed to sell our old house in Calgary at the top of the market, 
-and purchase this house here in Lethbridge, and end up mortgage-free. We knew we'd have to spend money on 
-this house, but the money that we used throw at the bank for our mortgage is now being used to improve this 
- house. 
+purchase this house that had been languishing on the market for over a year here in Lethbridge, and end up 
+mortgage-free. We knew we'd have to spend money on this house, but the money that we used throw at the bank 
+for our mortgage is now being used to improve this house. 
 
-I also love that from that first year we went from one brand spanking new food truck, to a total of about 
-EIGHT new and relocated food trucks this summer.  Trever got me an electric scooter for my birthday (and one 
-for him, so I don't have to go alone), so we've been bombing around town, going out for lunch and finding food 
-trucks. That's been pretty fun.
+I also love that from our first year back we went from one brand spanking new food truck, to a total of about 
+EIGHT new and relocated food trucks this past summer.  Trever got me an electric scooter for my birthday (and 
+one for him, so I don't have to go alone), so we've been bombing around town, going out for lunch and finding 
+food trucks. That's been pretty fun.
 
 Our two dogs simply love our new back yard.  The property is 75 ft wide, and 118 ft deep, so that is a lot of 
 yard.  Finnegan will go out and sit in the middle, where he can look at the whole thing.  I'm pretty sure
@@ -49,7 +63,7 @@ You might be wondering why I'm rambling on about all this.  I've been reading mo
 [Microsoft reboots war on sleep](https://m.signalvnoise.com/microsoft-reboots-war-on-sleep-a90da0396fb5#.r5c6cqh11)
 and I think it behooves those of us who have found a way beyond the rat race of startups and disruptive 
 technologies to tell our stories.  So I un-earthed this blog draft that I wrote and abandoned last year during 
-NaNoWriMo. 
+NaNoWriMo, and updated it a little. 
 
 I love what I do for a living, but I have never lived for my work.  I work to support my life. And life here in 
 Lethbridge has been very very good.
