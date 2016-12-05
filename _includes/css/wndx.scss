@@ -17,6 +17,10 @@ body.not-home { padding-top: 90px; }
   .navbar .container {
     padding-left: 0;
   }
+
+  section {
+    padding-top: 100px;
+  }
 }
 
 .affix {
@@ -115,6 +119,19 @@ ul.social-buttons li a:hover
 
 .label {
   font-family: {{ site.data.template.font.primary }};
+}
+
+#recommendations blockquote {
+  font-size: smaller;
+}
+
+.client-image {
+  margin: 0.5em;
+  width: 100px;
+  height: 100px;
+  border: 7px solid #f1f1f1;
+  color: #fff;
+  background-color: #{{ site.data.template.color.primary }};
 }
 
 
