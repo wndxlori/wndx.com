@@ -125,28 +125,11 @@ ul.social-buttons li a:hover
   font-size: smaller;
 }
 
-p.recommends {
-  position: relative;
-  padding: 10px 13px 10px 13px;
-  background-color: #fff;
-  border: 2px solid lightgrey;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  border-radius: 30px;
-  //-webkit-box-shadow: 2px 2px 4px #888;
-  //-moz-box-shadow: 2px 2px 4px #888;
-  //box-shadow: 2px 2px 4px #888;
-}
-
 .client-image {
-  z-index: 100;
-  left: 0;
   margin: 0.5em;
   width: 100px;
   height: 100px;
   border: 7px solid #f1f1f1;
-  border-radius: 100%;
-  text-align: center;
   color: #fff;
   background-color: #{{ site.data.template.color.primary }};
 }
