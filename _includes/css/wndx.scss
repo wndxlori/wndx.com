@@ -13,7 +13,27 @@ body.blog { padding-top: 90px; }
 }
 
 .not-home header {
+  background-image: none;
+  //position: relative;
+  //overflow: hidden;
+}
+.not-home header:after {
   background-image: url('{{ site.baseurl }}/img/sunset-train.jpg');
+  background-repeat: no-repeat;
+  //background-position: 40% 0;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  content: " ";
+  opacity: 0.8;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
 }
 
 @media(min-width:768px) {
