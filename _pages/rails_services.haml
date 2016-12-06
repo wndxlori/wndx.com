@@ -1,24 +1,92 @@
 ---
-layout: page
+layout: not-home
 title: Rails Services
 intro:
-  lead_in: Rails Services
-  heading: How can we help you?
+  lead_in: Let us help your team do more
+  heading: Rails Services
   button_text: Show me more
+navbar:
+  home: /
+  entries:
+    - title: Inspect
+      link: \#inspection
+    - title: Stabilize
+      link: \#stabilizer
+    - title: Renew
+      link: \#renewal
+    - title: Grind
+      link: \#grinder
+    - title: Bullet Train
+      link: \#bullet
 ---
-.page.row
-  #sidebar.col-md-3
-  .col-md-9
-    .row.page-title
-      = "{{ page.title }}"
-    .row
-      .col-md-6
-        Rails Inspection
-      .col-md-6
-        Rails Stabilize
-      .col-md-6
-        Rails Renewal
-      .col-md-6
-        Rails Grind
-      .col-md-12
-        Rails Locomotive
+.container.page
+  .row
+    #sidebar.col-md-3
+    .col-md-9
+      .row.page-title
+        = "{{ page.title }}"
+      .row
+        .col-md-6
+          %h3 Rails Inspection
+          %h5 $995
+          %p
+            This is a multi-point Inspection of your Rails application. We'll identify any potential
+            security issues (including a summary of possible entry points), list what gems need
+            updating (or replacing), provide a test coverage report, and an initial code quality
+            evaluation.
+        .col-md-6
+          %h3 Rails Stabilizer
+          %h5 $2495
+          %p
+            With the Stabilizer, we include the full Rails Inspection PLUS
+            %ul
+              %li fix any serious security issues that have entry points in your application
+              %li add or update your new developer bootstrap (bin/setup)
+              %li add or update/cleanup your seed database
+              %li set up or update your CI build
+              %li update to the latest Rails bug fix release (for your current point version)
+        .col-md-6
+          %h3 Rails Renewal
+          %h5 starts at $995/month
+          %p
+            After your application has been Inspected and Stabilized, let us take over your
+            monthly Rails maintenance needs, ensuring that your app stays secure, and your gems
+            are kept up-to-date. These updates will be made available as pull-requests for your
+            team to review before applying, or we can apply them for you.  We will also branch and
+            test on new Rails point version beta-tests, ensuring your application is ready to update
+            as soon as a new release is available.
+        .col-md-6
+          %h3 Rails Grinder
+          %h5 starting at $2995/month
+          %p
+            Your client base is growing, and the demand for business relevant features keeps your
+            development team busier than ever. That team is under pressure to focus on the features
+            and bug fixes which are in demand from those clients, so it is inevitable that those tasks
+            are prioritized at the expense of the general upkeep and maintenance of your application
+            infrastructure.
+          %p
+            Unfortunately, continued neglect of your application frameworks, libraries, and toolsets
+            comes at a cost. That cost is the slow build up of technical debt. Much like credit card
+            debt, that technical debt continuously erodes the team’s ability to deliver on those
+            priority features. As technical debt builds, so can developer frustration.
+          %p
+            Let us help Grind down that technical debt. We can address issues like
+            %ul
+              %li those left-over bits of previous Rails upgrades that were never completed (simplifying your code base)
+              %li removing code (and gems) that are no longer used (making upgrades easier, test suites faster)
+              %li replacing gems at EOL (and their potential security issues)
+        .col-md-12
+          %h3 Rails Bullet Train
+          %h5 starting at $4995
+          %p
+            The dreaded Rails upgrade. Why task your team with a major infrastructure upgrade
+            when our experienced Rails team are familiar with the common upgrade pitfalls? We can
+            take over, identify potential issues, and bring your application up to date.
+          %p
+            We will generally require an Inspection & Stabilization of your application before
+            embarking any major version upgrades. With the information compiled by those
+            processes, we can provide an estimate with point-by-point details of the upgrade process
+            before we start.
+          %p
+            After your application is upgraded, you can take advantage of our monthly Rails
+            Renewal package to keep it up-to-date.

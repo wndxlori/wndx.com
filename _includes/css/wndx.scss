@@ -1,4 +1,4 @@
-body.not-home { padding-top: 90px; }
+body.blog { padding-top: 90px; }
 
 .navbar-default.navbar-normal {
     padding: 10px 0;
@@ -12,6 +12,9 @@ body.not-home { padding-top: 90px; }
     background-repeat:no-repeat;
 }
 
+.not-home header {
+  background-image: url('{{ site.baseurl }}/img/sunset-train.jpg');
+}
 
 @media(min-width:768px) {
   .navbar .container {
