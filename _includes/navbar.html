@@ -18,7 +18,14 @@
            </li>
            {% for entry in page.navbar.entries %}
            <li>
-               <a class="page-scroll" href="{{ entry.link }}">{{ entry.title }}</a>
+               {% capture entry_link %}
+                 {% if entry.link %}
+                   {{ entry.link | prepend: site.url }}
+                 {% else %}
+                   {{ entry.anchor | prepend: '#' }}
+                 {% endif %}
+               {% endcapture%}
+               <a class="page-scroll" href="{{ entry_link }}">{{ entry.title }}</a>
            </li>
            {% endfor %}
        </ul>
