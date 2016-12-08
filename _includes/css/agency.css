@@ -176,8 +176,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    width:186px;
-    height:43px;
+    width:194px;
+    height:38px;
     background-image:url(/img/logos/brand-small.png);
     background-repeat:no-repeat;
     margin:8px 0 0 5px; /*better position*/
@@ -248,8 +248,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        width:373px;
-        height:86px;
+        width:388px;
+        height:76px;
         background-image:url(/img/logos/brand.png);
         background-repeat:no-repeat;
         -webkit-transition: all .3s;
@@ -267,8 +267,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        width:186px;
-        height:43px;
+        width:194px;
+        height:38px;
         background-image:url(/img/logos/brand-small.png);
         background-repeat:no-repeat;
     }
