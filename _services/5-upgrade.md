@@ -1,6 +1,6 @@
 ---
 title: Rails Upgrade
-price: starting at $2995/month
+price: starting at $4995
 icon: rocket
 ---
 The dreaded Rails upgrade. Very few development teams ever enjoy this process. Why task
