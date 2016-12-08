@@ -15,6 +15,7 @@ collections:
     output: true
   pages:
     output: true
+  services:
 
 # Postal address (add as many lines as necessary)
 address:

@@ -1,0 +1,60 @@
+---
+layout: not-home
+title: Rails Services
+intro:
+  lead_in: Let us help your team do more
+  heading: Rails Services
+  button_text: Show me more
+  button_link: rails_services
+navbar:
+  home: /
+  entries:
+    - title: Inspect
+      anchor: inspection
+    - title: Stabilize
+      anchor: stabilizer
+    - title: Renew
+      anchor: renewal
+    - title: Hi Speed
+      anchor: hi-speed
+    - title: Upgrade
+      anchor: upgrade
+---
+<div class="container page">
+    <!--<div class="row">-->
+        <!--<div class="col-md-9">-->
+            <section class="row" id="rails_services">
+                <div class="col-lg-12">
+                    <p>
+                        Your client base is growing, and the demand for business relevant features keeps your
+                        development team busier than ever. That team is under pressure to focus on the features
+                        and bug fixes which are in demand from existing clients, and required to continue to build
+                        that client base. It is inevitable that those features and bug fixes are prioritized at the
+                        expense of the general upkeep and maintenance of your application infrastructure.
+                    </p>
+                    <p>
+                        The WNDX Group can take over your Rails application maintenance, and get your application
+                        and development team back on the fast track. Please review our Rails service offerings below.
+                        If you don't see anything applicable to your specific needs, feel free to
+                        <a href="/index#contact">contact us</a>
+                        to schedule a 30 minute no-obligation consultation.
+                    </p>
+                </div>
+            </section>
+            <div class="bg-light-gray">
+            {% for service in site.services %}
+                <div class="col-md-6">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-{{ service.icon }} fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h3>{{ service.title }}</h3>
+                    <h5>{{ service.price }}</h5>
+                    {{ service.content | markdownify }}
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+        <!--<div class="col-md-3" id="sidebar"></div>-->
+    <!--</div>-->
+</div>
