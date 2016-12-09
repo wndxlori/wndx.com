@@ -1,8 +1,28 @@
 ---
 layout: home
+intro:
+  lead_in: Practical Software Development
+  heading: It's Nice To Meet You
+  button_text: Tell Me More
+  button_link: services
+navbar:
+  home: "#page-top"
+  entries:
+    - title: Blog
+      href:  /blog
+    - title: Services
+      href:  "#services"
+    - title: Workshops
+      href:  "#workshops"
+    - title: Portfolio
+      href:  "#portfolio"
+    - title: About
+      href:  "#about"
+    - title: Team
+      href:  "#team"
+    - title: Contact
+      href:  "#contact"
 ---
-{% haml navbar.haml %}
-{% include header.html %}
 {% include services.html %}
 {% haml workshops.haml %}
 {% include portfolio_grid.html %}

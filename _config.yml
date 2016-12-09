@@ -13,6 +13,9 @@ collections:
     output: true
   clients:
     output: true
+  pages:
+    output: true
+  services:
 
 # Postal address (add as many lines as necessary)
 address:
