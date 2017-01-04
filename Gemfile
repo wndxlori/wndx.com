@@ -7,6 +7,7 @@ gem "capistrano", '~> 2.15'
 group "jekyll_plugins" do
   gem "jekyll-archives"
   gem "jekyll-compose"
+  gem "jekyll-email-protect"
   gem "jekyll-feed"
   gem "jekyll-haml"
   gem "jekyll-picture-tag"

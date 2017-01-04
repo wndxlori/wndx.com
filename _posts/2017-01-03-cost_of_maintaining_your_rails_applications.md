@@ -54,5 +54,5 @@ you a lot of money or customers.
 
 If you find yourself in one of these situations, don't let your Rails application assets turn into 
 liabilities. 
-[The WNDX Group](/index#about) can help.  Contact us for a custom 
+[The WNDX Group](/index#about) can help.  [Contact us](mailto:{{ site.email | encode_email }}) for a custom 
 [Rails Services](/pages/rails_services) quote for your application.
