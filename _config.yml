@@ -27,6 +27,15 @@ address:
 markdown: kramdown
 highlighter: rouge
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: true
+
 # Output
 permalink: /blog/:title/
 
