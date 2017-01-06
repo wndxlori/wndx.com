@@ -8,7 +8,6 @@ tags:
 - mobile development
 - core data
 status: publish
-type: post
 published: true
 meta: {}
 ---

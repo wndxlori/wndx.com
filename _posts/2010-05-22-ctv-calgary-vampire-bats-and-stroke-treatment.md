@@ -8,7 +8,6 @@ tags:
 - health
 - stroke
 status: publish
-type: post
 published: true
 meta: {}
 --->Updated:  Fri May. 21 2010 16:08:12

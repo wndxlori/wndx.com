@@ -5,7 +5,6 @@ categories:
 - web development
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---

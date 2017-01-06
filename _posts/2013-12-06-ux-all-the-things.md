@@ -7,7 +7,6 @@ tags:
 - api
 - wndx
 status: publish
-type: post
 published: true
 meta: {}
 image: 

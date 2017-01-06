@@ -9,7 +9,6 @@ tags:
 - ruby
 - deploy
 status: publish
-type: post
 published: true
 meta: {}
 ---

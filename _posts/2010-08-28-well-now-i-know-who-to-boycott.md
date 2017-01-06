@@ -9,7 +9,6 @@ tags:
 - oilsand
 - yyc
 status: publish
-type: post
 published: true
 meta: {}
 ---

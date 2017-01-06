@@ -8,7 +8,6 @@ tags:
 - ruby
 - rubymotion
 status: publish
-type: post
 published: true
 meta: {}
 --->All you have to do is add the line ‘-e’ at the end of the file /Library/RubyMotion/data/bridgesupport-ctags.cfg

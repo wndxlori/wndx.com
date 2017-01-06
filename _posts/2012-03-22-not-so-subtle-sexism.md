@@ -9,7 +9,6 @@ tags:
 - sexism
 - threats
 status: publish
-type: post
 published: true
 meta: {}
 --->You, person who told me to lighten up, saw one little thing. It didn't seem like a big deal, did it? One little line! One joke! One comment! But it's not just one thing to me: it's one of thousands that I've had to endure since I was old enough to be told that 'X is for boys!' It's probably not even the first thing I've had to deal with that day, unless you've gotten to me pretty early. 

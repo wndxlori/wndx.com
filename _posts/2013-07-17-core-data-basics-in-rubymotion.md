@@ -9,7 +9,6 @@ tags:
 - rubymotion
 - core data
 status: publish
-type: post
 published: true
 meta: {}
 ---

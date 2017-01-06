@@ -9,7 +9,6 @@ tags:
 - data
 - ipad
 status: publish
-type: post
 published: true
 meta: {}
 ---

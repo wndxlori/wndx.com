@@ -8,7 +8,6 @@ tags:
 - women in computing
 - ruby
 status: publish
-type: post
 published: true
 meta: {}
 ---

@@ -5,7 +5,6 @@ categories:
 - just for fun
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 --->Here is Parmesan Pork Tenderloin recipe that will work for a week night family supper or a casual weekend dinner party.  Serve the breaded pork medallions with cheese tortellini, sautéed summer squash/zucchini and a nice bottle of Pinot Noir

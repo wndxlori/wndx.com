@@ -7,7 +7,6 @@ tags:
 - artcar
 - bmw
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="660.0"]

@@ -5,7 +5,6 @@ categories:
 - just for fun
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="230.0"]

@@ -10,7 +10,6 @@ tags:
 - ios
 - sdk
 status: draft
-type: post
 published: true
 ---
 

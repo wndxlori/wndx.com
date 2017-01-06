@@ -7,7 +7,6 @@ tags:
 - ipad
 - magic
 status: publish
-type: post
 published: true
 meta: {}
 ---via 

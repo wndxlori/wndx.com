@@ -5,7 +5,6 @@ categories:
 - business
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="200.0"]

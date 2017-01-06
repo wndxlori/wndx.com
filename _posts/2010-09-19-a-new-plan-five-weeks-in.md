@@ -9,7 +9,6 @@ tags:
 - weight loss
 - workout
 status: publish
-type: post
 published: true
 meta: {}
 ---

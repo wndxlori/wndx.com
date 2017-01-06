@@ -8,7 +8,6 @@ tags:
 - ruby
 - rubymotion
 status: publish
-type: post
 published: true
 meta:
   _thumbnail_id: '127'

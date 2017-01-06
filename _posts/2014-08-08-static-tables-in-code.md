@@ -9,7 +9,6 @@ tags:
 - core data
 - uitableviewcontroller
 status: publish
-type: post
 published: true
 meta: {}
 ---

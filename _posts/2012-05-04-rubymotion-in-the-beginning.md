@@ -11,7 +11,6 @@ tags:
 - rubymotion
 - test
 status: publish
-type: post
 published: true
 meta: {}
 ---

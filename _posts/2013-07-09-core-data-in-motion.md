@@ -8,7 +8,6 @@ tags:
 - ruby
 - core data
 status: publish
-type: post
 published: true
 meta: {}
 ---

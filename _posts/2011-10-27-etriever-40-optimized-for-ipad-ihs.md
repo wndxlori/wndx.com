@@ -7,7 +7,6 @@ tags:
 - etriever
 - oil&gas
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="570.0"]

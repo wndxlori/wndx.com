@@ -9,7 +9,6 @@ tags:
 - workshop
 - survey
 status: publish
-type: post
 published: true
 meta: {}
 ---

@@ -8,7 +8,6 @@ tags:
 - ipad
 - yyc
 status: publish
-type: post
 published: true
 meta: {}
 --->Tech blogs, including 

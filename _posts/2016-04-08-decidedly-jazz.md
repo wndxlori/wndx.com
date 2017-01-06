@@ -8,7 +8,6 @@ tags:
 - mentor
 - workshops 
 status: publish
-type: post
 published: true
 image:
   one: lori_drums.jpg

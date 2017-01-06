@@ -10,7 +10,6 @@ tags:
 - gems
 - book
 status: publish
-type: post
 published: true
 meta: {}
 ---

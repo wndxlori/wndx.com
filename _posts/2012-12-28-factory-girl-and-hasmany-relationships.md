@@ -8,7 +8,6 @@ tags:
 - rails
 - has_many
 status: publish
-type: post
 published: true
 meta: {}
 ---

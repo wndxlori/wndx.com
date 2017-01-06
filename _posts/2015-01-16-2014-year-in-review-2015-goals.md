@@ -7,7 +7,6 @@ tags:
 - 30x500
 - goals
 status: publish
-type: post
 published: true
 meta: {}
 ---

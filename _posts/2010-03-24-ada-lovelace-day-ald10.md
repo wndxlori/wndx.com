@@ -5,7 +5,6 @@ categories:
 - ladies learning code
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---

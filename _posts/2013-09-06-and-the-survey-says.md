@@ -8,7 +8,6 @@ tags:
 - workshop
 - rails
 status: publish
-type: post
 published: true
 meta: {}
 ---

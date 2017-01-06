@@ -13,7 +13,6 @@ tags:
 - tutorial
 - iphone
 status: publish
-type: post
 published: true
 meta: {}
 ---
