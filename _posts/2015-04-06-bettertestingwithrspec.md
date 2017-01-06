@@ -10,16 +10,14 @@ tags:
 - testing
 status: publish
 published: true
-meta:
-  _thumbnail_id: '160'
+image:
+  feature: better-testing.png
+sidebar:
+  resources:
+    - <a href="https://www.amazon.ca/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=as_li_ss_il?ie=UTF8&qid=1483744773&sr=8-1&keywords=rspec&linkCode=li1&tag=twg0f-20&linkId=e715e2c35783d73de6901505cff7c03c" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356379&Format=_SL110_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=twg0f-20" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=twg0f-20&l=li1&o=15&a=1934356379" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ---
 
 Let's get this one question out of the way, right off the bat.  Why RSpec?  or more specifically - why RSpec instead of MiniTest?
-  
-      
-![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29312e4b04687d9db341b_551dda23e4b06389c8205a32_1428019748396__img.jpg){: .img-responsive .center-block}
-  
-
 
 For me, the answer was provided with a simple empirical test.  One of my junior developers desperately wanted us to use RSpec on our project instead of Test::Unit (precursor of MiniTest).  We decided it to give it a trial.  I don't think we wrote tests faster.  Or that the specs ran faster.  But... my fellow developers on this project wrote 
 better tests 
@@ -58,10 +56,6 @@ The RoR4Real Advanced Topics workshop - Better Testing with RSpec - will help yo
 
 So, to get back to the original question, "Why RSpec", let's see what one of the authors of 
 [The RSpec Book](https://pragprog.com/book/achbd/the-rspec-book) had to say:
-
-
-![](https://imagery.pragprog.com/products/140/achbd_xlargecover.jpg?1298589834){: .img-responsive .center-block}
-
 
 >RSpec is not just about RSpec. It's about BDD. It's about encouraging
   conversation about testing and looking at it in different ways. It's
