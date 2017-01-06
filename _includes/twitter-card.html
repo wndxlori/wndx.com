@@ -23,5 +23,9 @@
     <meta name="twitter:image:alt" content="{{ page.image.caption }}">
   {% endif %}
 {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/img/logos/brand-large.png">
+  {% if page.is_post %}
+    <meta name="twitter:image:src" content="{{ site.url }}/img/logos/logo-stacked.png">
+  {% else %}
+    <meta name="twitter:image:src" content="{{ site.url }}/img/logos/twitter-square.png">
+  {% endif %}
 {% endif %}
