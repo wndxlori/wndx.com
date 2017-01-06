@@ -8,7 +8,6 @@ tags:
 - ruby
 - rubymotion
 status: publish
-type: post
 published: true
 meta: {}
 --->So, all of the cool kids have been talking about 

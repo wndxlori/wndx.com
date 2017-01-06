@@ -10,7 +10,6 @@ tags:
 - rails
 - ruby
 status: publish
-type: post
 published: true
 meta: {}
 --->Fortunately, there is a way to use ActiveRecord magic in your migrations and still get the girl. By inlining classes you decouple your migration from any future changes in your models.

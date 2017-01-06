@@ -9,7 +9,6 @@ tags:
 - gems
 - rake
 status: publish
-type: post
 published: true
 meta: {}
 ---

@@ -5,7 +5,6 @@ categories:
 - software craft
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="732.0"]

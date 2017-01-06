@@ -8,7 +8,6 @@ tags:
 - lethbridge
 - technology
 status: publish
-type: post
 published: true
 meta: {}
 ---

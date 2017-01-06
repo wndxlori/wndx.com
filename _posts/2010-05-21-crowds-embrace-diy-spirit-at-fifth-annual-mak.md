@@ -6,7 +6,6 @@ categories:
 tags:
 - maker faire
 status: publish
-type: post
 published: true
 meta: {}
 ---[caption id="" align="alignnone" width="660.0"]

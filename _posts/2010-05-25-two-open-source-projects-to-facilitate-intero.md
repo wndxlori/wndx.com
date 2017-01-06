@@ -10,7 +10,6 @@ tags:
 - outlook
 - pst
 status: publish
-type: post
 published: true
 meta: {}
 --->Microsoft 

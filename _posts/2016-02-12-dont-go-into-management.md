@@ -8,7 +8,6 @@ tags:
 - development
 - women in computing
 status: publish
-type: post
 published: true
 image:
 

@@ -9,7 +9,6 @@ tags:
 - rails
 - services
 status: publish
-type: post
 published: true
 ---
 I see two different groups of businesses out there right now with Rails applications that are in *dire* 

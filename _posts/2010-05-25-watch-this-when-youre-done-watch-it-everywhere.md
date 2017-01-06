@@ -8,7 +8,6 @@ tags:
 - motivation
 - yearofhustle
 status: publish
-type: post
 published: true
 meta: {}
 ---via 

@@ -5,7 +5,6 @@ categories:
 - just for fun
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 --->CALGARY — She was the victim of gossip and rumours; her supervisor called her colleagues and contacts at home after hours in an effort to dig up dirt on her; and she was told there was no room for "a damn woman" in her chosen field.

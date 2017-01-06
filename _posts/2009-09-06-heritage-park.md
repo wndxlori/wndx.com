@@ -5,7 +5,6 @@ categories:
 - just for fun
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 ---![](/squarespace_images/static_50d2902fe4b0959a0871a12c_50d29313e4b04687d9db348b_50d29313e4b04687d9db348c_1355977498884__img.jpg)

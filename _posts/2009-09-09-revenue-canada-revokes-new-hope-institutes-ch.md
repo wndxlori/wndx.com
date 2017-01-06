@@ -5,7 +5,6 @@ categories:
 - business
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 --->The Canada Revenue Agency has revoked the charitable status of Calgary-based New Hope Ministries Institute.

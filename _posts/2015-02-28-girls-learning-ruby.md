@@ -7,7 +7,6 @@ tags:
 - ruby
 - girls learning code
 status: publish
-type: post
 published: true
 meta: {}
 ---

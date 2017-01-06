@@ -9,7 +9,6 @@ tags:
 - wndx
 - wndxcasts
 status: publish
-type: post
 published: true
 meta: {}
 ---

@@ -8,7 +8,6 @@ tags:
 - personal
 - business 
 status: publish
-type: post
 published: true
 image:
   feature: nikka_yuko_in_fall.png

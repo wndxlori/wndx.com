@@ -5,7 +5,6 @@ categories:
 - just for fun
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 --->![Towel Day](http://www.wired.com/images_blogs/thisdayintech/2010/05/towel_f.jpg)

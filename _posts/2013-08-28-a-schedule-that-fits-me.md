@@ -7,7 +7,6 @@ tags:
 - business
 - productivity
 status: publish
-type: post
 published: true
 meta: {}
 ---

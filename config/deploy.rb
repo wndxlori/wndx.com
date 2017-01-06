@@ -17,6 +17,7 @@ set :deploy_to, "/var/www/wndx.com"
 role :web, "138.197.128.172"
 
 before "deploy:update", "deploy:update_jekyll"
+before "deploy:update", "deploy:twittercards"
 
 # your images and CSS may not appear to work after the symlink process
 # this rule and subsequent code fixes this issue
@@ -78,5 +79,19 @@ VHOST
     # chmod files on the server
     run "chmod 755 -R #{current_path}"
 #    run "chmod 644 -R #{current_path}/.htaccess"
+  end
+
+  desc "Rejigger images for twitter"
+  task :twittercards do
+    twitter_image_dest = '_site/img/twittercards/'
+    post_image_src = 'img/original'
+    FileUtils.mkdir_p twitter_image_dest
+    Dir["#{post_image_src}/*"].each do |fname|
+      puts "resizing #{fname}"
+      image = Magick::Image.read(fname).first
+      image.change_geometry!('300x160') { |cols, rows, img|
+       img.resize!(cols, rows)
+       }.write("#{twitter_image_dest}#{fname.split('/').last}")
+    end
   end
 end

@@ -10,7 +10,6 @@ tags:
 - webcam
 - windows
 status: publish
-type: post
 published: true
 meta: {}
 --->Filed under: 

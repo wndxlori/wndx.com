@@ -7,7 +7,6 @@ tags:
 - software craft
 - productivity
 status: publish
-type: post
 published: true
 image:
   feature: jekyll-logo-2x.png

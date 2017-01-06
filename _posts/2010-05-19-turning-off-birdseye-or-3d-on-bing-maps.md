@@ -10,7 +10,6 @@ tags:
 - disable
 - maps
 status: publish
-type: post
 published: true
 meta: {}
 --->###You searched for 'vemapoptions example'

@@ -9,7 +9,6 @@ tags:
 - core data
 - software craft
 status: publish
-type: post
 published: true
 meta: {}
 ---

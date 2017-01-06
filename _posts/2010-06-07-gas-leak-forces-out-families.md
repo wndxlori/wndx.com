@@ -5,7 +5,6 @@ categories:
 - products
 tags: []
 status: publish
-type: post
 published: true
 meta: {}
 --->CALMAR, ALBERTA — Five new Calmar homes have to be removed to make room for a drilling rig to seal an abandoned natural gas well discovered in one family's backyard.

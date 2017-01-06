@@ -9,7 +9,6 @@ tags:
 - data
 - overage
 status: publish
-type: post
 published: true
 meta: {}
 ---
