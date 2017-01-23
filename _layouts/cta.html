@@ -2,7 +2,13 @@
 layout: post
 ---
 {{ content }}
-<div class="panel panel-default">
+<div class="cta panel panel-success">
+    {% assign drip = site.data.drip[page.drip] %}
+    <div class="panel-heading">
+        <div class="panel-title">
+            <h4 data-drip-attribute="headline">{{drip.headline}}</h4>
+        </div>
+    </div>
     <div class="panel-body">
         {% include cta.html %}
     </div>

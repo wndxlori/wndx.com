@@ -1,5 +1,6 @@
 ---
 layout: cta
+drip: rubymotion
 title: IGListKit Tutorial RubyMotion Edition Part 1
 categories:
 - products
