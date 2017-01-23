@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: cta
+drip: rubymotion
 title: Core Data - Did you know?
 categories:
 - products

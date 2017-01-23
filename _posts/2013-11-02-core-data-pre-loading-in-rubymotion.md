@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: core-data-book
 title: Core Data Pre-Loading in RubyMotion
 categories:
 - products
