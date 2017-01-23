@@ -1,5 +1,6 @@
 ---
-layout: core-data-book
+layout: cta
+drip: rubymotion
 title: Static Tables in Code
 categories:
 - products
