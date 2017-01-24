@@ -12,14 +12,35 @@ tags:
 - uicollectionview
 status: publish
 published: true
-meta: {}
+image:
+  feature: swift-tutorials-are-coming.png
 ---
-[IGListKit](https://github.com/Instagram/IGListKit) popped up on my radar recently from a couple of entries in the [iOS Dev Weekly](https://iosdevweekly.com/issues/282?sid=LeumXTm#start) newsletter. Digging further led me to the [IGListKit Tutorial](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews) on Ray Wenderlich's site (again). While these tutorials are instructive posts to read, I frequently run into frustrating, hair-pulling-out inconsistencies that make it very difficult to go ahead and use this information in [RubyMotion](http://rubymotion.com). And, as is true of most new tutorials, it is written using Swift, instead of Objective C. 
+[IGListKit](https://github.com/Instagram/IGListKit) popped up on my radar recently 
+from a couple of entries in the [iOS Dev Weekly](https://iosdevweekly.com/issues/282?sid=LeumXTm#start) 
+newsletter. Digging further led me to the [IGListKit Tutorial](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews)
+on Ray Wenderlich's site (again). While these tutorials are instructive posts to read,
+I frequently run into frustrating, hair-pulling-out inconsistencies that make it very 
+difficult to go ahead and use this information in [RubyMotion](http://rubymotion.com).
+And, as is true of most new tutorials, it is written using Swift, instead of Objective C. 
 
 ![](/img/original/no-idea.jpg){: .img-responsive .center-block}
 
-So I decided to take this one and port it over to RubyMotion as an exercise. If you don't already feel comfortable reading one language and translating to a different one, you should probably find a tutorial like this and try it out.  Translating from one language to another is a skill, and it's one you'll need to hone as a developer. As expected, it was in places super-easy, and other places really, really frustrating, but eventually I got it all working.  And I learned a lot along the way.  So, let's walk thru it together. 
+Swift undoubtedly comprises the lion's share of all new iOS, macOS, tvOS, and 
+watchOS tutorials.
+So if you are using RubyMotion like me (or still plinking away on Objective C), you
+must learn how to read and translate Swift. I've been a developer for a long
+time, and so I've translated more algorithms than I care to remember from one language 
+to another. If you don't already feel comfortable reading one language and translating 
+to a different one, you should probably find another tutorial like this and try it out.
+Translating from one language to another is a skill, and it's one you'll need to hone 
+if you intend to continue your career as a developer. 
 
+I decided to take this one and port it over to RubyMotion as an exercise for myself
+and an illustration for those who might not know where to start. As expected, it was in 
+places super-easy, and other places really, really frustrating, but eventually I got 
+it all working.  And I learned a lot along the way.  So, let's walk through it together. 
+
+### Starter App
 First up, there is a "starting place" app. One that uses normal `UICollectionViews`. This looked quite straightforward, but all the UI customizations took me places I'd never been before. Implementing all those custom views was both time-consuming and informative. Now I have **ideas** about some custom UI stuff in my other projects that I just didn't feel confident enough about tackling before. You'll probably want to download my version of the [Marslink Starter](https://github.com/wndxlori/WNDXRubyMotion/releases/download/marslink-start/Marslink_Starter.tar.gz) and the [Swift version](https://koenig-media.raywenderlich.com/uploads/2016/12/Marslink_Starter.zip) as we walk through some of the details and compare.
 
 The `CustomNavigationBar` was the most interesting part to me.  It's mostly a direct Swift -> RubyMotion translation.  There's a lot of code massaging (`CGPoint` -> `'CGPointMake`, `UIBezierPath` -> `UIBezierPath.bezierPath`, etc). And I didn't really agree at first with the recursive use of `DispatchQueue` at the end of the `updateStatus` method for the "pulsing" status indicator:
@@ -116,4 +137,4 @@ Ya, I didn't either.  Lots of obscure, seemingly unrelated "unrecognized selecto
 
 I'm not entirely sure how Swift gets away with not having an explicit return value, but their code works without it and mine crashed, because there was a `UIView` popping up where a `UICollectionViewCell` was expected. The `initWithFrame` method IS actually expected to "return a newly allocated view object with the specified frame rectangle", so I should have had that return `self` in there to start.  It was the copy/paste/modify that tripped me up.
 
-The end result is here - [Marslink Starter](https://github.com/wndxlori/WNDXRubyMotion/releases/download/marslink-start/Marslink_Starter.tar.gz).  This is where we needed to be to START the tutorial.  Phew! That was a lot of work, so I'll finish up the rest of the tutorial in Part 2.
+The end result is here - [Marslink Starter](https://github.com/wndxlori/WNDXRubyMotion/releases/download/marslink-start/Marslink_Starter.tar.gz).  This is where we needed to be to START the tutorial.  Phew! That was a lot of work, so I'll finish up the rest of the tutorial in [Part 2](/blog/iglistkit-tutorial-part-2/).
