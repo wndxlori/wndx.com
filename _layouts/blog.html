@@ -4,6 +4,7 @@ layout: default
 <body class="index blog bg-light-gray">
     {% haml blog-navbar.haml %}
     <div class="container">
-      {{ content }}
+        {% include alert.html %}
+        {{ content }}
     </div>
 </body>
