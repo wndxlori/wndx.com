@@ -14,13 +14,16 @@ published: true
 meta: {}
 ---
 
-While there are a lot of great gems and tools to help us with creating great looking user interfaces in code in RubyMotion, sometimes I still like to explore how to do stuff at the iOS API level without using all the magic.  Especially when just writing the code turns out to be pretty straightforward and elegant all on its own.
+While there are a lot of great gems and tools to help us with creating great looking user interfaces in code in 
+RubyMotion, sometimes I still like to explore how to do stuff at the iOS API level without using all the magic.
+Especially when just writing the code turns out to be pretty straightforward and elegant all on its own.
 
 
 Creating a static table in code, to display some detail data in your application is one of these cases.
 
 
-For my specific example, I have 6 items of information about a well to display, and this data logically groups into 3 sections of 2 items in each section.  So, we'll set up the table view using sections like so:
+For my specific example, I have 6 items of information about a well to display, and this data logically groups into 3
+sections of 2 items in each section.  So, we'll set up the table view using sections like so:
 
 ```ruby
 class WellDetailsController < UITableViewController
@@ -30,6 +33,8 @@ class WellDetailsController < UITableViewController
   def viewDidLoad
     super
     navigationItem.title = "Well Details"
+    self.tableView.allowsSelection = false
+    self.view.registerClass(WellTableViewCell.self, forCellReuseIdentifier:self.class.name)
   end
 
   def viewWillAppear(animated)
@@ -49,7 +54,8 @@ class WellDetailsController < UITableViewController
   end
 ```
 
-With this code, I have set up my 3 sections (Name, Status, and Location) as a constant array.  Then we implement the necessary methods of the table view (
+With this code, I have set up my 3 sections (Name, Status, and Location) as a constant array.  Then we implement the 
+necessary methods of the table view (
 numberOfSectionsInTableView, 
 tableView:numberOfRowsInSection, and 
 tableView:titleForHeaderInSection) to deal with these sections.
@@ -58,13 +64,8 @@ tableView:titleForHeaderInSection) to deal with these sections.
 Next up, we need to fill the actual table cells with data:
 
 ```ruby
-CellID = self.class.name
-
   def tableView(tableView, cellForRowAtIndexPath:indexPath)
-    cell = tableView.dequeueReusableCellWithIdentifier(CellID) || begin
-      cell = UITableViewCell.alloc.initWithStyle(UITableViewCellStyleValue2,
-                                                 reuseIdentifier:CellID)
-    end
+    cell = tableView.dequeueReusableCellWithIdentifier(self.class.name) 
     cell.textLabel.text = @details[indexPath.section][indexPath.row][:label]
     cell.detailTextLabel.text = @details[indexPath.section][indexPath.row][:value]
     cell
@@ -92,11 +93,13 @@ end
 
 Here, we set up the traditional 
 tableView:cellForRowAtIndexPath.  In it, we pull the data for the cell textLabel and detailTextLabel out of our 
-@details data structure.  This data structure is an array of arrays.  More specifically, it is an array of sections, and each section array contains an array of rows.  Each row is a hash, with a label/value pair.
+@details data structure.  This data structure is an array of arrays.  More specifically, it is an array of sections,
+and each section array contains an array of rows.  Each row is a hash, with a label/value pair.
 
 
-The @details data structure itself gets populated with new values (the labels don't change) when a well is selected in another view (from a list of wells, or a map of wells).  The 
-showDetailsForWell gets called, and then this view is displayed.
+The @details data structure itself gets populated with new values (the labels don't change) when a well is selected in 
+another view (from a list of wells, or a map of wells).  The showDetailsForWell gets called, and then this view is
+displayed.
 
 
 That's all folks.
