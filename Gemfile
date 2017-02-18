@@ -1,7 +1,7 @@
 # Skinny Bones Gemfile
 source "https://rubygems.org"
 
-gem "jekyll", '~> 3.1.0'
+gem "jekyll"#, '~> 3.1.0'
 gem "capistrano", '~> 2.15'
 gem "rmagick"
 
