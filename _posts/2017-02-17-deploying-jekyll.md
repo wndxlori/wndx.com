@@ -1,4 +1,20 @@
-This is the second post about the move of my website from a hosted site on [Squarespace](https://www.squarespace.com) to a self-hosted [Jekyll](http://jekyllrb.com) site. You can find my first post [here]({{ site.baseurl }}{% link _posts/2016-12-06-jekyll-is-my-new-best-friend.md %}).
+---
+layout: post
+title: Deploying Jekyll
+categories:
+- business
+tags:
+- software craft
+- productivity
+status: publish
+published: true
+image:
+  feature: jekyll-logo-2x.png
+---
+This is the second post about the move of my website from a hosted site on
+[Squarespace](https://www.squarespace.com) to a self-hosted 
+[Jekyll](http://jekyllrb.com) site. You can find my first post 
+[here]({{ site.baseurl }}{% link _posts/2016-12-06-jekyll_is_my_new_best_friend.md %}).
 
 ### Deploy via Github Pages
 
@@ -58,7 +74,7 @@ The Jekyll site has laundry list of [deployment methods](https://jekyllrb.com/do
 
 It's a long list, and it didn't make me very happy to have yet more investigation and hurdles to plow through before getting my site deployed.  Eventually I decided to go with what I know.  As a Rails developer, I've used [Capistrano](http://capistranorb.com) to deploy my Rails applications since before it was called Capistrano (pop quiz... what did it used to be called?).  Since number of my single page project/product sites are deployed to [Digital Ocean](https://m.do.co/c/cdc68a7477b9) already, it made sense to just piggy-back onto one of those droplets.
 
-Capistrano to Digital Ocean... how hard could it be?
+#### Capistrano to Digital Ocean... how hard could it be?
 
 I looked up a couple of blog posts on the topic, and eventually ended up with this one on [dsgn.io](https://2016.dsgn.io/thoughts/post/jekyll-deployment-with-digitalocean/).
 
