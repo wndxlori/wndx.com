@@ -1,34 +1,32 @@
-<div class="container">
-    <div class="row">
-        <div class="col-md-9">
-          {% include breadcrumbs.html %}
-        </div>
+<div class="row">
+    <div class="col-md-12">
+      {% include breadcrumbs.html %}
     </div>
-    <div class="row">
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <h5>Share This</h5>
+        {% include share-this.html %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <h5>Tags</h5>
+        {% assign tags = page.tags | sort %}
+        {% for tag in tags %}
+            <a href="/archives/tag/{{tag|slugify}}/" class="label label-primary">{{ tag }}</a>
+        {% endfor %}
+    </div>
+</div>
+<div class="row">
+    {% if page.sidebar.resources %}
         <div class="col-lg-12">
-            <h5>Share This</h5>
-            {% include share-this.html %}
+            <h5>Resources</h5>
         </div>
-    </div>
-    <div class="row">
+        {% for link in page.sidebar.resources %}
         <div class="col-lg-12">
-            <h5>Tags</h5>
-            {% assign tags = page.tags | sort %}
-            {% for tag in tags %}
-                <a href="/archives/tag/{{tag|slugify}}/" class="label label-primary">{{ tag }}</a>
-            {% endfor %}
+            {{link}}
         </div>
-    </div>
-    <div class="row">
-        {% if page.sidebar.resources %}
-            <div class="col-lg-12">
-                <h5>Resources</h5>
-            </div>
-            {% for link in page.sidebar.resources %}
-            <div class="col-lg-12">
-                {{link}}
-            </div>
-            {% endfor %}
-        {% endif %}
-    </div>
+        {% endfor %}
+    {% endif %}
 </div>
