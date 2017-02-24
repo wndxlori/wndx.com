@@ -10,7 +10,9 @@ tags:
 - core data
 status: publish
 published: true
-meta: {}
+sidebar:
+  resources:
+    <a href="https://www.amazon.ca/iOS-Programming-Nerd-Ranch-Guide/dp/0134682335/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=twg0f-20&linkId=bdd1db58c9e60952dc5eda8a954eb525" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0134682335&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=twg0f-20" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=twg0f-20&l=li2&o=15&a=0134682335" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ---
 
 Updated June 12, 2015.
