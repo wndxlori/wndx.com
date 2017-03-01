@@ -9,6 +9,6 @@ alt: Mobile Rage - What causes it & how to fix it
 project-date: 2012
 talk_url: http://confreaks.tv/videos/aloharuby2012-rockstars-consultants-who-needs-em 
 deck_url: https://speakerdeck.com/wndxlori/mobile-rage-what-causes-it-and-how-to-fix-it
-category: Ruby on Rails
+category: Web Development
 description: That website you want to use, from your mobile, that just refuses to cooperate. From the annoying "we have an app", to the can't f**king log in, to the redirect-to-mobile-&-forget-the-context sites, there's more than enough websites that invoke Mobile Rage. The best mobile development strategy is "mobile-first", but what if you can't? Come learn about the common mistakes most people make for mobile, & some of the simple solutions you can use.
 ---

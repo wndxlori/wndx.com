@@ -9,6 +9,6 @@ alt: Rockstars & Consultants, who needs 'em?
 project-date: 2012
 talk_url: http://confreaks.tv/videos/railsconf2012-mobile-rage-what-causes-it-how-to-fix-it 
 deck_url: https://speakerdeck.com/wndxlori/rockstars-and-consultants-who-needs-em-aloha-ruby-conf
-category: Ruby on Rails
+category: Careers
 description: It’s tempting to hire a rock star who knows absolutely everything to get your new project off the ground. You can also hire "consultants" to help fill in the holes in your team when taking your existing product to the next level. Or maybe just hire a whole bunch of people for cheap, and they’ll get the job done... But did you ever consider the untapped wealth of the team you already have?
 ---
