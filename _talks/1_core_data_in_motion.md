@@ -1,6 +1,6 @@
 ---
 title: Core Data In Motion
-subtitle: RubyMotion #inspect 2014
+subtitle: RubyMotion &num;inspect 2014
 layout: default
 modal-id: 1
 img: core_data_in_motion.png
