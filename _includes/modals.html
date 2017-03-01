@@ -41,3 +41,47 @@
         </div>
     </div>
 {% endfor %}
+ <!-- Talk Modals -->
+{% for talk in site.talks %}
+    <div class="talk-modal modal fade" id="talkModal{{ talk.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ talk.title }}</h2>
+                            <hr class="star-primary">
+                            <img src="img/talks/{{ talk.img }}" class="img-responsive img-centered" alt="{{ talk.alt }}">
+                            <p>{{ talk.description }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Client:
+                                    <strong>
+                                        <a href="{{ talk.client_url }}">{{ talk.client }}</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <span class="text-primary">
+                                        {{ talk.talk-date }}
+                                    </span>
+                                </li>
+                                <li>Service:
+                                    <span class="text-primary">
+                                        {{ talk.category }}
+                                    </span>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+    </div>
+{% endfor %}
+ 

@@ -17,20 +17,20 @@ navbar:
       href:  "#workshops"
     - title: Portfolio
       href:  "#portfolio"
+    - title: Speaking
+      href:  "#talk"
     - title: About
       href:  "#about"
     - title: Team
       href:  "#team"
-    - title: Contact
-      href:  "#contact"
 ---
 {% include services.html %}
 {% haml workshops.haml %}
 {% include portfolio_grid.html %}
 {% haml recommendations.haml %}
+{% include clients.html %}
+{% include speaker_grid.html %}
 {% include about.html %}
 {% include team.html %}
-{% include clients.html %}
-{% include contact.html %}
 {% include footer.html %}
 {% include modals.html %}

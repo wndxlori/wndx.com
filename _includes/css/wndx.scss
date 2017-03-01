@@ -141,4 +141,155 @@ ul.social-buttons li a:hover
   background-color: #{{ site.data.template.color.primary }};
 }
 
+aside.bg-light-gray {
+    background-color: #f7f7f7;
+}
 
+#talk .talk-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#talk .talk-item .talk-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#talk .talk-item .talk-link .talk-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+}
+
+#talk .talk-item .talk-link .talk-hover:hover {
+    opacity: 1;
+}
+
+#talk .talk-item .talk-link .talk-hover .talk-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#talk .talk-item .talk-link .talk-hover .talk-hover-content i {
+    margin-top: -12px;
+}
+
+#talk .talk-item .talk-link .talk-hover .talk-hover-content h3,
+#talk .talk-item .talk-link .talk-hover .talk-hover-content h4 {
+    margin: 0;
+}
+
+#talk .talk-item .talk-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#talk .talk-item .talk-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#talk .talk-item .talk-caption p {
+    margin: 0;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+}
+
+#talk * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #talk .talk-item {
+        margin: 0 0 30px;
+    }
+}
+
+.talk-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.talk-modal .modal-content h2 {
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+.talk-modal .modal-content p {
+    margin-bottom: 30px;
+}
+
+.talk-modal .modal-content p.item-intro {
+    margin: 20px 0 30px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+}
+
+.talk-modal .modal-content ul.list-inline {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.talk-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.talk-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.talk-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.talk-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #222;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.talk-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #222;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}

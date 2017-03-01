@@ -11,6 +11,8 @@ owner:
 collections:
   projects:
     output: true
+  talks:
+    output: true
   clients:
     output: true
   pages:
