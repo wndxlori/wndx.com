@@ -13,4 +13,5 @@ category: RubyMotion
 description: | 
   Have you tried to use CoreData in RubyMotion, only to get lost in the quagmire of simplistic or confusing examples, DSL's and gems? Have you been asking yourself these questions: Do I have to use XCode to create a CoreData model? How do relationships work in code work anyway? How do I pre-load data into my CoreData store? What is an NSFetchedResultsController, and why do I need one?
   We'll delve into each of these questions, and review the surprisingly simple, elegant solutions that RubyMotion can provide.
+  This talk was also given at NSScotland October 2013.
 ---
