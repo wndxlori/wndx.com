@@ -145,9 +145,19 @@ aside.bg-light-gray {
     background-color: #f7f7f7;
 }
 
+#talk legend {
+  font-family: {{ site.data.template.font.primary }};
+  font-size: x-large;
+  font-weight: bold;
+}
+
 #talk .talk-item {
     right: 0;
     margin: 0 0 15px;
+}
+
+#talk .talk-item .talk-request {
+  font-size: larger;
 }
 
 #talk .talk-item .talk-link {
@@ -212,10 +222,6 @@ aside.bg-light-gray {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
-}
-
-#talk .talk-title-item {
-
 }
 
 #talk * {
