@@ -53,31 +53,41 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>{{ talk.title }}</h2>
-                            <hr class="star-primary">
-                            <img src="img/talks/{{ talk.img }}" class="img-responsive img-centered" alt="{{ talk.alt }}">
-                            <p>{{ talk.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong>
-                                        <a href="{{ talk.client_url }}">{{ talk.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <span class="text-primary">
-                                        {{ talk.talk-date }}
-                                    </span>
-                                </li>
-                                <li>Service:
-                                    <span class="text-primary">
-                                        {{ talk.category }}
-                                    </span>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
+                    <div class="col-md-10 col-md-offset-1">
+                        <h3>{{talk.title}}</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2 col-md-offset-2">
+                        <span class="text-center text-uppercase">Date</span>
+                        <p class="text-center text-primary">{{talk.project-date}}</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="text-center text-uppercase">Event</span>
+                        <p class="text-center text-primary">{{talk.subtitle}}</p>
+                    </div>
+                    <div class="col-md-2">
+                        <span class="text-center text-uppercase">Category</span>
+                        <p class="text-center text-primary">{{talk.category}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-sm-12">
+                        <p class="text-justify">{{talk.description}}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-md-offset-2">
+                        <a href="{{talk.deck_url}}" class="btn btn-sm btn-primary">
+                            <i class="fa fa-slideshare" aria-hidden="true"></i>
+                            Speaker Deck
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-md-offset-2">
+                        <a href="{{talk.talk_url}}" class="btn btn-sm btn-primary">
+                            <i class="fa fa-file-video-o" aria-hidden="true"></i>
+                            Confreaks.TV
+                        </a>
                     </div>
                 </div>
             </div>

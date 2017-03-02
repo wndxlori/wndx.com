@@ -6,7 +6,7 @@ modal-id: 3
 img: mobile_rage.png
 thumbnail: mobile_rage_thumbnail.png
 alt: Mobile Rage - What causes it & how to fix it
-project-date: 2012
+project-date: Apr 2012
 talk_url: http://confreaks.tv/videos/aloharuby2012-rockstars-consultants-who-needs-em 
 deck_url: https://speakerdeck.com/wndxlori/mobile-rage-what-causes-it-and-how-to-fix-it
 category: Web Development

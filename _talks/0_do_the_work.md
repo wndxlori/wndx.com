@@ -6,7 +6,7 @@ modal-id: 0
 img: do_the_work.png
 thumbnail: do_the_work_thumbnail.png
 alt: Do The Work
-project-date: 2016
+project-date: July 2016
 talk_url: http://confreaks.tv/videos/madison+ruby2016-do-the-work 
 deck_url: https://speakerdeck.com/wndxlori/do-the-work-madison-ruby-the-epilogue
 category: Careers

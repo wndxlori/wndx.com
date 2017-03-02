@@ -6,7 +6,7 @@ modal-id: 2
 img: rockstars.png
 thumbnail: rockstars_thumbnail.png
 alt: Rockstars & Consultants, who needs 'em?
-project-date: 2012
+project-date: Oct 2012
 talk_url: http://confreaks.tv/videos/railsconf2012-mobile-rage-what-causes-it-how-to-fix-it 
 deck_url: https://speakerdeck.com/wndxlori/rockstars-and-consultants-who-needs-em-aloha-ruby-conf
 category: Careers

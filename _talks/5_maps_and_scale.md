@@ -6,7 +6,7 @@ modal-id: 5
 img: maps_and_scale.png
 thumbnail: maps_and_scale_thumbnail.png
 alt: Maps and Scale
-project-date: 2011
+project-date: Oct 2011
 talk_url: 
 deck_url: https://speakerdeck.com/wndxlori/maps-and-scale
 category: Javascript
