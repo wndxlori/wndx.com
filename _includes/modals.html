@@ -83,12 +83,14 @@
                             Speaker Deck
                         </a>
                     </div>
+                    {% if talk.talk_url %}
                     <div class="col-md-3 col-md-offset-2">
                         <a href="{{talk.talk_url}}" class="btn btn-sm btn-primary">
                             <i class="fa fa-file-video-o" aria-hidden="true"></i>
                             Confreaks.TV
                         </a>
                     </div>
+                    {% endif %}
                 </div>
             </div>
          </div>
