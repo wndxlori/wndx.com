@@ -8,8 +8,32 @@
                 </div>
             </div>
             <div class="row">
+                <div class="col-lg-4 col-sm-6 talk-title-item">
+                    Upcoming
+                </div>
+                <div class="col-lg-4 col-sm-6 talk-item">
+                    <div class="talk-caption">
+                        <h4>RubyMotion for Rails Developers</h4>
+                        <p class="text-muted">Workshop!</p>
+                    </div>
+                    <a href="http://railsconf.com/program/workshops#session-116" class="talk-link">
+                        <div class="talk-hover">
+                            <div class="talk-hover-content">
+                                <i class="fa fa-external-link fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/talks/railsconf.png" class="img-responsive img-centered" alt="RubyMotion for Rails Developers at RailsConf">
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6 talk-title-item">
+                    Want us to come speak at your conference? Let us know!
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-lg-4 col-sm-6 talk-title-item">
+                    Past
+                </div>
             {% for talk in site.talks %}
-                <div class="col-md-4 col-sm-6 talk-item">
+                <div class="col-lg-4 col-sm-6 talk-item">
                     <div class="talk-caption">
                         <h4>{{ talk.title }}</h4>
                         <p class="text-muted">{{ talk.subtitle }}</p>
@@ -20,7 +44,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/talks/{{ talk.thumbnail }}" class="img-responsive img-centered" alt="{{ talk.alt }}">
+                        <img src="img/talks/{{ talk.img }}" class="img-responsive img-centered" alt="{{ talk.alt }}">
                     </a>
                 </div>
             {% endfor %}
