@@ -87,6 +87,8 @@ VHOST
     post_image_src = 'img/original'
     FileUtils.mkdir_p twitter_image_dest
     Dir["#{post_image_src}/*"].each do |fname|
+      ext = fname.split('.').last
+      next if ext.casecmp('tiff')
       puts "resizing #{fname}"
       image = Magick::Image.read(fname).first
       image.change_geometry!('300x160') { |cols, rows, img|
