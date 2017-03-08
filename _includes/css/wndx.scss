@@ -1,4 +1,12 @@
-body.blog { padding-top: 90px; }
+body.blog {
+  padding-top: 90px;
+}
+body.blog img.pull-left {
+  padding-right: 15px;
+}
+body.blog img.pull-right {
+  padding-left: 15px;
+}
 
 .navbar-default.navbar-normal {
     padding: 10px 0;

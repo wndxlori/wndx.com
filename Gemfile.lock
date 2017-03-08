@@ -65,6 +65,8 @@ GEM
       net-ssh (>= 2.6.5)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     octopress-paginate (1.2.0)
       octopress-hooks
     pathutil (0.14.0)
@@ -95,6 +97,7 @@ DEPENDENCIES
   jekyll-picture-tag
   jekyll-sitemap
   jekyll-titleize
+  octopress-image-tag
   octopress-paginate
   rmagick
 
