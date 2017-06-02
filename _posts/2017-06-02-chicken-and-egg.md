@@ -1,4 +1,19 @@
-The Chicken and Egg Problem of CIT Education
+---
+layout: post
+title: The Chicken and Egg Problem of CIT Education
+categories:
+- software-craft
+tags:
+- software craft
+- career
+- ladies learning code
+- kids learning code
+- teachers learning code
+status: publish
+published: true
+image:
+  feature: foghorn.jpg
+---
 
 I'm trying to work my head around some of the issues we have with the gaping hole we are looking at, in trained software development professionals.  
 
