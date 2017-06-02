@@ -1,6 +1,6 @@
 The Chicken and Egg Problem of CIT Education
 
-I'm trying to work my head around all the issues with the gaping hole we are looking at, in trained software development professionals.  
+I'm trying to work my head around some of the issues we have with the gaping hole we are looking at, in trained software development professionals.  
 
 There are a variety of ways for people to enter into the profession:
 
