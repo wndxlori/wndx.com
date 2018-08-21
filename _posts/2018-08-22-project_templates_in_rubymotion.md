@@ -9,7 +9,7 @@ tags:
 - rubymotion
 - ruby
 status: publish
-published: false
+published: true
 image:
   feature: rawpixel-579231-unsplash.jpg
 ---
