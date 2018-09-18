@@ -1,0 +1,6 @@
+<ul class="{{ include.list_class }} social-buttons">
+    {% for network in site.data.social %}
+    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+    </li>
+    {% endfor %}
+</ul>
