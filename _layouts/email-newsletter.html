@@ -16,8 +16,7 @@
 	<title>RubyMotion Weekly Newsletter</title>
 
 	<!-- GOOGLE FONTS LINK -->
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Syncopate" rel="stylesheet">
 
 	<style type="text/css">
 		/*------ RESET STYLE ------ */
@@ -37,8 +36,8 @@
 		.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td,img{line-height:100%;}
 
 		/*------ GOOGLE FONT STYLE ------ */
-		[style*="Open Sans"] {font-family:'Open Sans', Helvetica, Arial, sans-serif !important;}
-		[style*="Lora"] {font-family:'Lora', Georgia, Times, serif !important;}
+		[style*="Syncopate"] {font-family:'Syncopate', Helvetica, Arial, sans-serif !important;}
+		[style*="Bree Serif"] {font-family:'Bree Serif', Georgia, Times, serif !important;}
 
 		/*------ GENERAL STYLE ------ */
 		.wrapperTable{width:100%; max-width:620px; Margin:0 auto;}
@@ -83,7 +82,7 @@
 										<td align="right" valign="top" style="padding-top:20px;padding-bottom:20px;padding-left:20px;padding-right:20px;">
 
 											<!-- Email View in Browser // -->
-											<a class="smlText hide" href={{ view_in_browser_url }} target="_blank" style="color:#BBBBBB; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:right; text-decoration:underline; padding:0; margin:0">
+											<a class="smlText hide" href={{ view_in_browser_url }} target="_blank" style="color:#BBBBBB; font-family:'Bree Serif', Georgia, Times, serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:right; text-decoration:underline; padding:0; margin:0">
 												Trouble seeing this email?
 											</a>
 
@@ -101,33 +100,35 @@
 							<td align="center" valign="top" style="padding-left:10px;padding-right:10px;">
 								
 								<!-- Email Header Open //-->
-								<table border="0" cellpadding="0" cellspacing="0" width="100%" class="emailHeader">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%" class="emailHeader" style="background-color: white">
 									<tr>
-										<td align="center" valign="middle" style="padding-top:40px;padding-bottom:20px;padding-left:20px;padding-right:20px;" class="emailLogo">
+                                        <td align="center" valign="top" style="padding-top:40px;padding-bottom:40px" class="postImg">
+                                            <!-- Post Image  // -->
+                                            <a href="#" target="_blank" style="text-decoration:none;">
+                                                <img src="https://wndx.com/img/newsletter/dragon_computer.jpg" alt="" border="0" style="width:60%; max-width:600px; height:auto; display:block;" />
+                                            </a>
+                                        </td>
+										<td align="center" valign="middle" style="padding:10px;" class="emailTitle">
 											<!-- Logo and Link  // -->
 											<a href="#" target="_blank" style="text-decoration:none;">
-												<img src="https://www.filepicker.io/api/file/rH0cKP2zRpu5KZJYJ2yQ" alt="" width="80" border="0" style="height:auto; display:block;"/>
+												<img src="http://www.rubymotion.com/img/rubymotion-logo-shadow.png" alt="" width="75" border="0" style="height:auto; display:block;"/>
 											</a>
-										</td>
-									</tr>
-
-									<tr>
-										<td align="center" valign="middle" style="padding-bottom:5px;padding-left:20px;padding-right:20px;" class="emailTitle">
+											<br/>
 											<!-- Email Header Title  // -->
-											<p class="bigText" style="color:#A5A5A5; font-family: 'Lora', Georgia, Times, serif; font-size:24px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:32px; text-transform:none; text-align:center; padding:0; margin:0;">
+											<p class="bigText" style="color:#A5A5A5; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:24px; font-style:normal; letter-spacing:normal; line-height:32px; text-transform:none; text-align:center; padding:0; margin:0;">
 												RubyMotion Weekly
 											</p>
-											<p class="smlText" style="color:#999999; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; font-weight:400; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding:0;">
+											<p class="smlText" style="color:#999999; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding-top: 10px;">
 												Tales from the Dragon
 											</p>
 										</td>
 									</tr>
 
 									<tr>
-										<td align="center" valign="middle" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="emailTimeStamp">
+										<td colspan="2" align="center" valign="middle" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="emailTimeStamp">
 											<!-- Email Time Stamp  // -->
-											<p class="smlText" style="color:#999999; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; font-weight:400; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding:0;">
-												{{}}
+											<p class="smlText" style="color:#999999; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-weight:400; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding:0;">
+												{{ now | date: "%a, %B %d, %Y at %I:%M %p" }}
 											</p>
 										</td>
 									</tr>
@@ -147,36 +148,7 @@
 									<tr>
 										<td style="padding-left:10px;padding-right:10px;padding-bottom:20px">
 
-											<table border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF;" width="100%" class="columnFull" >
-												<tr>
-													<td align="center" valign="top" style="padding-bottom:40px" class="postImg">
-														<!-- Post Image  // -->
-														<a href="#" target="_blank" style="text-decoration:none;">
-															<img src="https://wndx.com/img/newsletter/dragon_computer.jpg" width="600" alt="" border="0" style="width:100%; max-width:600px; height:auto; display:block;" />
-														</a>
-													</td>
-												</tr>
-
-												<!--<tr>-->
-													<!--<td align="center" valign="top" style="padding-bottom:20px;padding-left:20px;padding-right:20px;" class="postTitle">-->
-														<!--&lt;!&ndash; Title Text // &ndash;&gt;-->
-														<!--<h2 class="bigText" style="color:#191919; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:20px; font-weight:700; font-style:normal; letter-spacing:normal; line-height:30px; text-align:center; text-transform:uppercase; padding:0; margin:0;">-->
-															<!--New In The School-->
-														<!--</h2>-->
-													<!--</td>-->
-												<!--</tr>-->
-
-												<tr>
-													<td align="center" valign="top" style="padding-bottom:20px;">
-														<!-- Divider // -->
-														<table align="center" border="0" width="50" cellpadding="0" cellspacing="0" class="divider">
-															<tr>
-																<td align="center" style="border-bottom:2px solid #B196FF;font-size:0;line-height:0;">&nbsp;</td>
-															</tr>
-														</table>
-													</td>
-												</tr>
-
+											<table border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF;" width="100%" >
 												<tr>
 													<td align="center" valign="top" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="postDesc">
 														<!-- Post Description // -->
@@ -189,9 +161,9 @@
 														<!-- Button Table // -->
 														<table align="center" border="0" cellpadding="0" cellspacing="0">
 															<tr>
-																<td align="center" class="postButton" style="background-color:#191919;padding-top:10px;padding-bottom:10px;padding-left:25px;padding-right:25px;border-radius:2px">
+																<td align="center" class="postButton" style="background-color:#191919;border-radius:5px">
 																	<!-- Post Button Link // -->
-																	<a href="https://wndx.com/archives/category/newsletters/" target="_blank" style="color:#FFFFFF; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px; font-weight:600; font-style:normal; letter-spacing:1px; line-height:20px; text-transform:uppercase; text-decoration:none; padding:0; margin:0; display:block;" >
+																	<a href="https://wndx.com/archives/category/newsletters/" target="_blank" style="color:#FFFFFF; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:12px; font-style:normal; font-weight: bold; line-height:20px; text-transform:uppercase; text-decoration:none;padding:10px 25px; display: inline-block" >
 																		News Archive
 																	</a>
 																</td>
@@ -212,8 +184,16 @@
 
 					<table border="0" cellpadding="0" cellspacing="0" width="100%" class="wrapperFooter">
 						<tr>
+							<td align="center" valign="top" style="padding-top:20px;padding-bottom:20px" class="postImg">
+								<!-- Post Image  // -->
+								<a href="#" target="_blank" style="text-decoration:none;">
+									<img src="https://wndx.com/img/logos/horizontal-mono-school.png" alt="" border="0" style="width:60%; max-width:600px; height:auto; display:block;" />
+								</a>
+							</td>
+						</tr>
+						<tr>
 							<td align="center" valign="top" style="padding-left:10px;padding-right:10px;">
-								
+								<p class="smlText" style="color:#777777; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >Follow us on social media</p>
 								<!-- Email Footer Open //-->
 								<table border="0" cellpadding="0" cellspacing="0" width="100%" class="footer">
 									<tr>
@@ -241,7 +221,7 @@
 									<tr>
 										<td align="center" valign="top" style="padding-top:0px;padding-bottom:10px;padding-left:10px;padding-right:10px;" class="footerEmailInfo">
 											<!-- Information of NewsLetter (Subscribe Info)// -->
-											<p class="smlText" style="color:#777777; font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:11px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >
+											<p class="smlText" style="color:#777777; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >
                                               {{ footer.html }}
 											</p>
 										</td>
