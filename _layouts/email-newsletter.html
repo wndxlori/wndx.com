@@ -16,15 +16,16 @@
 	<title>RubyMotion Weekly Newsletter</title>
 
 	<!-- GOOGLE FONTS LINK -->
-	<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Syncopate" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Sans|Syncopate" rel="stylesheet">
 
 	<style type="text/css">
 		/*------ RESET STYLE ------ */
 		*{-webkit-text-size-adjust:none;-webkit-text-resize:100%;text-resize:100%;}
 		table{border-spacing: 0;border-collapse: collapse !important;}
-		h1, h2, h3, h4, h5, h6{display:block; Margin:0; padding:0;}
+		h1, h2, h3, h4, h5, h6{color: #aa0000; display:block; margin:0; padding:0; font-family: 'Syncopate', Helvetica, Arial, sans-serif}
 		img, a img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
-		body, #bodyTable, #bodyCell{height:100% !important; margin:0; padding:0; width:100% !important;}
+		body, #bodyTable, #bodyCell{color: #666666; height:100% !important; margin:0; padding:0; width:100% !important; font-family: 'Roboto Sans', Georgia, Times, serif;}
+		.body {font-size: 16px;}
 		
 		/*------ CLIENT-SPECIFIC STYLE ------ */
 		@-ms-viewport{width:device-width;}
@@ -37,7 +38,7 @@
 
 		/*------ GOOGLE FONT STYLE ------ */
 		[style*="Syncopate"] {font-family:'Syncopate', Helvetica, Arial, sans-serif !important;}
-		[style*="Bree Serif"] {font-family:'Bree Serif', Georgia, Times, serif !important;}
+		[style*="Roboto Sans"] {font-family:'Roboto Sans', Georgia, Times, serif !important;}
 
 		/*------ GENERAL STYLE ------ */
 		.wrapperTable{width:100%; max-width:620px; Margin:0 auto;}
@@ -82,7 +83,7 @@
 										<td align="right" valign="top" style="padding-top:20px;padding-bottom:20px;padding-left:20px;padding-right:20px;">
 
 											<!-- Email View in Browser // -->
-											<a class="smlText hide" href={{ view_in_browser_url }} target="_blank" style="color:#BBBBBB; font-family:'Bree Serif', Georgia, Times, serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:right; text-decoration:underline; padding:0; margin:0">
+											<a class="smlText hide" href={{ view_in_browser_url }} target="_blank" style="color:#BBBBBB; font-family:'Roboto Sans', Georgia, Times, serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:right; text-decoration:underline; padding:0; margin:0">
 												Trouble seeing this email?
 											</a>
 
@@ -108,17 +109,17 @@
                                                 <img src="https://wndx.com/img/newsletter/dragon_computer.jpg" alt="" border="0" style="width:60%; max-width:600px; height:auto; display:block;" />
                                             </a>
                                         </td>
-										<td align="center" valign="middle" style="padding:10px;" class="emailTitle">
+										<td align="center" valign="middle" style="padding:0px;" class="emailTitle">
 											<!-- Logo and Link  // -->
 											<a href="#" target="_blank" style="text-decoration:none;">
-												<img src="http://www.rubymotion.com/img/rubymotion-logo-shadow.png" alt="" width="75" border="0" style="height:auto; display:block;"/>
+												<img src="http://www.rubymotion.com/img/rubymotion-logo-shadow.png" alt="" width="85" border="0" style="height:auto; display:block;"/>
 											</a>
 											<br/>
 											<!-- Email Header Title  // -->
-											<p class="bigText" style="color:#A5A5A5; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:24px; font-style:normal; letter-spacing:normal; line-height:32px; text-transform:none; text-align:center; padding:0; margin:0;">
+											<p class="bigText" style="color: #333333; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:24px; font-style:normal; letter-spacing:normal; line-height:32px; text-transform:none; text-align:center; padding:0; margin:0;">
 												RubyMotion Weekly
 											</p>
-											<p class="smlText" style="color:#999999; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding-top: 10px;">
+											<p class="smlText" style="color:#aa0000; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:14px; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding-top: 10px;">
 												Tales from the Dragon
 											</p>
 										</td>
@@ -127,8 +128,8 @@
 									<tr>
 										<td colspan="2" align="center" valign="middle" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="emailTimeStamp">
 											<!-- Email Time Stamp  // -->
-											<p class="smlText" style="color:#999999; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-weight:400; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding:0;">
-												{{ now | date: "%a, %B %d, %Y at %I:%M %p" }}
+											<p class="smlText" style="color:#999999; font-family: 'Roboto Sans', Georgia, Times, serif; font-size:12px; line-height:20px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; margin:0; padding:0;">
+												{{ now | date: "%a, %B %d, %Y" }}
 											</p>
 										</td>
 									</tr>
@@ -150,7 +151,7 @@
 
 											<table border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF;" width="100%" >
 												<tr>
-													<td align="center" valign="top" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="postDesc">
+													<td align="justify" valign="top" style="padding-bottom:40px;padding-left:20px;padding-right:20px;" class="body">
 														<!-- Post Description // -->
 														{{ email.html }}
 													</td>
@@ -184,20 +185,23 @@
 
 					<table border="0" cellpadding="0" cellspacing="0" width="100%" class="wrapperFooter">
 						<tr>
-							<td align="center" valign="top" style="padding-top:20px;padding-bottom:20px" class="postImg">
-								<!-- Post Image  // -->
-								<a href="#" target="_blank" style="text-decoration:none;">
-									<img src="https://wndx.com/img/logos/horizontal-mono-school.png" alt="" border="0" style="width:60%; max-width:600px; height:auto; display:block;" />
-								</a>
+							<td align="center" colspan="2" valign="top" style="padding-left:10px;padding-right:10px;">
+								<p class="smlText" style="color:#777777; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >RubyMotion Weekly brought to you by</p>
+
 							</td>
 						</tr>
 						<tr>
-							<td align="center" valign="top" style="padding-left:10px;padding-right:10px;">
-								<p class="smlText" style="color:#777777; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >Follow us on social media</p>
+							<td align="center" valign="top" width="50%" style="padding-top:10px;padding-bottom:10px" class="postImg">
+								<!-- Post Image  // -->
+								<a href="https://wndx.school" target="_blank" style="text-decoration:none;">
+									<img src="https://wndx.com/img/logos/horizontal-school.png" alt="" border="0" style="width:60%; max-width:300px; height:auto; display:block;" />
+								</a>
+							</td>
+							<td align="center" valign="top" width="50%" style="padding-left:10px;padding-right:10px;">
 								<!-- Email Footer Open //-->
 								<table border="0" cellpadding="0" cellspacing="0" width="100%" class="footer">
 									<tr>
-										<td align="center" valign="top" style="padding-top:10px;padding-bottom:10px;padding-left:10px;padding-right:10px;" class="socialLinks">
+										<td align="center" style="padding-top:10px;padding-bottom:0;padding-left:10px;padding-right:10px;" class="socialLinks">
 											<!-- Social Links (Facebook)// -->
 											<a href="https://www.facebook.com/wndxschool/" target="_blank" style="display:inline-block;" class="facebook">
 												<img src="http://emails.grapestheme.com/miley/img/social/facebook.png" alt="" width="40" border="0" style="height:auto;margin:2px" />
@@ -216,24 +220,21 @@
 											</a>
 										</td>
 									</tr>
-
-
 									<tr>
-										<td align="center" valign="top" style="padding-top:0px;padding-bottom:10px;padding-left:10px;padding-right:10px;" class="footerEmailInfo">
-											<!-- Information of NewsLetter (Subscribe Info)// -->
-											<p class="smlText" style="color:#777777; font-family: 'Bree Serif', Georgia, Times, serif; font-size:11px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >
-                                              {{ footer.html }}
-											</p>
+										<td align="center" valign="top">
+											<p class="smlText" style="color:#777777; font-family: 'Syncopate', Helvetica, Arial, sans-serif; font-size:9px; font-style:normal; letter-spacing:normal; text-transform:none; text-align:center; padding:0; margin:0;" >Follow us on social media</p>
 										</td>
-									</tr>
-
-									<!-- Space -->
-									<tr>
-										<td height="30" style="font-size:1px;line-height:1px;">&nbsp;</td>
 									</tr>
 								</table>
 								<!-- Email Footer Close //-->
-
+							</td>
+						</tr>
+						<tr>
+							<td align="center" colspan="2" valign="top" style="padding: 10px;" class="footerEmailInfo">
+								<!-- Information of NewsLetter (Subscribe Info)// -->
+								<p class="smlText" style="color:#777777; font-family: 'Roboto Sans', Georgia, Times, serif; font-size:11px; font-weight:400; font-style:normal; letter-spacing:normal; line-height:20px; text-transform:none; text-align:center; padding:0; margin:0;" >
+									{{ footer.html }}
+								</p>
 							</td>
 						</tr>
 					</table>
