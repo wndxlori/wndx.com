@@ -68,8 +68,13 @@ browser:
 I hope you find these resources helpful, and if you do, please share this post with others.
 
 Today is [International Women's Day](https://www.internationalwomensday.com/IWD2019), and
-this year's theme is #BalanceForBetter.  I would love it if more women would join me for the 
-[Six Vital Steps from Idea to App Store](http://6packapps.io) webinar, and use these 
-resources to learn enough Ruby to come and build [RubyMotion](https://rubymotion.com) 
+this year's theme is #BalanceForBetter. I would love it if more women would join me for the 
+[Six Vital Steps from Idea to App Store](http://6packapps.io) webinar. It's free and will 
+provide a great introduction to the app development process in about an hour. 
+
+<a href="http://6packapps.io" class="btn btn-xl center">Tell Me More</a>
+
+And then use the 
+resources above to learn enough Ruby to come and build [RubyMotion](https://rubymotion.com) 
 apps with me. My #BalanceForBetter is to foster the education of a group of more diverse 
-developers, who will be creating the apps of the future that we all use everyday.  
+women developers, who will be creating the apps of the future that we all use everyday.  
