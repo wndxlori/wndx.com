@@ -52,19 +52,21 @@ started with, and focused on, the idea not the audience.
     {% img img-responsive img-rounded /img/original/mind-blown.png title:"Mind Blown" %}
   </div>
 </div>
- 
+
+
 Like Kareem, I do understand why people start with code. I mean, it's familiar, 
 it's comfortable, and it (mostly) does what it's told to do. It's not as messy as... 
 dealing with people. People with contrary opinions. Some people who tell you your idea 
 is brilliant, and others who tell you it's stupid (We'll talk more about that next post).
 
-I'm not going to tell you not to code. But you shouldn't be creating your product. Not yet. 
+I'm not going to tell you not to code. But you shouldn't be creating your product. Not YET. 
 Go ahead and play. Figure out HOW to do things. It's a nice break from the more challenging 
 work of dealing with people 😉. 
 
-There is an easier way than going out and pitching your idea to random strangers. That's 
-where Step 1 of the Six Steps from Idea to App Store comes in. Why not join me for this
-FREE webinar on April 2?
+Starting with an audience, instead of an idea is great. But there is an easier way than 
+going out and pitching your idea to random strangers. That's where Step 1 of the Six Steps 
+from Idea to App Store comes in. Why not join me for this FREE webinar on April 2 where I'll
+reveal some of the tips and tricks I have learned?
 
 <a href="http://6packapps.io" class="btn btn-sm center">Tell Me More</a>
 
