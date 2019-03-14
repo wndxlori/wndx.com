@@ -17,7 +17,7 @@ image:
 ---
 
 I stumbled across this [post](http://blog.reemer.com/why-only-fools-write-code-first) by 
-Kareem Mayan the other day. 
+[Kareem Mayan](http://www.reemer.com/about/) the other day. 
 
 [Why only fools write code first](http://blog.reemer.com/why-only-fools-write-code-first) 
 
@@ -50,7 +50,7 @@ started with, and focused on, the idea not the audience.
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g1a84q6RBSMrS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anna-kendrick-g1a84q6RBSMrS">via GIPHY</a></p>
 
 
-Like Kareem, I do understand why people start with code. I mean, it's familiar, 
+Like Kareem, I do understand why people start with code. It's familiar, 
 it's comfortable, and it **mostly** does what it's told to do. It's not as messy as...
 dealing with people. People with contrary opinions. Some people who tell you your idea 
 is brilliant, and others who tell you it's stupid (We'll talk more about that in another post).
@@ -66,9 +66,6 @@ walk you through some of the tips and tricks I have learned?
 
 <div class="row cta-margin">
     <div class="col-sm-12 text-center"> 
-        <a href="http://6packapps.io" class="btn btn-warning">Sign Me Up</a>
+        <a href="http://drip.la/c/eyJhY2NvdW50X2lkIjoiNjg0MjExMSIsInRyaWdnZXJfaWQiOiIzMTc0MTY3MzgiLCJkeW5hbWljX3VybCI6bnVsbCwidXJsIjoiaHR0cHM6Ly93bmR4c2Nob29sLmVhc3l3ZWJpbmFyLmxpdmUvcmVnaXN0cmF0aW9uIn0" class="btn btn-warning">Sign Me Up</a>
     </div>
 </div>
-
-P.S. If you can't make it at that time, or on that day, there will be a replay, so go
-ahead and sign up anyway!
