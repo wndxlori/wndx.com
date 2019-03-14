@@ -19,9 +19,9 @@ image:
 I stumbled across this [post](http://blog.reemer.com/why-only-fools-write-code-first) by 
 Kareem Mayan the other day. 
 
-Why only fools write code first 
+[Why only fools write code first](http://blog.reemer.com/why-only-fools-write-code-first) 
 
-This post is gold, and describes, in detail, the why the first step of the Six Steps from 
+This post is gold, and describes, in detail, why the first step of the Six Steps from 
 Idea to App Store is so important.
 
 I do, however, have some opinions that differ from some of the characterizations Kareem 
@@ -43,32 +43,32 @@ for people who did not understand this simple concept. I mean, they paid me, so 
 good. But I was also frustrated as hell, building things that no one (or, hardly anyone)
 wanted.
 
-It wasn't until I discovered Amy Hoy's 30x500 course (in it's earlier form as "Year of 
+It wasn't until I discovered Amy Hoy's [30x500 course](https://30x500.com/academy/) (in it's earlier form as "Year of 
 Hustle"), that I realized what all those old projects I had worked on had in common. They 
 started with, and focused on, the idea not the audience.
   
-<div class="row">
-  <div class="col-md-offset-2 col-lg-8">
-    {% img img-responsive img-rounded /img/original/mind-blown.png title:"Mind Blown" %}
-  </div>
-</div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g1a84q6RBSMrS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anna-kendrick-g1a84q6RBSMrS">via GIPHY</a></p>
 
 
 Like Kareem, I do understand why people start with code. I mean, it's familiar, 
-it's comfortable, and it (mostly) does what it's told to do. It's not as messy as... 
+it's comfortable, and it **mostly** does what it's told to do. It's not as messy as...
 dealing with people. People with contrary opinions. Some people who tell you your idea 
-is brilliant, and others who tell you it's stupid (We'll talk more about that next post).
+is brilliant, and others who tell you it's stupid (We'll talk more about that in another post).
 
-I'm not going to tell you not to code. But you shouldn't be creating your product. Not YET. 
-Go ahead and play. Figure out HOW to do things. It's a nice break from the more challenging 
-work of dealing with people í ½í¸‰.
+I'm not going to tell you not to code.  Mostly because I love coding, and I think you do to. 
+But you shouldn't be creating your product. Not YET. Go ahead and play. Figure out HOW to 
+do things. It's a nice break from the more challenging work of dealing with people ðŸ˜‰.
 
-Starting with an audience, instead of an idea is great. But there is an easier way than 
-going out and pitching your idea to random strangers. That's where Step 1 of the Six Steps 
-from Idea to App Store comes in. Why not join me for this FREE webinar on April 2 where I'll
-reveal some of the tips and tricks I have learned?
+Starting with an audience, instead of an idea is great. There is however an easier way than 
+going out and pitching your idea to random strangers. That's where Step 1 of the 6 Steps 
+from Idea to App Store comes in. Why not join me for my FREE webinar on April 2 where I'll
+walk you through some of the tips and tricks I have learned?
 
-<a href="http://6packapps.io" class="btn btn-sm center">Tell Me More</a>
+<div class="row cta-margin">
+    <div class="col-sm-12 text-center"> 
+        <a href="http://6packapps.io" class="btn btn-warning">Sign Me Up</a>
+    </div>
+</div>
 
 P.S. If you can't make it at that time, or on that day, there will be a replay, so go
 ahead and sign up anyway!
