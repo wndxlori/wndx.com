@@ -27,7 +27,7 @@ Idea to App Store is so important.
 I do, however, have some opinions that differ from some of the characterizations Kareem 
 presents.  
 
-First up... not every person who codes identifies as a "hacker" (from his "Who this is 
+First up...not every person who codes identifies as a "hacker" (from his "Who this is 
 for: hackers who have an idea."). Some people who code don't identify as "coders" either. 
 Maybe you are a product manager who dabbles in code for fun (I have a great story about 
 one of the most prolific early app store contributors I know who resembles this remark).
@@ -61,7 +61,7 @@ is brilliant, and others who tell you it's stupid (We'll talk more about that ne
 
 I'm not going to tell you not to code. But you shouldn't be creating your product. Not YET. 
 Go ahead and play. Figure out HOW to do things. It's a nice break from the more challenging 
-work of dealing with people ðŸ˜‰. 
+work of dealing with people í ½í¸‰.
 
 Starting with an audience, instead of an idea is great. But there is an easier way than 
 going out and pitching your idea to random strangers. That's where Step 1 of the Six Steps 
