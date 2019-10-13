@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Project Templates in RubyMotion
 categories:
 - products

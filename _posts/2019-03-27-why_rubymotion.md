@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Why RubyMotion 
 categories:
 - workshops

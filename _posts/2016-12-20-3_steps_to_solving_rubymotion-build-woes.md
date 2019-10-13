@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: 3 Steps To Solving RubyMotion Build Woes
 categories:
 - products

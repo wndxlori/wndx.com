@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: A Quick Overview of motion-provisioning
 categories:
 - products

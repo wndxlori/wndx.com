@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Your 3 Step Guide to Getting Started with RubyMotion
 categories:
 - products

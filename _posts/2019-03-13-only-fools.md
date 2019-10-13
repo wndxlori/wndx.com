@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Only Fools?
 categories:
 - workshops

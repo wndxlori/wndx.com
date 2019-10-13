@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Don't Validate with Friends & Family
 categories:
 - workshops

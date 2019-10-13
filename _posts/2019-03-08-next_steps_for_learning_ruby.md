@@ -1,6 +1,5 @@
 ---
 layout: cta
-drip: rubymotion
 title: Next Steps for Learning Ruby
 categories:
 - ladies learning code
