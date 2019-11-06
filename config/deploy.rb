@@ -7,7 +7,7 @@ set :copy_compression, :gzip
 set :use_sudo, false
 
 # the name of the user that should be used for deployments on your VPS
-#set :user, "wndx"
+set :user, "root"
 
 # the path to deploy to on your VPS
 # the "current" dir will be under this directory, and will be your document root
