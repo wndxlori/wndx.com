@@ -7,7 +7,9 @@ tags: []
 status: publish
 published: true
 meta: {}
---->CALMAR, ALBERTA — Five new Calmar homes have to be removed to make room for a drilling rig to seal an abandoned natural gas well discovered in one family's backyard.
+---
+
+CALMAR, ALBERTA — Five new Calmar homes have to be removed to make room for a drilling rig to seal an abandoned natural gas well discovered in one family's backyard.
 
 In what the Energy Resources Conservation Board called "a unique situation," two families have already moved and Imperial Oil has confirmed it may have to purchase three other adjacent modular homes in the community, 50 kilometres southwest of Edmonton.
 
