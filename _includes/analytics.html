@@ -7,20 +7,6 @@
 
   ga('create', 'UA-37342921-1', 'auto');
   ga('send', 'pageview');
-
-// <!-- Drip -->
-  var _dcq = _dcq || [];
-  var _dcs = _dcs || {};
-  var drip_account = {{layout.drip_account}};
-  _dcs.account = drip_account.toString();
-
-  (function() {
-    var dc = document.createElement('script');
-    dc.type = 'text/javascript'; dc.async = true;
-    dc.src = '//tag.getdrip.com/' + drip_account.toString() + '.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(dc, s);
-  })();
 {% endif %}
 
 
