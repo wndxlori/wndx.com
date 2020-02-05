@@ -36,7 +36,7 @@ Which begs the question: what's holding *you* back from getting *your* little ap
 
 Our good friend [Amir](https://twitter.com/amirrajan) channels his inner [Marcel Marceau](https://en.wikipedia.org/wiki/Marcel_Marceau) with this vivid demo of the [speed of DragonRuby](https://www.youtube.com/watch?v=wjDXGs1Anrg). Talk about letting the result speak for itself. Spoiler alert: Dragon Ruby kicks [Unity 2D](https://unity.com/solutions/2d)'s ass and takes its name.
 
-If you're like us you kind of freak out a little when we see 2D gaming characters of yore rendered in [Pixar-quality animation](https://www.youtube.com/watch?v=szby7ZHLnkA). Despite that, you'll still enjoy this fascinating look at turning a [2D game into 3D](https://twitter.com/dosnostalgic/status/1218949255865470976). It's not quite Pixar, but you'll get the idea.
+If you're like us you kind of freak out a little when you see 2D gaming characters of yore rendered in [Pixar-quality animation](https://www.youtube.com/watch?v=szby7ZHLnkA). Despite that, you'll still enjoy this fascinating look at turning a [2D game into 3D](https://twitter.com/dosnostalgic/status/1218949255865470976). It's not quite Pixar, but you'll get the idea.
 
 ## DRSH — Dragon Riders’ Slack Highlights
 
