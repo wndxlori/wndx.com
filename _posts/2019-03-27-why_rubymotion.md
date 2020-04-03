@@ -1,5 +1,5 @@
 ---
-layout: cta
+layout: 6pa-cta
 title: Why RubyMotion 
 categories:
 - workshops
@@ -157,13 +157,7 @@ Ok, I've confessed. Those are the reasons I chose to do RubyMotion development. 
 reasons I **choose** to teach mobile development with RubyMotion. You can make another choice. But, 
 come on, why would you? 🤘
 
-If you, too, would like to get an app in the App Store, why not join me for my FREE 
-webinar on April 2 where I'll walk you through some of the tips and tricks I have learned?
+If you, too, would like to get an app in the App Store, why not check out my 6 Pack Apps workshop?
 
-<div class="row cta-margin">
-    <div class="col-sm-12 text-center"> 
-        <a href="http://drip.la/c/eyJhY2NvdW50X2lkIjoiNjg0MjExMSIsInRyaWdnZXJfaWQiOiIzMTc0MTY3MzgiLCJkeW5hbWljX3VybCI6bnVsbCwidXJsIjoiaHR0cHM6Ly93bmR4c2Nob29sLmVhc3l3ZWJpbmFyLmxpdmUvcmVnaXN0cmF0aW9uIn0" class="btn btn-warning">YES, I Want To Build An App</a>
-    </div>
-</div>
 
  

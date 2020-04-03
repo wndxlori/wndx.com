@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 6pa-cta
 title: Deploying Jekyll
 categories:
 - business
@@ -100,7 +100,7 @@ It's a long list, and it didn't make me very happy to have yet more investigatio
 hurdles to plow through before getting my site deployed.  Eventually I decided to go
 with what I know.  As a Rails developer, I've used [Capistrano](http://capistranorb.com)
 to deploy my Rails applications since before it was called Capistrano (pop quiz...
-what did it used to be called?).  Since number of my single page project/product
+what did it used to be called?).  Since a number of my single page project/product
 sites are deployed to [Digital Ocean](https://m.do.co/c/cdc68a7477b9) already, it
 made sense to just piggy-back onto one of those droplets.
 
@@ -222,4 +222,5 @@ many Jekyll sub-topics.
 
 And the answer is... Capistrano's original name was [Switchtower](http://weblog.rubyonrails.org/2006/3/6/switchtower-is-now-capistrano/).
 Let that serve as a lesson to you when naming your projects.
- 
+
+<hr/>

@@ -1,5 +1,5 @@
 ---
-layout: cta
+layout: 6pa-cta
 title: Your 3 Step Guide to Getting Started with RubyMotion
 categories:
 - products

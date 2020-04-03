@@ -1,5 +1,5 @@
 ---
-layout: cta
+layout: 6pa-cta
 title: Don't Validate with Friends & Family
 categories:
 - workshops
@@ -71,12 +71,3 @@ people involved and invested will ensure that your audience is primed and ready 
 go. 
 
 ## 6 Pack Apps
-
-My 6 Pack Apps program is open for enrolment until April 16th. Do you want to get that app idea out of your
-head and into the App Store before summer?  Come join us and learn LOTS more about audiences and validation!
-
-<div class="row cta-margin">
-    <div class="col-sm-12 text-center"> 
-        <a href="https://drip.la/c/eyJhY2NvdW50X2lkIjoiNjg0MjExMSIsInRyaWdnZXJfaWQiOiIyOTQ2Mjc3NTMiLCJkeW5hbWljX3VybCI6bnVsbCwidXJsIjoiaHR0cHM6Ly93bmR4LnNjaG9vbC9wLzYtcGFjay1hcHBzLTIwMTkwNCJ9" class="btn btn-warning">6 Pack Apps? Tell Me More</a>
-    </div>
-</div>
