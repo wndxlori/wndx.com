@@ -62,3 +62,11 @@ An opportunity to improve a manual, error prone process. All you have to do is a
 another. And keep doing it until you get to CD. 
 
 Manage limited resources effectively/easily
+
+           <div class="wistia_responsive_padding">
+                <div class="wistia_responsive_wrapper">
+                    <div class='attachment-wistia-player stillSnap=false wistia_embed videoFoam=true' data-wistia-id='ua71hjdfxs' id='wistia-ua71hjdfxs' data-still-url='https://fast.wistia.com/assets/images/zebra/elements/dashed-thumbnail.png' data-attachment-id='30470212'></div>
+                </div>
+            </div>
+
+
