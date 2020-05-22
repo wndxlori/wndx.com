@@ -1,3 +1,16 @@
+---
+layout: 6pa-cta
+title: Unpaid Internships and Privilege
+categories:
+- software craft
+tags:
+- 6packapps
+- development
+- business
+- personal
+status: published
+published: true
+---
 Last week Dave Verwer of iOS Dev Weekly talked about someone who wanted to advertise an unpaid internship in his 
 newsletter. I have **so many things** to say about this.
 
