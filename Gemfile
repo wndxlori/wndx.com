@@ -9,11 +9,12 @@ group "jekyll_plugins" do
   gem "jekyll-archives"
   gem "jekyll-compose"
   gem "jekyll-email-protect"
-  gem "jekyll-feed"
+#  gem "jekyll-feed"
   gem "jekyll-haml"
   gem "jekyll-picture-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titleize"
+  gem "kramdown-parser-gfm"
   gem "octopress-paginate"
   gem "octopress-image-tag"
 end
