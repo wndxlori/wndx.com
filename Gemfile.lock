@@ -17,7 +17,7 @@ GEM
     eventmachine (1.2.7)
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
-    ffi (1.15.3)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     haml (5.2.1)
       temple (>= 0.8.0)
