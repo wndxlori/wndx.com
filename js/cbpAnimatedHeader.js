@@ -27,10 +27,10 @@ var cbpAnimatedHeader = (function() {
 	function scrollPage() {
 		var sy = scrollY();
 		if ( sy >= changeHeaderOn ) {
-			classie.add( header, 'navbar-shrink' );
+			header.classList.add('navbar-shrink' );
 		}
 		else {
-			classie.remove( header, 'navbar-shrink' );
+			header.classList.remove( 'navbar-shrink' );
 		}
 		didScroll = false;
 	}
