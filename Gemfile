@@ -1,7 +1,7 @@
 # Skinny Bones Gemfile
 source "https://rubygems.org"
 
-gem "jekyll"#, '~> 3.1.0'
+gem "jekyll", '~> 4.2'
 gem "capistrano", '~> 2.15'
 gem "rmagick"
 
@@ -10,11 +10,10 @@ group "jekyll_plugins" do
   gem "jekyll-compose"
   gem "jekyll-email-protect"
 #  gem "jekyll-feed"
-  gem "jekyll-haml"
-  gem "jekyll-picture-tag"
+  gem 'jekyll-haml-markup'
+  gem "jekyll_picture_tag"
   gem "jekyll-sitemap"
   gem "jekyll-titleize"
-  gem "kramdown-parser-gfm"
   gem "octopress-paginate"
   gem "octopress-image-tag"
 end
