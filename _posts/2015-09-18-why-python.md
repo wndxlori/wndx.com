@@ -2,7 +2,7 @@
 layout: post
 title: Why Python?
 categories:
-- Ladies Learning Code
+- ladies learning code
 tags:
 - python
 - workshop

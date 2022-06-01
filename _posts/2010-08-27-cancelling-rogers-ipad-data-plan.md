@@ -4,7 +4,7 @@ title: Cancelling Rogers iPad data plan
 categories: 
 - business
 tags:
-- Rogers
+- rogers
 - cancel
 - data
 - ipad

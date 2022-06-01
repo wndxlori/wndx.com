@@ -2,7 +2,7 @@
 layout: post
 title: Don't Go Into Management
 categories:
-- Software Craft
+- software craft
 tags:
 - mentor
 - development

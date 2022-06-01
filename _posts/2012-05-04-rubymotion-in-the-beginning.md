@@ -4,7 +4,7 @@ title: RubyMotion - In the beginning
 categories:
 - mobile development
 tags:
-- iOS
+- ios
 - ipad
 - iphone
 - ruby

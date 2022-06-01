@@ -2,7 +2,7 @@
 layout: post
 title: Maybe It's Your Hiring
 categories:
-- software-craft
+- software craft
 tags:
 - software craft
 - career

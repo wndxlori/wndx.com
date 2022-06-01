@@ -5,7 +5,7 @@ categories:
 - mobile development
 tags:
 - cocoapods
-- iOS
+- ios
 - ruby
 - rubymotion
 status: publish

@@ -6,7 +6,7 @@ categories:
 tags:
 - rubymotion
 - swift
-- cocopods
+- cocoapods
 - iglistkit
 - uicollectionview
 status: publish

@@ -2,7 +2,7 @@
 layout: post
 title: Ladies Learning Code comes to Lethbridge
 categories:
-- Ladies Learning Code
+- ladies learning code
 tags:
 - workshop
 - python

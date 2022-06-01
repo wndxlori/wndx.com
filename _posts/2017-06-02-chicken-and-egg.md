@@ -2,7 +2,7 @@
 layout: post
 title: The Chicken and Egg Problem of CIT Education
 categories:
-- software-craft
+- software craft
 tags:
 - software craft
 - career
