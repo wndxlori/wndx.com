@@ -9,7 +9,7 @@ tags:
 - workshops 
 status: publish
 published: true
-image:
+feature:
   one: lori_drums.jpg
 ---
 
@@ -84,7 +84,7 @@ open yourself to all the possible variations of solutions, so that when
 you encounter one of those students, you have other options to use, in 
 order to help that student achieve understanding.
 
-![](/img/original/{{ page.image.one }} "Me on Uncle Don's drums"){: .img-responsive }
+![](/img/original/{{ page.feature.one }} "Me on Uncle Don's drums"){: .img-responsive }
 
 And yes, the title of this post IS an homage to the 
 [Decidedly Jazz Danceworks](http://www.decidedlyjazz.com) professional 

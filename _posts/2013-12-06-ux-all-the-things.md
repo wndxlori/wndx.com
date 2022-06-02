@@ -9,8 +9,8 @@ tags:
 status: publish
 published: true
 meta: {}
-image: 
-  feature: badass_all_the_things.jpg
+feature: 
+  image: badass_all_the_things.jpg
 sidebar:
   resources:
     - <a href="https://www.amazon.ca/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/ref=as_li_ss_il?s=books&ie=UTF8&qid=1480449096&sr=1-1&linkCode=li1&tag=twg0f-20&linkId=200098e54afda7c4ee6b80c3cda484fa" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1491919019&Format=_SL110_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=twg0f-20" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=twg0f-20&l=li1&o=15&a=1491919019" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -10,8 +10,8 @@ tags:
 - testing
 status: publish
 published: true
-image:
-  feature: better-testing.png
+feature:
+  image: better-testing.png
 sidebar:
   resources:
     - <a href="https://www.amazon.ca/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=as_li_ss_il?ie=UTF8&qid=1483744773&sr=8-1&keywords=rspec&linkCode=li1&tag=twg0f-20&linkId=e715e2c35783d73de6901505cff7c03c" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356379&Format=_SL110_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=twg0f-20" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=twg0f-20&l=li1&o=15&a=1934356379" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

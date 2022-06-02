@@ -11,8 +11,8 @@ tags:
 - teachers learning code
 status: publish
 published: true
-image:
-  feature: foghorn.jpg
+feature:
+  image: foghorn.jpg
 ---
 
 I'm trying to work my head around some of the issues we have with the gaping hole we are looking at, in trained software development professionals.  

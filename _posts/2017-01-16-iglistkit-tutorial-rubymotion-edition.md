@@ -11,8 +11,8 @@ tags:
 - uicollectionview
 status: publish
 published: true
-image:
-  feature: swift-tutorials-are-coming.png
+feature:
+  image: swift-tutorials-are-coming.png
 ---
 [IGListKit](https://github.com/Instagram/IGListKit) popped up on my radar recently 
 from a couple of entries in the [iOS Dev Weekly](https://iosdevweekly.com/issues/282?sid=LeumXTm#start) 

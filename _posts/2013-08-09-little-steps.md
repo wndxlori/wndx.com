@@ -10,8 +10,8 @@ tags:
 - team
 status: publish
 published: true
-image: 
-  feature: little-steps.png
+feature: 
+  image: little-steps.png
 ---
 
 Agile.  Sounds great, doesn't it?  Do better work, and do it faster.  Why wouldn't everyone do that?

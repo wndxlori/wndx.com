@@ -21,8 +21,8 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if page.image.feature %}
-  <meta name="twitter:image" content="{{ site.url }}/img/twittercards/{{ page.image.feature }}">
+{% if page.feature.image %}
+  <meta name="twitter:image" content="{{ site.url }}/img/twittercards/{{ page.feature.image }}">
   {% if page.image.caption %}
     <meta name="twitter:image:alt" content="{{ page.image.caption }}">
   {% endif %}

@@ -8,8 +8,8 @@ tags:
 - productivity
 status: publish
 published: true
-image:
-  feature: jekyll-logo-2x.png
+feature:
+  image: jekyll-logo-2x.png
 ---
 About a month ago, I decided I had had enough of [Squarespace](https://www.squarespace.com)
 and all the weirdness involved in keeping my website there.  

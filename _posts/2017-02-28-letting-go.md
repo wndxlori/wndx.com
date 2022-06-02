@@ -8,8 +8,8 @@ tags:
 - team
 status: publish
 published: true
-image:
-  feature: letting-go.jpg
+feature:
+  image: letting-go.jpg
 ---
 Letting go is hard.  But there comes a time when you know it's the right thing to do.  So with a heavy heart, I am stepping down as Chapter Lead for [Ladies Learning Code](http://ladieslearningcode.com) in [Lethbridge](http://twitter.com/llclethbridge).
 

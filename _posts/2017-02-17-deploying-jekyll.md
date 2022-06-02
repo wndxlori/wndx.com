@@ -9,8 +9,8 @@ tags:
 - ruby
 status: publish
 published: true
-image:
-  feature: jekyll-logo-2x.png
+feature:
+  image: jekyll-logo-2x.png
 sidebar:
   resources:
     <a href="https://hydepress.github.io/index.html"><img src="/img/original/hyde-press.png" class="img-responsive"/></a>

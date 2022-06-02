@@ -10,8 +10,8 @@ tags:
 - ruby
 status: publish
 published: true
-image:
-  feature: Validate.jpg
+feature:
+  image: Validate.jpg
 ---
 
 Validating your app idea by talking to your friends and family.  That's so easy.  And so very wrong.  

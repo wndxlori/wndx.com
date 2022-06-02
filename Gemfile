@@ -9,7 +9,7 @@ group "jekyll_plugins" do
   gem "jekyll-archives"
   gem "jekyll-compose"
   gem "jekyll-email-protect"
-#  gem "jekyll-feed"
+  gem "jekyll-feed"
   gem 'jekyll-haml-markup'
   gem "jekyll_picture_tag"
   gem "jekyll-sitemap"

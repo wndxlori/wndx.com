@@ -9,8 +9,8 @@ tags:
 - business 
 status: publish
 published: true
-image:
-  feature: nikka_yuko_in_fall.png
+feature:
+  image: nikka_yuko_in_fall.png
   caption: Fall colours in the iconic Nikka Yuko Japanese Garden
 ---
 It's been 2.5 years since we moved out of Calgary, and down to my old home town of Lethbridge. So far, 

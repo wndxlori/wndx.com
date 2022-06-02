@@ -10,8 +10,8 @@ tags:
 - personal
 status: published
 published: true
-image:
-  feature: Overseer-girl-photograph-Yazoo-City-Yarn-Mills-1911.jpg
+feature:
+  image: Overseer-girl-photograph-Yazoo-City-Yarn-Mills-1911.jpg
 ---
 Last week [Dave Verwer](https://twitter.com/daveverwer) of [iOS Dev Weekly](https://iosdevweekly.com) talked about 
 [someone who wanted to advertise an unpaid internship](https://twitter.com/daveverwer/status/1260934234992111618?s=20) in his 

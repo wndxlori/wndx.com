@@ -9,8 +9,6 @@ tags:
 - women in computing
 status: publish
 published: true
-image:
-
 ---
 
 It was quite a while back, but I saved this tweet, because I thought 

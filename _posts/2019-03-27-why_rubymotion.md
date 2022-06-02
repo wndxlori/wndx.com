@@ -10,8 +10,8 @@ tags:
 - ruby
 status: publish
 published: true
-image:
-  feature: dark_side_readable_meme.jpg
+feature:
+  image: dark_side_readable_meme.jpg
 ---
 I'll probably get burned for this one, but it's all **my opinion**, based on **my experiences** and 
 observations. You may have different opinions, because you have a different career with your own 

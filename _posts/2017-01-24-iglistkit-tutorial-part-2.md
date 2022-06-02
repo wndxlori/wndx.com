@@ -11,8 +11,8 @@ tags:
 - uicollectionview
 status: publish
 published: true
-image:
-  feature: iglistkit.png
+feature:
+  image: iglistkit.png
 ---
 Ok, if you are just joining us, this is Part 2 of the IGListKit Tutorial, RubyMotion edition.  You should start with [Part 1](/blog/iglistkit-tutorial-rubymotion-edition/), if you are interested in the mechanics of the Swift -> RubyMotion translation of the [starter app](https://github.com/wndxlori/WNDXRubyMotion/releases/download/marslink-start/Marslink_Starter.tar.gz). And you really, really should read the source tutorial for [IGListKit](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews) before you start, because I'm skipping over the boring parts where I can.
 
