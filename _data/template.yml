@@ -1,11 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 00A1A8
-  secondary: 006368
-  secondary-dark: 002A2C
-  muted: 777
+  primary: F76201
+  secondary: 42EADD
+  secondary-dark: 2D5A7A
+  muted: 2D5A7A
 
 # Font Families
 font:
-  primary: '"Ubuntu", Arial, sans-serif'
-  secondary: '"Bitter", "Courier New", Courier, serif'
+  primary: '"saveursans-regularregular", Arial, sans-serif'
+  secondary: '"Source Serif Pro", "Garamond", Courier, serif'
