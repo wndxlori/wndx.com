@@ -1,3 +1,6 @@
+body {
+  background-color: #FDFAF5;
+}
 body.blog {
   padding-top: 90px;
 }
@@ -8,16 +11,62 @@ body.blog img.pull-right {
   padding-left: 15px;
 }
 
-.navbar-default.navbar-normal {
+.navbar-default {
+  background-color: #{{ site.data.template.color.muted }};
+}
+
+@media (min-width:768px) {
+  .navbar-default {
     padding: 10px 0;
-    background-color: #222;
+    background-color: transparent;
+  }
+
+  .navbar-nav {
+    margin-top: 5px;
+  }
+  .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.navbar-default .nav li a {
+  font-size: 1.2em;
+  color: #{{ site.data.template.color.bright }};
+}
+
+.navbar-default.navbar-shrink {
+  background-color: #{{ site.data.template.color.muted }};
+}
+
+.navbar-default.navbar-normal {
+  background-color: #{{ site.data.template.color.muted }};
+}
+
+.navbar-default .navbar-brand {
+  margin-top: 10px;
 }
 
 .navbar-default.navbar-normal .navbar-brand {
-    width:194px;
+    width:127px;
     height:38px;
     background-image:url(/img/logos/brand-small.png);
     background-repeat:no-repeat;
+    margin-top: 10px; // Good
+}
+
+header .intro-text {
+  color: #{{ site.data.template.color.bright }};
+}
+
+.btn:hover,
+.btn:focus,
+.open .dropdown-toggle.btn-primary {
+  border-color: #{{ site.data.template.color.secondary }};
 }
 
 .not-home header {
@@ -141,6 +190,14 @@ ul.social-buttons li a:hover
   font-family: {{ site.data.template.font.primary }};
 }
 
+.label-primary {
+  background-color: #{{ site.data.template.color.secondary-dark }};
+}
+
+.label-primary[href]:hover, .label-primary[href]:focus {
+  background-color: #{{ site.data.template.color.secondary }};
+}
+
 #recommendations blockquote {
   font-size: smaller;
 }
@@ -156,6 +213,10 @@ ul.social-buttons li a:hover
 
 aside.bg-light-gray {
     background-color: #f7f7f7;
+}
+
+#portfolio .portfolio-item .portfolio-caption {
+  background-color: #{{ site.data.template.color.bright }};
 }
 
 #talk legend {
@@ -222,7 +283,7 @@ aside.bg-light-gray {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.bright }};
 }
 
 #talk .talk-item .talk-caption h4 {

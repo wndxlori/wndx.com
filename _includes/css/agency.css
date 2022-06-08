@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    width:194px;
+    width:127px;
     height:38px;
     background-image:url(/img/logos/brand-small.png);
     background-repeat:no-repeat;
@@ -248,7 +248,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        width:388px;
+        width:251px;
         height:76px;
         background-image:url(/img/logos/brand.png);
         background-repeat:no-repeat;
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        width:194px;
+        width:127px;
         height:38px;
         background-image:url(/img/logos/brand-small.png);
         background-repeat:no-repeat;

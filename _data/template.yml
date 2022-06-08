@@ -4,6 +4,7 @@ color:
   secondary: 42EADD
   secondary-dark: 2D5A7A
   muted: 2D5A7A
+  bright: FDFAF5
 
 # Font Families
 font:
