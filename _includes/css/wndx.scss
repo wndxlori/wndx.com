@@ -59,6 +59,10 @@ body.blog img.pull-right {
     margin-top: 10px; // Good
 }
 
+header {
+  background-image: url('{{ site.baseurl }}/img/computer-desk-forest-teal.png');
+}
+
 header .intro-text {
   color: #{{ site.data.template.color.bright }};
 }
