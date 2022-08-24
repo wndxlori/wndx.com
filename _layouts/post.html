@@ -12,7 +12,10 @@ layout: blog
             {{ page.date | date: '%B %-d, %Y'}}
         </div>
         {% if page.feature.image %}
-          {% include post-image-feature.html %}
+        {% include post-image-feature.html %}
+        {% endif %}
+        {% if page.newsletter.image %}
+        {% include post-image-newsletter.html %}
         {% endif %}
         <div class="row text-justify">
             <div id="content" class="col-lg-12">

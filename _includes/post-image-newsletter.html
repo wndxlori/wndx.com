@@ -1,0 +1,13 @@
+<div class="row page-feature">
+	<div class="col-lg-12 page-image">
+		<img src="https://dragonrubydispatch.com/assets/images/{{ page.newsletter.image }}" class="img-responsive" alt="{{ page.title }}" itemprop="image">
+		{% if page.newsletter.credit %}
+		{{ page.newsletter.credit }}
+		{% endif %}
+	</div><!-- /.page-image -->
+	{% if page.image.caption %}
+	<div class="col-lg-12 page-image-caption">
+        <span class="text-muted">{{ page.newsletter.caption }}</span>
+	</div>
+	{% endif %}
+</div><!-- /.page-feature -->
