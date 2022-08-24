@@ -219,6 +219,15 @@ aside.bg-light-gray {
     background-color: #f7f7f7;
 }
 
+#webinar {
+  color: #{{ site.data.template.color.bright }};
+  background-color: #{{ site.data.template.color.secondary-dark }};
+}
+
+#webinar h2 {
+  color: #{{ site.data.template.color.bright }};
+}
+
 #portfolio .portfolio-item .portfolio-caption {
   background-color: #{{ site.data.template.color.bright }};
 }
