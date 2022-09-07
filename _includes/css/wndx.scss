@@ -228,6 +228,18 @@ aside.bg-light-gray {
   color: #{{ site.data.template.color.bright }};
 }
 
+#webinar .thanks-hero {
+  background-image: url('{{ site.baseurl }}img/workshops/6PAWebinarThankYouBG.png');
+  background-size:cover;
+  position: relative;
+  height: 100vh;
+  max-height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #portfolio .portfolio-item .portfolio-caption {
   background-color: #{{ site.data.template.color.bright }};
 }
