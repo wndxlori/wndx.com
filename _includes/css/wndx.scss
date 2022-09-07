@@ -228,6 +228,16 @@ aside.bg-light-gray {
   color: #{{ site.data.template.color.bright }};
 }
 
+//#webinar hr {
+//  display:flex;
+//  border:0px;
+//  color: #{{ site.data.template.color.primary }};
+//  height: 45px;
+//  background-image:url('{{ site.baseurl }}img/workshops/ArtDecoDivider3.png');
+//  background-repeat: no-repeat;
+//  align-self: center;
+//}
+
 #webinar .thanks-hero {
   background-image: url('{{ site.baseurl }}img/workshops/6PAWebinarThankYouBG.png');
   background-size:cover;
