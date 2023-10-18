@@ -2,7 +2,7 @@
 title: Rails 3.1
 subtitle: Confoo Montreal 2012
 layout: default
-modal-id: 4
+modal-id: 9
 img: rails_3-1.png
 thumbnail: rails_3-1_thumbnail.png
 alt: Rails 3.1

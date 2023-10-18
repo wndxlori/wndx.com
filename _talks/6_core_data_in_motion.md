@@ -2,12 +2,12 @@
 title: Core Data In Motion
 subtitle: RubyMotion &num;inspect 2014
 layout: default
-modal-id: 1
+modal-id: 6
 img: core_data_in_motion.png
 thumbnail: core_data_in_motion_thumbnail.png
 alt: Core Data In Motion
 project-date: May 2014
-talk_url: http://confreaks.tv/videos/inspect2014-coredata-and-rubymotion 
+talk_url: https://youtu.be/zMGsvb3_fJI?si=mi3dxves--hchByo&t=20 
 deck_url: https://speakerdeck.com/wndxlori/core-data-in-rubymotion-number-inspect
 category: RubyMotion
 description: | 

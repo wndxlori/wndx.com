@@ -2,7 +2,7 @@
 title: Powerful UX
 subtitle: Conferencia Rails 2010
 layout: default
-modal-id: 6
+modal-id: B
 img: powerful_ux.png
 thumbnail: powerful_ux_thumbnail.png
 alt: Powerful UX, not just for desktops anymore

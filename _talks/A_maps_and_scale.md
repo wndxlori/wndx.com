@@ -2,7 +2,7 @@
 title: Maps &amp; Scale
 subtitle: jQueryConf Boston 2011
 layout: default
-modal-id: 5
+modal-id: A
 img: maps_and_scale.png
 thumbnail: maps_and_scale_thumbnail.png
 alt: Maps and Scale

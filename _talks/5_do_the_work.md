@@ -1,15 +1,15 @@
 ---
-title: RubyMotion for Rails Developers Workshop
-subtitle: RailsConf 2017
+title: Do The Work
+subtitle: Madison+ Ruby 2016
 layout: default
-modal-id: 7
+modal-id: 5
 img: do_the_work.png
-thumbnail: railsconf.png
-alt: RailsConf 2017
-project-date: April 2017
-talk_url: http://confreaks.tv/videos/madison+ruby2016-do-the-work 
+thumbnail: madison_ruby.jpg
+alt: Do The Work
+project-date: July 2016
+talk_url: https://youtu.be/XpvquyuKjUg?si=lkXEpr9577tdA36z 
 deck_url: https://speakerdeck.com/wndxlori/do-the-work-madison-ruby-the-epilogue
-category: RubyMotion
+category: Careers
 description: |
   Have you ever run into that problem you are trying to solve, that is tangential to your core business? It’s easy to run off, look for a gem, and use it.
   What is harder is when that gem … isn’t quite right. Maybe you should look for an alternative. Maybe you should fix the gem. Or if your problem is different enough, you can fork the gem.  
