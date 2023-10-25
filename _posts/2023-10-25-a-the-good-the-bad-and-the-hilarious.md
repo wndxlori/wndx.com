@@ -12,7 +12,7 @@ tags:
 status: published
 published: true
 feature:
-  image: AI-6-Fingers.png
+  image: AI-6-fingers.png
 ---
 
 Let's talk about AI. Or, as I prefer to call it ML - Machine Learning. Despite the fact that people have been working on artificial intelligence for many decades (a friend of mine was working on a masters thesis around AI in the early 90's), we still aren't that close to something the average person would call **intelligent**.
