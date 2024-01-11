@@ -23,6 +23,7 @@ I quickly searched through my shelves, and found a sacrificial binder, from a pr
 <div class="row">
   <div class="col-md-offset-4 col-lg-4">
     <video autoplay controls preload="auto" loop muted height="450px">
+      <source src="/img/original/FIFO.webm" type="video/webm">
       <source src="/img/original/FIFO.mp4" type="video/mp4">
       <source src="/img/original/FIFO.mov" type="video/quicktime">
       Your browser does not support the video tag.
