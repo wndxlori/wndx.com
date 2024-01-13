@@ -48,6 +48,6 @@ Why does this sort of thing keep happening? Why do people spend so much time and
 
 Because one of life's lessons that is mostly learned from <strike>very expensive mistakes</strike> experience, is that sometimes you can’t just throw money at your problems to make them go away. Sometimes it takes a little bit more …
 
-If you'd like to discuss your app idea (or app project in progress) with me, I have a limited number of free consultation spots available for the people on my list. But do it fast, because I have a couple other projects on the horizon and I'll be closing the door on the free sessions shortly.
+If you'd like to discuss your app idea (or app project in progress) with me, I have a limited number of free consultation spots available for the people reading my blog. But do it fast, because I have a couple other projects on the horizon and I'll be closing the door on the free sessions shortly.
 
 ** Why yes, I did scan that document to save it. I'm **still** not ready to let COMPLETELY go.
