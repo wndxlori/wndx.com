@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cta
 title: Games for Grandma
 categories:
 - game development
