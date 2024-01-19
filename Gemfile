@@ -3,7 +3,6 @@ source "https://rubygems.org"
 
 gem "jekyll", '~> 4.2'
 gem "capistrano", '~> 2.15'
-gem "rmagick"
 
 group "jekyll_plugins" do
   gem "jekyll-archives"
