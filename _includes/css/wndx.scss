@@ -219,6 +219,37 @@ aside.bg-light-gray {
     background-color: #f7f7f7;
 }
 
+#webinar {
+  color: #{{ site.data.template.color.bright }};
+  background-color: #{{ site.data.template.color.secondary-dark }};
+}
+
+#webinar h2 {
+  color: #{{ site.data.template.color.bright }};
+}
+
+//#webinar hr {
+//  display:flex;
+//  border:0px;
+//  color: #{{ site.data.template.color.primary }};
+//  height: 45px;
+//  background-image:url('{{ site.baseurl }}img/workshops/ArtDecoDivider3.png');
+//  background-repeat: no-repeat;
+//  align-self: center;
+//}
+
+#webinar .thanks-hero {
+  background-image: url('{{ site.baseurl }}img/workshops/6PAWebinarThankYouBG.png');
+  background-size:cover;
+  position: relative;
+  height: 100vh;
+  max-height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #portfolio .portfolio-item .portfolio-caption {
   background-color: #{{ site.data.template.color.bright }};
 }
