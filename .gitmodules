@@ -1,0 +1,3 @@
+[submodule "start-here"]
+	path = start-here
+	url = git@github.com:wndxlori/linktree.git
