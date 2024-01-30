@@ -10,7 +10,7 @@ tags:
 status: published
 published: true
 feature:
-  image: Teamb-logo.png
+  image: TeamB-logo.png
 ---
 
 I saw an announcement last month for the latest release of RADStudio 12. RADStudio is a product of Idera's Embarcadero subsidiary. I had a long history of using Embarcadero products. Well... CodeGear products. No, Inprise. Actually Borland products.  Yup, there's been a lot of name changing and acquisitions and divestitures in the space of developer tools over the years. Unfortunately, in the shuffle, they ended up discontinuing all the products I used,  supported and advocated for - like JBuilder (Java) and 3rdRail (for Ruby).
