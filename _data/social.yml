@@ -1,13 +1,15 @@
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-- title: twitter
-  url: https://twitter.com/wndxlori
-- title: facebook
-  url: https://www.facebook.com/loriolson
-- title: linkedin
+#- title: twitter
+#  url: https://twitter.com/wndxlori
+- title: linkedin-in
   url: https://ca.linkedin.com/in/loriolson
 - title: instagram
   url: https://instagram.com/wndxlori
-#- title: bitbucket
-#  url: https://bitbucket.org/wndx/
+- title: facebook-f
+  url: https://www.facebook.com/wndx.lori.olson/
+- title: youtube
+  url: https://www.youtube.com/@WNDX
+- title: mastodon
+  url: https://ruby.social/@wndxlori
 #- title: github
 #  url: http://github.com/wndxlori
