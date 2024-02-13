@@ -3,7 +3,8 @@ layout: archive
 permalink: /archives/tag/
 ---
 <ul class="posts">
-    {% for item in site.tags %}
+    {% assign sorted-tags = site.tags | sort %}
+    {% for item in sorted-tags %}
     <li class="{% if page.title == item[0] %}active{% endif %}">
         <a href="/archives/tag/{{item[0]|slugify}}/">{{ item[0] }}</a>
     </li>

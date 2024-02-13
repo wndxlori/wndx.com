@@ -3,7 +3,9 @@ layout: archive
 permalink: /archives/category/
 ---
 <ul class="posts">
-  {% for item in site.categories %}
+  {% assign sorted-categories = site.categories | sort %}
+
+  {% for item in sorted-categories %}
     <li class="{% if page.title == item[0] %}active{% endif %}">
         <a href="/archives/category/{{item[0]|slugify}}/">{{ item[0] }}</a>
     </li>
