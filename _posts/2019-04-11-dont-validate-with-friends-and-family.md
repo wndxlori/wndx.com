@@ -1,8 +1,8 @@
 ---
-layout: 6pa-cta
+layout: newsletter-cta
 title: Don't Validate with Friends & Family
 categories:
-- workshops
+- business
 tags:
 - webinar
 - 6packapps
@@ -69,5 +69,3 @@ and building your app, you can select from those people, and get them to help yo
 design prototype. They can help you with your user stories. They can beta test your first versions. Getting 
 people involved and invested will ensure that your audience is primed and ready when your v1.0 is ready to
 go. 
-
-## 6 Pack Apps

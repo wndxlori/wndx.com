@@ -15,7 +15,7 @@ feature:
   credit: <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://fb.watch/oLjh5HYJCO/​" target="_blank" rel="noopener noreferrer" title="Little Knits on Facebook"><span style="display:inline-block;padding:2px 3px"></span><span style="display:inline-block;padding:2px 3px">Little Knits</span></a>
 
 ---
-This is an absolutely fascinating [video](https://fb.watch/oLjh5HYJCO/​ "LittleKnits"), that illustrates the point of today's topic so very well. There is something almost hypnotic about watching a master of their craft work their magic, turning this damaged knit garment into something that looks new again.
+This is an absolutely fascinating [video](https://youtu.be/SmR_9cBHLgI?si=3phG96iAeu6LgGpL), that illustrates the point of today's topic so very well. There is something almost hypnotic about watching a master of their craft work their magic, turning this damaged knit garment into something that looks new again.
 
 As the video progresses, you see the process, all the steps, and even imagine that just maybe you could watch this video and duplicate the process to fix your own hole.
 

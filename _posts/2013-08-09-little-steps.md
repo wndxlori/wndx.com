@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newsletter-cta
 title: Little Steps
 categories:
 - business
