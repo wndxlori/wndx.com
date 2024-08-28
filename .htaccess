@@ -3,6 +3,7 @@
     Header set Access-Control-Allow-Origin "wndx.school"
     Header set Access-Control-Allow-Origin "wimby.ca"
     Header set Access-Control-Allow-Origin "6packapps.io"
+    Header set Access-Control-Allow-Origin "6packapps.ca"
     Header set Access-Control-Allow-Origin "dragonrubydispatch.com"
   </FilesMatch>
 </IfModule>
